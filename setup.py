@@ -8,6 +8,7 @@ def get_required_packages(file_path):
 
         if HYPHEN_E_DOT in required_packages:
             required_packages.remove(HYPHEN_E_DOT)
+    return required_packages
 
 
 setup(
