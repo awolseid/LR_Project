@@ -8,27 +8,29 @@ from src.exception import CustomException
 from src.logger import logging
 
 class GetData:
-    def __init__(self):
-        self.raw_data_path: str=os.path.join("inputdata","data.csv")
-        self.train_data_path: str=os.path.join("inputdata","train.csv")
-        self.test_data_path: str=os.path.join("inputdata","test.csv")
+    def __init__(self, data_to_be_saved_folder:str="input_data"):
+        self.folder=data_to_be_saved_folder
+        
+        self.raw_data_path=os.path.join(self.folder, "data.csv")
+        self.train_data_path=os.path.join(self.folder, "train.csv")
+        self.test_data_path=os.path.join(self.folder, "test.csv")
 
     def import_data(self):
         try:
             df=pd.read_csv("notebook\data\ImpactCOVID.csv")
-            logging.info("Data imported.")
 
-            df.to_csv(self.raw_data_path, index=False, header=True)
+            os.makedirs(os.path.dirname(self.raw_data_path), exist_ok=True)
 
-            os.makedirs(os.path.dirname(self.train_data_path), exist_ok=True)
+            df.to_csv(self.raw_data_path, index=False, header=True)   
+            logging.info(f'Data imported and saved in "{self.folder}" folder.')        
 
             train_data, test_data=train_test_split(df, test_size=0.2, random_state=42)
-            loggin.info("Train-Test split completed.")
+            logging.info("Train-Test split completed.")
 
             train_data.to_csv(self.train_data_path, index=False, header=True)
             test_data.to_csv(self.test_data_path, index=False, header=True)
-            loggin.info("Train-Test data saved.")
-            loggin.info("Data importing completed.")
+            logging.info(f'Loaded data saved in "{self.folder}" folder.')
+    
             return (self.train_data_path, self.test_data_path)
 
         except Exception as e:

@@ -1,0 +1,154 @@
+UniqueID,Sex,Age,Marital,Education,Employment,Income,NumRooms,FamilyImpact,PsychoImpact,EconomicImpact
+90,Female,29,Single,Grade 1-8,Unemployed,No Income,1,16.36363602,20.0,54
+584,Female,35,Married,Grade 1-8,Employed (govt or private),1651-3200,1,23.63636398,16.92307663,62
+310,Female,62,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,2,7.272727489,7.692307472,54
+697,Male,36,Married,Grade 1-8,Self-employed,601-1650,3,16.36363602,40.0,48
+466,Male,28,Single,Grade 9-12,Self-employed,3201-7800,1,45.45454407,18.46153831,68
+417,Female,35,Single,Graduates,Unemployed,No Income,2,23.63636398,27.69230843,44
+350,Female,66,"Other (divorced, widowed, separated)",No formal education,Laid off due to COVID-19,No Income,2,47.27272797,55.38461685,70
+376,Male,27,"Other (divorced, widowed, separated)",Graduates,Employed (govt or private),3201-7800,2,9.090909004,21.53846169,42
+603,Female,28,Married,Graduates,Employed (govt or private),3201-7800,1,50.90909195,41.53845978,52
+486,Male,70,Married,Grade 1-8,Unemployed,No Income,9,18.18181801,18.46153831,48
+618,Male,33,Single,Grade 1-8,Laid off due to COVID-19,No Income,1,5.454545498,26.15384674,44
+150,Female,66,Married,No formal education,Unemployed,No Income,3,38.18181992,24.61538506,64
+568,Female,45,"Other (divorced, widowed, separated)",No formal education,Self-employed,<600,2,25.45454597,35.38461685,68
+738,Male,27,Married,Grade 1-8,Unemployed,No Income,1,20.0,15.38461494,60
+526,Female,35,Married,Grade 1-8,Unemployed,No Income,1,45.45454407,35.38461685,62
+532,Male,50,Married,No formal education,Self-employed,3201-7800,3,30.90909004,16.92307663,52
+290,Female,38,"Other (divorced, widowed, separated)",Grade 1-8,Laid off due to COVID-19,No Income,2,40.0,80.0,46
+458,Female,45,Married,Grade 9-12,Self-employed,<600,3,34.54545593,27.69230843,66
+735,Female,39,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,1,20.0,9.230769157,54
+31,Female,43,Married,Grade 1-8,Employed (govt or private),601-1650,2,50.90909195,32.30769348,60
+402,Male,36,Married,Grade 1-8,Self-employed,>=7801,2,27.27272797,13.84615421,44
+61,Female,50,"Other (divorced, widowed, separated)",Grade 9-12,Laid off due to COVID-19,No Income,1,50.90909195,41.53845978,74
+1,Female,59,Married,No formal education,Laid off due to COVID-19,No Income,3,49.09090805,32.30769348,80
+209,Female,35,Married,Graduates,Self-employed,1651-3200,2,47.27272797,41.53845978,54
+647,Female,38,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,1,21.81818199,18.46153831,62
+58,Male,48,Married,Grade 1-8,Self-employed,3201-7800,2,38.18181992,12.30769253,42
+575,Female,40,"Other (divorced, widowed, separated)",Grade 9-12,Unemployed,No Income,1,52.72727203,44.61538315,52
+702,Female,29,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,2,20.0,20.0,60
+638,Female,23,Single,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,38.46154022,28
+271,Female,80,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,1,45.45454407,33.84615326,54
+786,Female,28,Married,Grade 1-8,Employed (govt or private),1651-3200,1,21.81818199,13.84615421,60
+346,Female,40,Married,Grade 9-12,Employed (govt or private),601-1650,2,45.45454407,47.69230652,64
+393,Female,45,Married,Grade 9-12,Employed (govt or private),1651-3200,1,12.72727299,9.230769157,54
+332,Male,57,Married,Grade 1-8,Self-employed,3201-7800,2,36.36363602,53.84615326,48
+528,Male,29,Single,Grade 9-12,Unemployed,No Income,2,5.454545498,6.153846264,68
+494,Female,56,Single,No formal education,Employed (govt or private),<600,2,20.0,1.538461566,32
+774,Male,54,Married,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,15.38461494,48
+785,Female,48,Married,Grade 1-8,Unemployed,No Income,1,32.72727203,27.69230843,34
+191,Female,30,Married,Grade 1-8,Unemployed,No Income,1,47.27272797,33.84615326,80
+645,Male,26,Single,Grade 9-12,Unemployed,No Income,2,18.18181801,15.38461494,64
+499,Female,55,Married,No formal education,Laid off due to COVID-19,No Income,1,45.45454407,7.692307472,62
+707,Female,19,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,1,21.81818199,6.153846264,54
+300,Male,41,Married,Grade 1-8,Self-employed,601-1650,2,16.36363602,23.07692337,44
+714,Female,23,"Other (divorced, widowed, separated)",Grade 1-8,Laid off due to COVID-19,No Income,1,49.09090805,47.69230652,74
+753,Female,26,Single,Grade 1-8,Self-employed,<600,2,20.0,30.76922989,36
+321,Female,61,Married,Grade 1-8,Self-employed,3201-7800,3,7.272727489,15.38461494,42
+621,Female,20,Single,Graduates,"Other (student, retired, housewife)",3201-7800,3,10.909091,10.76923084,48
+122,Female,35,Single,No formal education,Self-employed,<600,1,38.18181992,27.69230843,64
+101,Female,29,Married,Graduates,Employed (govt or private),3201-7800,1,20.0,4.615384579,40
+803,Male,28,Single,Graduates,Employed (govt or private),3201-7800,1,27.27272797,9.230769157,34
+765,Female,28,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,50.90909195,43.07692337,68
+113,Female,27,Married,Graduates,Unemployed,No Income,2,54.54545593,46.15384674,66
+320,Male,29,Married,Graduates,Laid off due to COVID-19,No Income,1,18.18181801,15.38461494,26
+721,Female,25,Married,Grade 1-8,Self-employed,3201-7800,1,12.72727299,10.76923084,42
+439,Female,42,Married,Grade 9-12,Unemployed,No Income,4,23.63636398,6.153846264,36
+692,Female,21,Married,Grade 1-8,Unemployed,No Income,1,27.27272797,7.692307472,24
+26,Female,27,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,12.72727299,12.30769253,64
+297,Female,39,Single,Grade 9-12,Unemployed,No Income,2,12.72727299,13.84615421,64
+703,Female,22,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,2,21.81818199,20.0,68
+267,Female,35,Married,Graduates,Employed (govt or private),3201-7800,2,50.90909195,44.61538315,34
+272,Female,45,Married,Grade 9-12,Self-employed,1651-3200,2,47.27272797,33.84615326,50
+469,Female,25,Single,Grade 1-8,Employed (govt or private),601-1650,1,52.72727203,38.46154022,52
+108,Female,27,Married,No formal education,"Other (student, retired, housewife)",No Income,1,14.54545498,9.230769157,66
+548,Female,48,Single,Grade 1-8,Unemployed,>=7801,1,9.090909004,3.076923132,48
+441,Female,37,Married,Grade 1-8,Self-employed,601-1650,1,23.63636398,32.30769348,52
+253,Female,42,"Other (divorced, widowed, separated)",No formal education,Self-employed,601-1650,1,21.81818199,16.92307663,64
+236,Female,36,Single,Grade 9-12,Unemployed,No Income,2,38.18181992,41.53845978,50
+154,Female,30,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,1,56.36363602,47.69230652,50
+214,Male,26,Single,Graduates,Self-employed,>=7801,2,34.54545593,23.07692337,54
+521,Female,35,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,1,27.27272797,10.76923084,36
+587,Female,28,Single,Graduates,Unemployed,No Income,1,7.272727489,10.76923084,62
+510,Female,36,"Other (divorced, widowed, separated)",Grade 9-12,Employed (govt or private),1651-3200,1,47.27272797,35.38461685,60
+768,Female,18,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,1,56.36363602,41.53845978,64
+14,Male,46,Married,Grade 1-8,Unemployed,601-1650,2,23.63636398,27.69230843,32
+479,Male,48,Married,Grade 9-12,Self-employed,3201-7800,2,27.27272797,4.615384579,70
+323,Female,42,Married,Grade 1-8,Self-employed,601-1650,1,12.72727299,10.76923084,12
+652,Female,27,Married,Grade 1-8,Employed (govt or private),1651-3200,1,18.18181801,9.230769157,56
+718,Female,36,Married,Grade 9-12,Unemployed,No Income,3,50.90909195,46.15384674,72
+284,Male,20,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,1,30.90909004,13.84615421,66
+796,Male,42,Single,Graduates,Unemployed,No Income,5,9.090909004,7.692307472,54
+404,Male,31,Married,Grade 1-8,Self-employed,601-1650,1,29.09090996,67.69230652,34
+2,Female,60,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,2,52.72727203,35.38461685,72
+767,Female,35,Single,Grade 9-12,Employed (govt or private),1651-3200,2,52.72727203,40.0,44
+222,Female,23,Married,Grade 1-8,Self-employed,601-1650,1,7.272727489,30.76922989,40
+673,Male,32,Single,Grade 9-12,Self-employed,>=7801,9,38.18181992,12.30769253,56
+148,Female,64,Married,No formal education,Unemployed,No Income,1,50.90909195,23.07692337,72
+495,Female,36,Single,Grade 1-8,Laid off due to COVID-19,No Income,1,40.0,3.076923132,48
+384,Female,32,Married,Grade 1-8,Self-employed,601-1650,1,29.09090996,13.84615421,62
+741,Male,22,Single,Grade 9-12,Employed (govt or private),1651-3200,1,29.09090996,12.30769253,50
+388,Female,36,Married,No formal education,Unemployed,1651-3200,2,14.54545498,24.61538506,38
+184,Male,63,Married,Grade 1-8,Employed (govt or private),1651-3200,2,27.27272797,10.76923084,52
+213,Male,35,Single,Graduates,Employed (govt or private),3201-7800,2,23.63636398,15.38461494,50
+251,Female,45,Married,Grade 9-12,Employed (govt or private),601-1650,1,60.0,26.15384674,62
+576,Female,42,Married,Grade 1-8,Unemployed,No Income,2,40.0,52.30769348,80
+412,Female,47,Married,Grade 1-8,Employed (govt or private),601-1650,1,40.0,24.61538506,60
+336,Female,28,Married,Grade 1-8,Self-employed,>=7801,6,29.09090996,9.230769157,36
+139,Male,28,Single,Grade 1-8,"Other (student, retired, housewife)",<600,1,10.909091,6.153846264,60
+580,Male,55,Married,Grade 1-8,Employed (govt or private),601-1650,1,52.72727203,47.69230652,48
+716,Male,32,Married,Graduates,Employed (govt or private),1651-3200,2,49.09090805,44.61538315,56
+677,Female,26,Single,Grade 1-8,Unemployed,No Income,2,16.36363602,15.38461494,60
+91,Female,32,Married,Grade 9-12,Unemployed,No Income,2,10.909091,10.76923084,58
+635,Male,37,Married,Grade 1-8,Self-employed,601-1650,1,23.63636398,38.46154022,52
+170,Male,30,Married,Grade 1-8,Self-employed,601-1650,1,20.0,13.84615421,70
+401,Female,28,Married,Graduates,Self-employed,1651-3200,4,30.90909004,24.61538506,56
+650,Female,36,Married,Grade 1-8,Employed (govt or private),601-1650,1,14.54545498,18.46153831,52
+119,Male,46,Single,No formal education,Unemployed,No Income,1,29.09090996,30.76922989,56
+47,Female,31,Single,Grade 1-8,Unemployed,No Income,2,34.54545593,4.615384579,72
+725,Male,28,Single,Grade 9-12,Self-employed,601-1650,2,7.272727489,4.615384579,56
+162,Female,30,"Other (divorced, widowed, separated)",No formal education,Self-employed,601-1650,2,38.18181992,36.92307663,64
+244,Female,45,Married,Grade 1-8,Unemployed,No Income,1,9.090909004,16.92307663,64
+599,Male,29,Single,Grade 1-8,Self-employed,1651-3200,2,25.45454597,16.92307663,58
+429,Male,37,Married,No formal education,Self-employed,601-1650,1,21.81818199,6.153846264,70
+715,Female,32,Married,Grade 1-8,Unemployed,No Income,1,49.09090805,44.61538315,72
+392,Female,57,"Other (divorced, widowed, separated)",Graduates,"Other (student, retired, housewife)",601-1650,4,16.36363602,6.153846264,54
+579,Male,42,Married,Grade 1-8,Self-employed,1651-3200,2,23.63636398,12.30769253,56
+256,Female,70,"Other (divorced, widowed, separated)",No formal education,"Other (student, retired, housewife)",<600,1,34.54545593,24.61538506,62
+577,Female,18,Single,Grade 1-8,Employed (govt or private),1651-3200,2,23.63636398,4.615384579,44
+315,Male,32,Married,Graduates,Employed (govt or private),>=7801,1,27.27272797,13.84615421,56
+457,Female,41,Single,Grade 1-8,Laid off due to COVID-19,No Income,3,34.54545593,20.0,62
+208,Male,60,Married,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,9.230769157,58
+353,Female,37,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,56.36363602,41.53845978,64
+750,Male,21,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,2,5.454545498,12.30769253,72
+583,Female,29,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,23.63636398,20.0,68
+298,Female,35,Married,Grade 1-8,Self-employed,1651-3200,1,36.36363602,80.0,58
+596,Female,18,Single,Grade 9-12,"Other (student, retired, housewife)",601-1650,3,32.72727203,23.07692337,52
+370,Male,33,Married,Grade 1-8,Self-employed,>=7801,4,29.09090996,6.153846264,50
+141,Male,38,Single,Graduates,Self-employed,601-1650,1,9.090909004,13.84615421,56
+387,Female,29,Single,Graduates,"Other (student, retired, housewife)",601-1650,3,60.0,1.538461566,46
+454,Male,49,Married,Graduates,Employed (govt or private),>=7801,5,58.18181992,15.38461494,66
+6,Male,42,Married,Grade 1-8,Employed (govt or private),1651-3200,3,38.18181992,80.0,58
+590,Female,36,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,1651-3200,2,25.45454597,29.23077011,26
+155,Female,55,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,1651-3200,3,45.45454407,23.07692337,48
+705,Female,36,Married,Graduates,Unemployed,No Income,3,23.63636398,6.153846264,48
+322,Male,27,Married,Graduates,Employed (govt or private),3201-7800,2,7.272727489,23.07692337,42
+121,Male,28,Single,Grade 1-8,Laid off due to COVID-19,No Income,2,41.81818008,47.69230652,64
+529,Male,34,Married,Grade 1-8,Employed (govt or private),601-1650,1,16.36363602,10.76923084,64
+363,Female,39,Married,Grade 1-8,Employed (govt or private),>=7801,2,25.45454597,10.76923084,40
+736,Female,32,Married,Grade 1-8,Employed (govt or private),601-1650,1,25.45454597,13.84615421,58
+464,Female,48,"Other (divorced, widowed, separated)",Grade 9-12,Unemployed,No Income,4,30.90909004,15.38461494,68
+135,Male,29,Single,Graduates,Employed (govt or private),3201-7800,3,18.18181801,0.0,38
+156,Female,55,Married,No formal education,Self-employed,601-1650,2,10.909091,15.38461494,70
+643,Female,46,Married,Grade 1-8,Self-employed,1651-3200,2,23.63636398,16.92307663,58
+383,Female,43,Married,Grade 1-8,Employed (govt or private),1651-3200,1,29.09090996,20.0,68
+681,Male,41,Married,Grade 1-8,Self-employed,1651-3200,1,40.0,7.692307472,44
+220,Male,24,Single,Grade 1-8,Unemployed,No Income,1,32.72727203,49.23077011,46
+551,Female,45,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,1,21.81818199,16.92307663,52
+345,Female,55,"Other (divorced, widowed, separated)",No formal education,Employed (govt or private),<600,2,49.09090805,47.69230652,68
+130,Male,21,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,2,7.272727489,4.615384579,34
+511,Male,65,Married,Graduates,Employed (govt or private),3201-7800,4,36.36363602,40.0,56
+286,Male,52,Married,Grade 1-8,"Other (student, retired, housewife)",1651-3200,1,34.54545593,80.0,36
+166,Male,32,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,29.09090996,7.692307472,70
+205,Male,42,Married,Grade 9-12,Unemployed,No Income,2,20.0,16.92307663,56
+666,Female,36,Married,No formal education,Unemployed,No Income,3,21.81818199,10.76923084,54
