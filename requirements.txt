@@ -3,6 +3,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost
-xgboost
-# -e . # '-e' is used for building the package.
+# catboost
+# xgboost
+-e . # '-e' is used for building the package.
