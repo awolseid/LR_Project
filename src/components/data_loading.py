@@ -7,6 +7,8 @@ from sklearn.model_selection import train_test_split
 from src.exception import CustomException
 from src.logger import logging
 
+from src.components.data_transformation import DataTransformation
+
 class GetData:
     def __init__(self, data_to_be_saved_folder:str="input_data"):
         self.folder=data_to_be_saved_folder
@@ -29,12 +31,20 @@ class GetData:
 
             train_data.to_csv(self.train_data_path, index=False, header=True)
             test_data.to_csv(self.test_data_path, index=False, header=True)
-            logging.info(f'Loaded data saved in "{self.folder}" folder.')
+            logging.info(f'Train & Test data saved in "{self.folder}" folder.')
     
             return (self.train_data_path, self.test_data_path)
 
         except Exception as e:
             raise CustomException(e, sys)
+
+if __name__=="__main__":
+    obj=GetData()
+    train_path, test_path=obj.import_data()
+
+    data_transformation=DataTransformation()
+    data_transformation.transform_data(train_path, test_path)
+
 
 
 
