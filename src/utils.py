@@ -8,6 +8,16 @@ import dill
 from src.exception import CustomException
 
 
+
+def split_data(df:pd.DataFrame, test_size, random_state):
+    try:
+        train_data, test_data = train_test_split(df, test_size, random_state)
+        return (train_data, test_data)
+
+    except Exception as e:
+        raise CustomException(e, sys)
+
+
 def save_object(file_path, obj):
     try:
         dir_path=os.path.dirname(file_path)
@@ -19,8 +29,3 @@ def save_object(file_path, obj):
 
     except Exception as e:
         raise CustomException(e, sys)
-
-
-
-
-## train test split

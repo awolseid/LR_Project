@@ -12,7 +12,7 @@ from src.logger import logging
 from src.utils import save_object
 
 class DataTransformation:
-    def __init__(self, preprocessor_folder="input_data"):
+    def __init__(self, preprocessor_folder="input_preprocessor"):
         self.folder=preprocessor_folder
         self.preprocessor_file_path=os.path.join(self.folder, "preprocessor.pkl")
     
