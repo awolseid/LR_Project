@@ -9,30 +9,37 @@ from src.logger import logging
 
 from src.components.data_transformation import DataTransformation
 
-class GetData:
-    def __init__(self, saving_folder):
-        self.saving_folder = saving_folder     
-        self.raw_data_path = os.path.join(self.saving_folder, "data.csv")
-        self.train_data_path = os.path.join(self.saving_folder, "train.csv")
-        self.test_data_path = os.path.join(self.saving_folder, "test.csv")
+class DataImporter:
+    def __init__(self, reading_data_path):
+        self.reading_data_path = reading_data_path
+        self.imported_data = None
 
-    def import_data(self, reading_data_path):
+    def import_data(self): 
         try:
-            df = pd.read_csv(reading_data_path)
+            self.imported_data = pd.read_csv(reading_data_path)
+            logging.info(f'Data imported.') 
+            return self.imported_data
+        
+        except Exception as e:
+            raise CustomException(e, sys)
 
-            os.makedirs(self.saving_folder, exist_ok=True) 
-            #### os.makedirs(os.path.dirname(self.raw_data_path), exist_ok=True)
-            df.to_csv(self.raw_data_path, index=False, header=True)   
-            logging.info(f'Data imported and saved in "{self.saving_folder}" folder.')        
+    def save_data(self, saving_folder):
+        try:
+            raw_data_path = os.path.join(saving_folder, "data.csv")
+            train_data_path = os.path.join(saving_folder, "train.csv")
+            test_data_path = os.path.join(saving_folder, "test.csv")
+            
+            self.imported_data.to_csv(raw_data_path, index=False, header=True)   
+            logging.info(f'Imported data saved in "{saving_folder}" folder.')        
 
-            train_data, test_data = train_test_split(df, test_size=0.2, random_state=42)
+            train_data, test_data = train_test_split(self.imported_data, test_size=0.2, random_state=42)
             logging.info("Data split to Train and Test.")
 
-            train_data.to_csv(self.train_data_path, index=False, header=True)
-            test_data.to_csv(self.test_data_path, index=False, header=True)
-            logging.info(f'Train & Test data saved in "{self.saving_folder}" folder.')
+            train_data.to_csv(train_data_path, index=False, header=True)
+            test_data.to_csv(test_data_path, index=False, header=True)
+            logging.info(f'Train & Test data saved in "{saving_folder}" folder.')
     
-            return (self.train_data_path, self.test_data_path)
+            return (train_data_path, test_data_path)
 
         except Exception as e:
             raise CustomException(e, sys)
@@ -40,15 +47,21 @@ class GetData:
 
 if __name__=="__main__":
     reading_data_path = "notebook\data\ImpactCOVID.csv"
-    saving_folder = "input_data"
+    data_saving_folder = "input_data"
     
-    obj = GetData(saving_folder=saving_folder)
-    train_path, test_path = obj.import_data(reading_data_path=reading_data_path)
+    obj = DataImporter(reading_data_path=reading_data_path)
+    data_df = obj.import_data()
 
-    data_transformation = DataTransformation()
-    data_transformation.transform_data(train_path, test_path)
+    train_path, test_path = obj.save_data(saving_folder=data_saving_folder)
 
+    target_variable = "EconomicImpact"
+    numerical_inputs = ['Age', 'NumRooms']
+    categorical_inputs = ['Sex', 'Marital', 'Education', 'Employment', 'Income']
 
+    data_transformation = DataTransformation(target_variable, numerical_inputs, categorical_inputs)
+    transformed_train_array, transformed_test_array = data_transformation.transform_data(train_path, test_path)
 
+    processor_saving_folder = "input_processor"
+    preprocessor_saved_path = data_transformation.save_preprocessor(saving_folder=processor_saving_folder)
 
 
