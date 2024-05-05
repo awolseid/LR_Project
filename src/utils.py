@@ -13,18 +13,10 @@ import dill
 
 from src.exception import CustomException
 
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 
-def split_data(df:pd.DataFrame, test_size, random_state):
-    try:
-        train_data, test_data = train_test_split(df, test_size, random_state)
-        return (train_data, test_data)
-
-    except Exception as e:
-        raise CustomException(e, sys)
-
-
-def data_preprocessor(numerical_inputs, categorical_inputs):
+def data_preprocessor(numerical_inputs: list, categorical_inputs: list):
     try:
         numerical_preprocessing = Pipeline(steps=[
             ("imputer", SimpleImputer(strategy="median")),
@@ -54,6 +46,17 @@ def save_object(file_path, object):
 
         with open(file_path, "wb") as file_obj:
             dill.dump(object, file_obj)
+
+    except Exception as e:
+        raise CustomException(e, sys)
+
+
+def evaluate_model(actual, predicted):
+    try:
+        MAE = mean_absolute_error(actual, predicted)
+        MSE = mean_squared_error(actual, predicted)
+        R2 = r2_score(actual, predicted)    
+        return (MAE, MSE, R2)
 
     except Exception as e:
         raise CustomException(e, sys)
