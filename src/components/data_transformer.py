@@ -37,9 +37,13 @@ class Transformer:
             if self.data_transformer is None:
                 raise ValueError("No data transformer.")
             
-            transformer_saving_path = os.path.join(saving_folder, "preprocessor.pkl")
+            artifacts = f"artifacts/{saving_folder}"
+            os.makedirs(artifacts, exist_ok=True)
+
+            transformer_saving_path = os.path.join(artifacts, "preprocessor.pkl")
+            
             save_object(file_path=transformer_saving_path, object=self.data_transformer)
-            logging.info(f"Pickle file of data preprocessor saved in {saving_folder} folder.")
+            logging.info(f'Pickle file of data preprocessor saved in "{artifacts}".')
 
             return transformer_saving_path
 

@@ -101,12 +101,15 @@ class ModelTrainer:
             if self.are_models_tested == False:
                 raise ValueError("No model is tested.")
 
-            models_summary_path = os.path.join(saving_folder, "train_test_results.csv")
-            os.makedirs(os.path.dirname(models_summary_path), exist_ok=True)
+            artifacts = f"artifacts/{saving_folder}"
+
+            os.makedirs(artifacts, exist_ok=True)
+
+            models_summary_path = os.path.join(artifacts, "train_test_results.csv")            
 
             results_df = pd.merge(self.train_results_df, self.test_results_df, on="Model").sort_values(by=["Test_R2"],ascending=False)
             results_df.to_csv(models_summary_path, index=False, header=True)
-            logging.info(f"Model(s) evaluations saved in {os.path.dirname(models_summary_path)} folder.")
+            logging.info(f'Model(s) evaluations saved in "{artifacts}".')
 
             return models_summary_path
 
@@ -118,14 +121,16 @@ class ModelTrainer:
             if self.are_models_trained == False:
                 raise ValueError("No model is trained.")
             
-            os.makedirs(saving_folder, exist_ok=True)
+            artifacts = f"artifacts/{saving_folder}"
+            os.makedirs(artifacts, exist_ok=True)
+
             for model_type, trained_model in zip(self.model_types, self.models):
-                trained_model_saving_path = os.path.join(saving_folder, f"{model_type}.pkl")
+                trained_model_saving_path = os.path.join(artifacts, f"{model_type}.pkl")
                 save_object(file_path=trained_model_saving_path, object=trained_model)
             
-            logging.info(f"Pickle files of trained models saved in {saving_folder} folder.")
+            logging.info(f'Pickle files of trained models saved in "{artifacts}".')
 
-            return f"Pickle files of trained models saved in {saving_folder} folder."
+            return f'Pickle files of trained models saved in "{artifacts}".'
 
         except Exception as e:
             raise CustomException(e, sys)

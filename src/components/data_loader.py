@@ -44,14 +44,15 @@ class Data:
             if self.is_data_split == False:
                 raise ValueError("No train and test split data.")
 
-            train_data_path = os.path.join(saving_folder, "train.csv")
-            test_data_path = os.path.join(saving_folder, "test.csv")
-            
-            os.makedirs(saving_folder, exist_ok=True)
+            artifacts = f"artifacts/{saving_folder}"
+            os.makedirs(artifacts, exist_ok=True)
+
+            train_data_path = os.path.join(artifacts, "train.csv")
+            test_data_path = os.path.join(artifacts, "test.csv")
             
             self.train_data.to_csv(train_data_path, index=False, header=True)   
             self.test_data.to_csv(test_data_path, index=False, header=True)   
-            logging.info(f'Training and testing data saved in "{saving_folder}" folder.')  
+            logging.info(f'Training and testing data saved in "{artifacts}".')  
     
             return (train_data_path, test_data_path)
 
