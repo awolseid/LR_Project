@@ -32,8 +32,6 @@ class ModelTrainer:
             "AdaBoost": AdaBoostRegressor(),
             "Gradient Boosting": GradientBoostingRegressor()
             }
-        self.model_types = list(self.candidate_models.keys())
-        self.models = list(self.candidate_models.values())
         self.are_models_trained = False
         self.are_models_tested = False
 
@@ -41,26 +39,23 @@ class ModelTrainer:
 
     def train_models(self, X_train, y_train):
         try:
-            self.trained_models = []
-            train_MAEs = []
-            train_MSEs = []
-            train_R2s = []
+            train_results = []
 
-            for model in self.models:
+            for (name, model) in self.candidate_models.items():
                 model.fit(X_train, y_train)
-                self.trained_models.append(model)
-
                 y_train_pred = model.predict(X_train)
+
                 train_mae, train_mse, train_r2 = evaluate_model(y_train, y_train_pred)
-                train_MAEs.append(train_mae)
-                train_MSEs.append(train_mse)
-                train_R2s.append(train_r2)
+                train_results.append({
+                    "Model": name,
+                    "Train_MAE": train_mae, 
+                    "Train_MSE": train_mse, 
+                    "Train_R2": train_r2})
             
             logging.info("Model(s) trained.")
             self.are_models_trained = True
 
-            self.train_results_df = pd.DataFrame(list(zip(self.model_types, train_MAEs, train_MSEs, train_R2s)),
-                columns=["Model", "Train_MAE", "Train_MSE", "Train_R2"])
+            self.train_results_df = pd.DataFrame(train_results)
 
             return self.train_results_df
 
@@ -72,22 +67,21 @@ class ModelTrainer:
             if self.are_models_trained == False:
                 raise ValueError("No model is trained.")
 
-            test_MAEs = []
-            test_MSEs = []
-            test_R2s = []
+            test_results = []
 
-            for model in self.trained_models:
+            for (name, model) in self.candidate_models.items():
                 y_test_pred = model.predict(X_test)
                 test_mae, test_mse, test_r2 = evaluate_model(y_test, y_test_pred)
 
-                test_MAEs.append(test_mae)
-                test_MSEs.append(test_mse)
-                test_R2s.append(test_r2)
+                test_results.append({
+                    "Model": name,
+                    "Test_MAE": test_mae, 
+                    "Test_MSE": test_mse, 
+                    "Test_R2": test_r2})
                 
             logging.info("Model(s) tested.")
             self.are_models_tested = True
-            self.test_results_df = pd.DataFrame(list(zip(self.model_types, test_MAEs, test_MSEs, test_R2s)),
-                columns=["Model", "Test_MAE", "Test_MSE", "Test_R2"])
+            self.test_results_df = pd.DataFrame(test_results)
 
             return self.test_results_df
 

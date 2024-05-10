@@ -23,6 +23,7 @@ if __name__=="__main__":
     transformer_saving_folder = "input_processor"
     transformer_saved_path = transformer.save_transformer(saving_folder=transformer_saving_folder)
     
+    
     model_object = ModelTrainer()
 
     train_results_df = model_object.train_models(X_train, y_train)
