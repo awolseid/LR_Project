@@ -2,46 +2,30 @@ import os
 import sys
 import pandas as pd
 
-from catboost import CatBoostRegressor
-from sklearn.ensemble import (
-    AdaBoostRegressor,
-    GradientBoostingRegressor,
-    RandomForestRegressor
-)
-from sklearn.linear_model import LinearRegression, Ridge, Lasso, ElasticNet
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.tree import DecisionTreeRegressor
-from xgboost import XGBRegressor
-
 from src.exception import CustomException
 from src.logger import logging
 from src.utils import save_object, evaluate_model
+from sklearn.model_selection import GridSearchCV
 
 class ModelTrainer:
-    def __init__(self):
-        self.candidate_models = {
-            "Linear" : LinearRegression(),
-            "Lasso" : Lasso(),
-            "Ridge" : Ridge(),
-            "ElasticNet" : ElasticNet(),
-            "K-Neighbors" : KNeighborsRegressor(),
-            "Decision Tree" : DecisionTreeRegressor(),
-            "Random Forest" : RandomForestRegressor(),
-            "XGBoost" : XGBRegressor(),
-            "CatBoosting" : CatBoostRegressor(verbose=False),
-            "AdaBoost": AdaBoostRegressor(),
-            "Gradient Boosting": GradientBoostingRegressor()
-            }
+    def __init__(self, candidate_models, hyper_params=None):
+        self.candidate_models = candidate_models
+        self.hyper_params = hyper_params
         self.are_models_trained = False
         self.are_models_tested = False
-
-        self.model_trainer = os.path.join("Model", "model.pkl")
 
     def train_models(self, X_train, y_train):
         try:
             train_results = []
 
             for (name, model) in self.candidate_models.items():
+                
+                if self.hyper_params is not None:
+                    hyper_params = self.hyper_params[name]
+                    grid_search = GridSearchCV(model, hyper_params, cv=3)
+                    grid_search.fit(X_train, y_train)
+                    model.set_params(**grid_search.best_params_)     
+
                 model.fit(X_train, y_train)
                 y_train_pred = model.predict(X_train)
 
@@ -118,7 +102,7 @@ class ModelTrainer:
             artifacts = f"artifacts/{saving_folder}"
             os.makedirs(artifacts, exist_ok=True)
 
-            for model_type, trained_model in zip(self.model_types, self.models):
+            for model_type, trained_model in zip(self.candidate_models.keys(), self.candidate_models.values()):
                 trained_model_saving_path = os.path.join(artifacts, f"{model_type}.pkl")
                 save_object(file_path=trained_model_saving_path, object=trained_model)
             
