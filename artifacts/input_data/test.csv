@@ -1,154 +1,3138 @@
-UniqueID,Sex,Age,Marital,Education,Employment,Income,NumRooms,FamilyImpact,PsychoImpact,EconomicImpact
-90,Female,29,Single,Grade 1-8,Unemployed,No Income,1,16.36363602,20.0,54
-584,Female,35,Married,Grade 1-8,Employed (govt or private),1651-3200,1,23.63636398,16.92307663,62
-310,Female,62,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,2,7.272727489,7.692307472,54
-697,Male,36,Married,Grade 1-8,Self-employed,601-1650,3,16.36363602,40.0,48
-466,Male,28,Single,Grade 9-12,Self-employed,3201-7800,1,45.45454407,18.46153831,68
-417,Female,35,Single,Graduates,Unemployed,No Income,2,23.63636398,27.69230843,44
-350,Female,66,"Other (divorced, widowed, separated)",No formal education,Laid off due to COVID-19,No Income,2,47.27272797,55.38461685,70
-376,Male,27,"Other (divorced, widowed, separated)",Graduates,Employed (govt or private),3201-7800,2,9.090909004,21.53846169,42
-603,Female,28,Married,Graduates,Employed (govt or private),3201-7800,1,50.90909195,41.53845978,52
-486,Male,70,Married,Grade 1-8,Unemployed,No Income,9,18.18181801,18.46153831,48
-618,Male,33,Single,Grade 1-8,Laid off due to COVID-19,No Income,1,5.454545498,26.15384674,44
-150,Female,66,Married,No formal education,Unemployed,No Income,3,38.18181992,24.61538506,64
-568,Female,45,"Other (divorced, widowed, separated)",No formal education,Self-employed,<600,2,25.45454597,35.38461685,68
-738,Male,27,Married,Grade 1-8,Unemployed,No Income,1,20.0,15.38461494,60
-526,Female,35,Married,Grade 1-8,Unemployed,No Income,1,45.45454407,35.38461685,62
-532,Male,50,Married,No formal education,Self-employed,3201-7800,3,30.90909004,16.92307663,52
-290,Female,38,"Other (divorced, widowed, separated)",Grade 1-8,Laid off due to COVID-19,No Income,2,40.0,80.0,46
-458,Female,45,Married,Grade 9-12,Self-employed,<600,3,34.54545593,27.69230843,66
-735,Female,39,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,1,20.0,9.230769157,54
-31,Female,43,Married,Grade 1-8,Employed (govt or private),601-1650,2,50.90909195,32.30769348,60
-402,Male,36,Married,Grade 1-8,Self-employed,>=7801,2,27.27272797,13.84615421,44
-61,Female,50,"Other (divorced, widowed, separated)",Grade 9-12,Laid off due to COVID-19,No Income,1,50.90909195,41.53845978,74
-1,Female,59,Married,No formal education,Laid off due to COVID-19,No Income,3,49.09090805,32.30769348,80
-209,Female,35,Married,Graduates,Self-employed,1651-3200,2,47.27272797,41.53845978,54
-647,Female,38,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,1,21.81818199,18.46153831,62
-58,Male,48,Married,Grade 1-8,Self-employed,3201-7800,2,38.18181992,12.30769253,42
-575,Female,40,"Other (divorced, widowed, separated)",Grade 9-12,Unemployed,No Income,1,52.72727203,44.61538315,52
-702,Female,29,Married,Grade 1-8,"Other (student, retired, housewife)",No Income,2,20.0,20.0,60
-638,Female,23,Single,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,38.46154022,28
-271,Female,80,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,1,45.45454407,33.84615326,54
-786,Female,28,Married,Grade 1-8,Employed (govt or private),1651-3200,1,21.81818199,13.84615421,60
-346,Female,40,Married,Grade 9-12,Employed (govt or private),601-1650,2,45.45454407,47.69230652,64
-393,Female,45,Married,Grade 9-12,Employed (govt or private),1651-3200,1,12.72727299,9.230769157,54
-332,Male,57,Married,Grade 1-8,Self-employed,3201-7800,2,36.36363602,53.84615326,48
-528,Male,29,Single,Grade 9-12,Unemployed,No Income,2,5.454545498,6.153846264,68
-494,Female,56,Single,No formal education,Employed (govt or private),<600,2,20.0,1.538461566,32
-774,Male,54,Married,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,15.38461494,48
-785,Female,48,Married,Grade 1-8,Unemployed,No Income,1,32.72727203,27.69230843,34
-191,Female,30,Married,Grade 1-8,Unemployed,No Income,1,47.27272797,33.84615326,80
-645,Male,26,Single,Grade 9-12,Unemployed,No Income,2,18.18181801,15.38461494,64
-499,Female,55,Married,No formal education,Laid off due to COVID-19,No Income,1,45.45454407,7.692307472,62
-707,Female,19,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,1,21.81818199,6.153846264,54
-300,Male,41,Married,Grade 1-8,Self-employed,601-1650,2,16.36363602,23.07692337,44
-714,Female,23,"Other (divorced, widowed, separated)",Grade 1-8,Laid off due to COVID-19,No Income,1,49.09090805,47.69230652,74
-753,Female,26,Single,Grade 1-8,Self-employed,<600,2,20.0,30.76922989,36
-321,Female,61,Married,Grade 1-8,Self-employed,3201-7800,3,7.272727489,15.38461494,42
-621,Female,20,Single,Graduates,"Other (student, retired, housewife)",3201-7800,3,10.909091,10.76923084,48
-122,Female,35,Single,No formal education,Self-employed,<600,1,38.18181992,27.69230843,64
-101,Female,29,Married,Graduates,Employed (govt or private),3201-7800,1,20.0,4.615384579,40
-803,Male,28,Single,Graduates,Employed (govt or private),3201-7800,1,27.27272797,9.230769157,34
-765,Female,28,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,50.90909195,43.07692337,68
-113,Female,27,Married,Graduates,Unemployed,No Income,2,54.54545593,46.15384674,66
-320,Male,29,Married,Graduates,Laid off due to COVID-19,No Income,1,18.18181801,15.38461494,26
-721,Female,25,Married,Grade 1-8,Self-employed,3201-7800,1,12.72727299,10.76923084,42
-439,Female,42,Married,Grade 9-12,Unemployed,No Income,4,23.63636398,6.153846264,36
-692,Female,21,Married,Grade 1-8,Unemployed,No Income,1,27.27272797,7.692307472,24
-26,Female,27,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,12.72727299,12.30769253,64
-297,Female,39,Single,Grade 9-12,Unemployed,No Income,2,12.72727299,13.84615421,64
-703,Female,22,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,2,21.81818199,20.0,68
-267,Female,35,Married,Graduates,Employed (govt or private),3201-7800,2,50.90909195,44.61538315,34
-272,Female,45,Married,Grade 9-12,Self-employed,1651-3200,2,47.27272797,33.84615326,50
-469,Female,25,Single,Grade 1-8,Employed (govt or private),601-1650,1,52.72727203,38.46154022,52
-108,Female,27,Married,No formal education,"Other (student, retired, housewife)",No Income,1,14.54545498,9.230769157,66
-548,Female,48,Single,Grade 1-8,Unemployed,>=7801,1,9.090909004,3.076923132,48
-441,Female,37,Married,Grade 1-8,Self-employed,601-1650,1,23.63636398,32.30769348,52
-253,Female,42,"Other (divorced, widowed, separated)",No formal education,Self-employed,601-1650,1,21.81818199,16.92307663,64
-236,Female,36,Single,Grade 9-12,Unemployed,No Income,2,38.18181992,41.53845978,50
-154,Female,30,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,1,56.36363602,47.69230652,50
-214,Male,26,Single,Graduates,Self-employed,>=7801,2,34.54545593,23.07692337,54
-521,Female,35,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,1,27.27272797,10.76923084,36
-587,Female,28,Single,Graduates,Unemployed,No Income,1,7.272727489,10.76923084,62
-510,Female,36,"Other (divorced, widowed, separated)",Grade 9-12,Employed (govt or private),1651-3200,1,47.27272797,35.38461685,60
-768,Female,18,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,1,56.36363602,41.53845978,64
-14,Male,46,Married,Grade 1-8,Unemployed,601-1650,2,23.63636398,27.69230843,32
-479,Male,48,Married,Grade 9-12,Self-employed,3201-7800,2,27.27272797,4.615384579,70
-323,Female,42,Married,Grade 1-8,Self-employed,601-1650,1,12.72727299,10.76923084,12
-652,Female,27,Married,Grade 1-8,Employed (govt or private),1651-3200,1,18.18181801,9.230769157,56
-718,Female,36,Married,Grade 9-12,Unemployed,No Income,3,50.90909195,46.15384674,72
-284,Male,20,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,1,30.90909004,13.84615421,66
-796,Male,42,Single,Graduates,Unemployed,No Income,5,9.090909004,7.692307472,54
-404,Male,31,Married,Grade 1-8,Self-employed,601-1650,1,29.09090996,67.69230652,34
-2,Female,60,"Other (divorced, widowed, separated)",Grade 1-8,Unemployed,No Income,2,52.72727203,35.38461685,72
-767,Female,35,Single,Grade 9-12,Employed (govt or private),1651-3200,2,52.72727203,40.0,44
-222,Female,23,Married,Grade 1-8,Self-employed,601-1650,1,7.272727489,30.76922989,40
-673,Male,32,Single,Grade 9-12,Self-employed,>=7801,9,38.18181992,12.30769253,56
-148,Female,64,Married,No formal education,Unemployed,No Income,1,50.90909195,23.07692337,72
-495,Female,36,Single,Grade 1-8,Laid off due to COVID-19,No Income,1,40.0,3.076923132,48
-384,Female,32,Married,Grade 1-8,Self-employed,601-1650,1,29.09090996,13.84615421,62
-741,Male,22,Single,Grade 9-12,Employed (govt or private),1651-3200,1,29.09090996,12.30769253,50
-388,Female,36,Married,No formal education,Unemployed,1651-3200,2,14.54545498,24.61538506,38
-184,Male,63,Married,Grade 1-8,Employed (govt or private),1651-3200,2,27.27272797,10.76923084,52
-213,Male,35,Single,Graduates,Employed (govt or private),3201-7800,2,23.63636398,15.38461494,50
-251,Female,45,Married,Grade 9-12,Employed (govt or private),601-1650,1,60.0,26.15384674,62
-576,Female,42,Married,Grade 1-8,Unemployed,No Income,2,40.0,52.30769348,80
-412,Female,47,Married,Grade 1-8,Employed (govt or private),601-1650,1,40.0,24.61538506,60
-336,Female,28,Married,Grade 1-8,Self-employed,>=7801,6,29.09090996,9.230769157,36
-139,Male,28,Single,Grade 1-8,"Other (student, retired, housewife)",<600,1,10.909091,6.153846264,60
-580,Male,55,Married,Grade 1-8,Employed (govt or private),601-1650,1,52.72727203,47.69230652,48
-716,Male,32,Married,Graduates,Employed (govt or private),1651-3200,2,49.09090805,44.61538315,56
-677,Female,26,Single,Grade 1-8,Unemployed,No Income,2,16.36363602,15.38461494,60
-91,Female,32,Married,Grade 9-12,Unemployed,No Income,2,10.909091,10.76923084,58
-635,Male,37,Married,Grade 1-8,Self-employed,601-1650,1,23.63636398,38.46154022,52
-170,Male,30,Married,Grade 1-8,Self-employed,601-1650,1,20.0,13.84615421,70
-401,Female,28,Married,Graduates,Self-employed,1651-3200,4,30.90909004,24.61538506,56
-650,Female,36,Married,Grade 1-8,Employed (govt or private),601-1650,1,14.54545498,18.46153831,52
-119,Male,46,Single,No formal education,Unemployed,No Income,1,29.09090996,30.76922989,56
-47,Female,31,Single,Grade 1-8,Unemployed,No Income,2,34.54545593,4.615384579,72
-725,Male,28,Single,Grade 9-12,Self-employed,601-1650,2,7.272727489,4.615384579,56
-162,Female,30,"Other (divorced, widowed, separated)",No formal education,Self-employed,601-1650,2,38.18181992,36.92307663,64
-244,Female,45,Married,Grade 1-8,Unemployed,No Income,1,9.090909004,16.92307663,64
-599,Male,29,Single,Grade 1-8,Self-employed,1651-3200,2,25.45454597,16.92307663,58
-429,Male,37,Married,No formal education,Self-employed,601-1650,1,21.81818199,6.153846264,70
-715,Female,32,Married,Grade 1-8,Unemployed,No Income,1,49.09090805,44.61538315,72
-392,Female,57,"Other (divorced, widowed, separated)",Graduates,"Other (student, retired, housewife)",601-1650,4,16.36363602,6.153846264,54
-579,Male,42,Married,Grade 1-8,Self-employed,1651-3200,2,23.63636398,12.30769253,56
-256,Female,70,"Other (divorced, widowed, separated)",No formal education,"Other (student, retired, housewife)",<600,1,34.54545593,24.61538506,62
-577,Female,18,Single,Grade 1-8,Employed (govt or private),1651-3200,2,23.63636398,4.615384579,44
-315,Male,32,Married,Graduates,Employed (govt or private),>=7801,1,27.27272797,13.84615421,56
-457,Female,41,Single,Grade 1-8,Laid off due to COVID-19,No Income,3,34.54545593,20.0,62
-208,Male,60,Married,Grade 1-8,Employed (govt or private),601-1650,2,18.18181801,9.230769157,58
-353,Female,37,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,56.36363602,41.53845978,64
-750,Male,21,Single,Grade 9-12,"Other (student, retired, housewife)",No Income,2,5.454545498,12.30769253,72
-583,Female,29,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,23.63636398,20.0,68
-298,Female,35,Married,Grade 1-8,Self-employed,1651-3200,1,36.36363602,80.0,58
-596,Female,18,Single,Grade 9-12,"Other (student, retired, housewife)",601-1650,3,32.72727203,23.07692337,52
-370,Male,33,Married,Grade 1-8,Self-employed,>=7801,4,29.09090996,6.153846264,50
-141,Male,38,Single,Graduates,Self-employed,601-1650,1,9.090909004,13.84615421,56
-387,Female,29,Single,Graduates,"Other (student, retired, housewife)",601-1650,3,60.0,1.538461566,46
-454,Male,49,Married,Graduates,Employed (govt or private),>=7801,5,58.18181992,15.38461494,66
-6,Male,42,Married,Grade 1-8,Employed (govt or private),1651-3200,3,38.18181992,80.0,58
-590,Female,36,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,1651-3200,2,25.45454597,29.23077011,26
-155,Female,55,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,1651-3200,3,45.45454407,23.07692337,48
-705,Female,36,Married,Graduates,Unemployed,No Income,3,23.63636398,6.153846264,48
-322,Male,27,Married,Graduates,Employed (govt or private),3201-7800,2,7.272727489,23.07692337,42
-121,Male,28,Single,Grade 1-8,Laid off due to COVID-19,No Income,2,41.81818008,47.69230652,64
-529,Male,34,Married,Grade 1-8,Employed (govt or private),601-1650,1,16.36363602,10.76923084,64
-363,Female,39,Married,Grade 1-8,Employed (govt or private),>=7801,2,25.45454597,10.76923084,40
-736,Female,32,Married,Grade 1-8,Employed (govt or private),601-1650,1,25.45454597,13.84615421,58
-464,Female,48,"Other (divorced, widowed, separated)",Grade 9-12,Unemployed,No Income,4,30.90909004,15.38461494,68
-135,Male,29,Single,Graduates,Employed (govt or private),3201-7800,3,18.18181801,0.0,38
-156,Female,55,Married,No formal education,Self-employed,601-1650,2,10.909091,15.38461494,70
-643,Female,46,Married,Grade 1-8,Self-employed,1651-3200,2,23.63636398,16.92307663,58
-383,Female,43,Married,Grade 1-8,Employed (govt or private),1651-3200,1,29.09090996,20.0,68
-681,Male,41,Married,Grade 1-8,Self-employed,1651-3200,1,40.0,7.692307472,44
-220,Male,24,Single,Grade 1-8,Unemployed,No Income,1,32.72727203,49.23077011,46
-551,Female,45,"Other (divorced, widowed, separated)",Grade 1-8,Self-employed,601-1650,1,21.81818199,16.92307663,52
-345,Female,55,"Other (divorced, widowed, separated)",No formal education,Employed (govt or private),<600,2,49.09090805,47.69230652,68
-130,Male,21,Single,Grade 1-8,"Other (student, retired, housewife)",No Income,2,7.272727489,4.615384579,34
-511,Male,65,Married,Graduates,Employed (govt or private),3201-7800,4,36.36363602,40.0,56
-286,Male,52,Married,Grade 1-8,"Other (student, retired, housewife)",1651-3200,1,34.54545593,80.0,36
-166,Male,32,Married,Grade 1-8,Laid off due to COVID-19,No Income,1,29.09090996,7.692307472,70
-205,Male,42,Married,Grade 9-12,Unemployed,No Income,2,20.0,16.92307663,56
-666,Female,36,Married,No formal education,Unemployed,No Income,3,21.81818199,10.76923084,54
+UniqueID,Residence,Education,HouseHeadSex,Age,NumChild,WealthIndexOriginal,WealthIndex
+13663,Rural,No Education,Female,22,4,-42731,170612
+15373,Rural,No Education,Male,26,2,-53695,159648
+9702,Rural,No Education,Male,39,6,-65467,147876
+12605,Rural,Incomplete Primary,Male,18,0,-99911,113432
+3071,Rural,Incomplete Primary,Male,24,2,-95931,117412
+10836,Rural,Incomplete Primary,Male,20,0,-49624,163719
+12353,Rural,No Education,Female,43,6,-130308,83035
+12414,Urban,Higher,Male,24,1,141560,354903
+512,Rural,No Education,Male,44,0,-58044,155299
+9590,Urban,Complete Secondary,Female,44,3,128590,341933
+12770,Rural,No Education,Male,17,0,-51883,161460
+8720,Rural,Incomplete Primary,Male,21,0,-14131,199212
+5240,Rural,Incomplete Secondary,Male,20,0,-51919,161424
+2089,Rural,Incomplete Primary,Male,23,2,-57080,156263
+10123,Rural,Incomplete Secondary,Female,20,1,-56060,157283
+11877,Rural,No Education,Female,22,3,-115671,97672
+4082,Rural,Higher,Male,23,0,-5512,207831
+7966,Rural,No Education,Male,45,6,22028,235371
+4296,Rural,No Education,Male,45,8,-45329,168014
+15180,Rural,Complete Primary,Male,25,0,5555,218898
+13281,Urban,Incomplete Secondary,Female,18,0,34644,247987
+9101,Rural,Incomplete Secondary,Male,20,0,-47745,165598
+5295,Rural,Incomplete Primary,Male,15,0,-30656,182687
+9972,Urban,No Education,Female,31,2,-41194,172149
+9021,Rural,Incomplete Primary,Male,30,4,-38497,174846
+7276,Rural,No Education,Male,27,4,-75422,137921
+9001,Rural,No Education,Male,38,2,-2357,210986
+4167,Urban,No Education,Male,35,10,-157920,55423
+10735,Urban,Higher,Male,27,0,144317,357660
+1237,Rural,Incomplete Primary,Male,22,0,-21176,192167
+1958,Urban,Complete Primary,Female,39,3,168189,381532
+7637,Urban,Higher,Male,20,0,156324,369667
+7088,Urban,Complete Secondary,Female,40,1,274565,487908
+14913,Urban,Complete Primary,Male,19,0,173319,386662
+1715,Urban,Incomplete Primary,Female,19,0,134018,347361
+6144,Rural,No Education,Male,43,4,-44357,168986
+5660,Rural,Incomplete Secondary,Female,17,0,-38763,174580
+2907,Rural,No Education,Female,41,4,-19963,193380
+2289,Urban,Incomplete Primary,Female,24,2,92651,305994
+2609,Rural,Incomplete Primary,Male,18,0,-35672,177671
+5358,Rural,Incomplete Secondary,Female,15,0,-23492,189851
+11423,Rural,No Education,Male,25,2,-50808,162535
+2875,Rural,Higher,Male,22,0,-17761,195582
+8695,Urban,Incomplete Primary,Male,16,0,-25282,188061
+10361,Urban,Incomplete Secondary,Male,38,0,192997,406340
+5666,Rural,Higher,Male,34,1,-12299,201044
+10741,Urban,Incomplete Primary,Male,19,0,184046,397389
+15415,Urban,Incomplete Primary,Female,17,0,190108,403451
+12509,Rural,Incomplete Primary,Male,29,1,-39531,173812
+3478,Urban,Incomplete Secondary,Male,17,0,253590,466933
+15095,Rural,No Education,Male,35,3,-72256,141087
+14612,Rural,No Education,Female,21,2,-80132,133211
+9424,Urban,No Education,Female,36,5,-82641,130702
+15511,Urban,Incomplete Primary,Female,18,0,198622,411965
+13625,Rural,No Education,Male,39,5,-126038,87305
+13522,Rural,Incomplete Primary,Male,28,1,-51209,162134
+15589,Rural,Incomplete Primary,Male,20,2,-55746,157597
+9809,Rural,Higher,Male,33,0,-33736,179607
+4639,Rural,Incomplete Primary,Male,15,0,-117475,95868
+13655,Rural,No Education,Male,36,6,-53824,159519
+6809,Rural,No Education,Male,36,5,-21600,191743
+9376,Rural,No Education,Male,40,2,-54411,158932
+9609,Urban,Incomplete Secondary,Male,18,0,201380,414723
+10886,Rural,No Education,Male,30,4,-62744,150599
+1057,Rural,No Education,Male,36,5,-74346,138997
+9792,Urban,Incomplete Secondary,Female,18,0,252975,466318
+4295,Rural,Incomplete Primary,Male,20,0,-28328,185015
+10466,Rural,No Education,Male,20,1,-52958,160385
+12958,Urban,No Education,Female,29,1,100456,313799
+9951,Urban,Incomplete Secondary,Male,15,0,58004,271347
+6320,Urban,Incomplete Secondary,Female,22,0,65862,279205
+2955,Rural,Incomplete Primary,Male,25,2,-41703,171640
+5889,Rural,Incomplete Primary,Male,26,2,-29696,183647
+13187,Rural,No Education,Male,24,3,-71030,142313
+9531,Urban,Incomplete Primary,Male,46,3,87314,300657
+4875,Rural,No Education,Male,23,0,-41352,171991
+4747,Urban,Higher,Male,26,0,203315,416658
+15495,Rural,No Education,Male,40,8,-61779,151564
+7736,Urban,No Education,Female,25,4,37836,251179
+11657,Rural,No Education,Male,43,6,-57687,155656
+292,Rural,No Education,Male,39,8,-34432,178911
+100,Urban,Incomplete Secondary,Male,28,0,110201,323544
+128,Rural,No Education,Female,32,3,-70213,143130
+11992,Rural,Complete Primary,Male,21,1,-7132,206211
+7294,Rural,No Education,Female,20,2,-77456,135887
+14942,Urban,Incomplete Primary,Male,40,3,176639,389982
+11088,Urban,No Education,Male,45,4,39171,252514
+14832,Rural,No Education,Male,26,3,-67656,145687
+8917,Rural,No Education,Female,21,2,-128655,84688
+10789,Rural,No Education,Male,25,2,-79380,133963
+7457,Urban,Incomplete Secondary,Female,18,0,121258,334601
+3469,Urban,Incomplete Secondary,Male,23,0,204511,417854
+14428,Rural,No Education,Male,46,6,-60562,152781
+7459,Urban,Incomplete Secondary,Female,35,1,201550,414893
+9028,Rural,Incomplete Primary,Male,17,0,-16408,196935
+9000,Rural,Incomplete Primary,Male,44,6,-22917,190426
+5026,Rural,No Education,Male,28,3,-44443,168900
+7537,Rural,Incomplete Primary,Male,28,4,-57534,155809
+89,Urban,Incomplete Primary,Female,20,0,110101,323444
+10318,Urban,No Education,Male,26,2,-96540,116803
+12272,Rural,Incomplete Secondary,Male,33,5,-65516,147827
+1548,Urban,No Education,Female,48,5,198067,411410
+1347,Urban,No Education,Female,27,1,51498,264841
+1523,Urban,No Education,Male,45,1,136781,350124
+9442,Rural,No Education,Female,18,1,-144805,68538
+543,Rural,Incomplete Primary,Male,16,0,-12422,200921
+10183,Rural,No Education,Male,41,5,-60213,153130
+8109,Rural,Incomplete Primary,Male,15,0,-69694,143649
+12683,Rural,Incomplete Primary,Male,45,7,27055,240398
+1656,Urban,Higher,Female,20,0,70943,284286
+11962,Urban,Incomplete Primary,Male,30,4,93369,306712
+1612,Rural,No Education,Male,18,0,-75676,137667
+915,Rural,No Education,Female,18,1,-119827,93516
+11496,Urban,Incomplete Primary,Male,17,0,293548,506891
+9379,Rural,No Education,Male,48,5,-26677,186666
+2895,Rural,No Education,Male,28,3,-31140,182203
+3289,Rural,No Education,Female,30,2,-41675,171668
+11199,Urban,Higher,Female,23,0,203722,417065
+151,Rural,No Education,Female,21,2,-84679,128664
+11808,Urban,Incomplete Primary,Male,42,0,214311,427654
+15338,Rural,Complete Primary,Male,20,0,-66119,147224
+8298,Rural,Complete Secondary,Male,24,1,-70177,143166
+9538,Rural,Incomplete Primary,Female,17,1,-59612,153731
+2865,Rural,No Education,Male,42,5,-26175,187168
+4195,Rural,No Education,Female,40,5,-125889,87454
+11529,Rural,No Education,Male,40,5,-23211,190132
+7564,Rural,Incomplete Primary,Male,18,0,-54814,158529
+9116,Rural,Incomplete Secondary,Male,21,0,-20385,192958
+14722,Urban,Incomplete Secondary,Male,17,0,254742,468085
+11618,Rural,No Education,Female,25,1,-92460,120883
+6292,Rural,Incomplete Primary,Male,17,0,-69060,144283
+5039,Rural,Incomplete Primary,Female,28,2,-89467,123876
+7703,Urban,Incomplete Primary,Female,43,3,71700,285043
+10215,Rural,No Education,Male,18,0,-75740,137603
+11290,Rural,No Education,Male,17,0,-89785,123558
+3847,Rural,Incomplete Primary,Female,15,0,-37635,175708
+3015,Rural,No Education,Male,45,3,-69304,144039
+12193,Urban,Incomplete Primary,Male,19,0,117318,330661
+4456,Rural,Incomplete Secondary,Male,25,0,-19016,194327
+9400,Urban,No Education,Male,46,10,44918,258261
+12843,Rural,Incomplete Primary,Male,17,0,-28994,184349
+14565,Rural,No Education,Male,24,3,-135855,77488
+6845,Urban,Incomplete Primary,Female,25,1,71433,284776
+12522,Rural,No Education,Male,30,7,-50747,162596
+4534,Rural,Incomplete Primary,Male,32,7,-59003,154340
+2454,Rural,Incomplete Primary,Male,28,5,-89499,123844
+1035,Urban,Incomplete Primary,Male,23,1,119361,332704
+14525,Rural,Incomplete Primary,Male,15,0,-43158,170185
+11074,Rural,Incomplete Primary,Male,17,0,-63186,150157
+7604,Urban,Higher,Male,21,0,270611,483954
+2125,Urban,Incomplete Primary,Male,41,2,183561,396904
+13980,Rural,Incomplete Primary,Female,28,2,-30977,182366
+11489,Urban,Incomplete Primary,Female,21,0,130875,344218
+8640,Rural,No Education,Male,25,2,-123280,90063
+9781,Urban,Higher,Male,26,0,172444,385787
+7717,Rural,Incomplete Primary,Male,19,0,-68717,144626
+388,Urban,No Education,Female,42,2,90948,304291
+8736,Rural,Incomplete Primary,Male,42,4,-28752,184591
+10634,Urban,No Education,Male,19,0,121780,335123
+14644,Rural,Incomplete Secondary,Female,28,2,-80053,133290
+12732,Rural,No Education,Male,39,6,-128055,85288
+10871,Urban,Incomplete Primary,Female,35,4,45116,258459
+13108,Rural,Incomplete Primary,Male,18,0,-17833,195510
+1373,Urban,Incomplete Secondary,Female,29,4,144735,358078
+3300,Rural,Incomplete Secondary,Male,21,1,1758,215101
+9211,Urban,Complete Primary,Male,39,3,120711,334054
+8766,Urban,Incomplete Primary,Male,30,1,91305,304648
+4915,Urban,Incomplete Primary,Male,33,4,144910,358253
+7793,Urban,Incomplete Primary,Female,33,5,126654,339997
+12720,Rural,No Education,Male,27,1,-39716,173627
+2883,Rural,No Education,Male,35,3,-35615,177728
+14417,Rural,No Education,Female,32,8,-75550,137793
+4903,Urban,Incomplete Primary,Male,18,0,140212,353555
+5959,Urban,Incomplete Primary,Female,16,0,261254,474597
+14729,Urban,Complete Secondary,Female,40,1,125129,338472
+15290,Rural,No Education,Male,20,0,-114298,99045
+13797,Rural,No Education,Male,24,4,-70827,142516
+6602,Urban,Incomplete Primary,Female,18,0,220405,433748
+10695,Rural,No Education,Male,25,3,-60279,153064
+1011,Urban,No Education,Male,20,0,65132,278475
+4449,Rural,Incomplete Secondary,Female,28,2,-25997,187346
+15599,Rural,No Education,Male,30,6,-61292,152051
+12052,Rural,Incomplete Primary,Male,19,0,-35564,177779
+2178,Rural,No Education,Male,30,5,-65623,147720
+2677,Urban,Incomplete Secondary,Male,16,0,276940,490283
+14096,Rural,No Education,Male,46,5,-27363,185980
+5829,Rural,No Education,Female,40,8,-47767,165576
+10733,Urban,Incomplete Primary,Female,24,0,112741,326084
+12453,Rural,Incomplete Primary,Male,21,2,-81309,132034
+340,Urban,Higher,Male,21,1,116773,330116
+10975,Rural,Incomplete Primary,Male,20,1,-63204,150139
+11176,Rural,No Education,Female,27,3,-29409,183934
+7508,Rural,Incomplete Primary,Male,35,1,-39799,173544
+8425,Rural,Incomplete Primary,Male,33,5,-77109,136234
+2345,Urban,Higher,Female,27,0,280985,494328
+11901,Urban,Incomplete Primary,Male,20,0,-21483,191860
+14726,Urban,Incomplete Primary,Male,48,7,204150,417493
+8164,Rural,No Education,Female,18,0,-70411,142932
+7918,Rural,Incomplete Secondary,Female,17,0,-10956,202387
+9928,Rural,Incomplete Primary,Male,37,3,-15860,197483
+10935,Urban,Incomplete Primary,Male,29,2,227198,440541
+7177,Rural,No Education,Male,20,1,-44910,168433
+11243,Urban,Incomplete Primary,Female,22,0,226223,439566
+4182,Urban,No Education,Female,28,5,-15510,197833
+11675,Urban,Incomplete Secondary,Male,18,0,66785,280128
+5071,Rural,Incomplete Primary,Female,16,0,-64055,149288
+5328,Rural,Incomplete Secondary,Female,28,1,82366,295709
+6052,Rural,No Education,Female,23,0,-76443,136900
+13674,Rural,Incomplete Secondary,Male,17,0,-53519,159824
+2215,Urban,Incomplete Primary,Male,15,0,276005,489348
+12172,Rural,No Education,Male,27,3,21220,234563
+352,Urban,Incomplete Primary,Male,15,0,179964,393307
+5658,Rural,Incomplete Primary,Female,16,0,-20202,193141
+8024,Rural,Incomplete Primary,Male,23,1,-18844,194499
+4378,Rural,Incomplete Secondary,Male,23,0,-25847,187496
+14581,Urban,Incomplete Primary,Male,19,0,-80750,132593
+9483,Urban,Incomplete Secondary,Female,24,0,110667,324010
+6596,Urban,Incomplete Primary,Male,40,4,137390,350733
+7624,Urban,Higher,Male,20,0,276002,489345
+8020,Rural,Incomplete Primary,Male,35,9,-21840,191503
+13784,Rural,No Education,Male,26,2,-82041,131302
+1007,Rural,No Education,Male,43,1,-46225,167118
+15568,Rural,Incomplete Secondary,Female,18,1,-38842,174501
+13050,Urban,No Education,Female,18,0,263301,476644
+7776,Rural,Incomplete Secondary,Male,20,3,-36996,176347
+3442,Rural,No Education,Male,18,0,-62015,151328
+170,Rural,No Education,Male,41,10,-123566,89777
+2803,Rural,No Education,Female,35,6,-134058,79285
+5529,Rural,Incomplete Secondary,Female,24,0,-37172,176171
+20,Rural,No Education,Male,42,6,-37901,175442
+3653,Urban,Incomplete Primary,Male,23,0,122013,335356
+6927,Urban,Complete Secondary,Female,40,1,93617,306960
+2639,Urban,Incomplete Primary,Male,18,0,266294,479637
+6742,Rural,No Education,Male,29,6,-97200,116143
+11791,Urban,Complete Primary,Male,15,0,140503,353846
+14758,Rural,No Education,Male,35,4,-62643,150700
+5490,Rural,No Education,Male,21,2,-51145,162198
+3412,Rural,No Education,Male,45,6,-29042,184301
+10330,Urban,Incomplete Secondary,Male,21,0,77576,290919
+9996,Urban,Complete Secondary,Male,32,4,191176,404519
+3482,Urban,Incomplete Secondary,Male,29,3,187815,401158
+13598,Urban,Incomplete Secondary,Male,32,2,241448,454791
+7937,Rural,No Education,Female,30,1,-140576,72767
+14934,Urban,No Education,Male,23,0,232741,446084
+13548,Rural,Incomplete Primary,Male,17,0,-24281,189062
+8995,Rural,Incomplete Primary,Male,20,1,-73417,139926
+12969,Urban,Higher,Male,27,0,180915,394258
+1124,Urban,Higher,Female,24,0,239927,453270
+8207,Rural,No Education,Male,46,7,-53406,159937
+12039,Rural,No Education,Male,18,0,-131353,81990
+2910,Rural,No Education,Male,30,2,-30901,182442
+2678,Urban,No Education,Male,48,6,109632,322975
+4515,Urban,Incomplete Primary,Female,17,0,172441,385784
+4368,Rural,Incomplete Primary,Male,26,3,-30626,182717
+124,Rural,No Education,Male,45,4,-58994,154349
+3805,Rural,No Education,Female,49,3,-62445,150898
+10065,Rural,Incomplete Secondary,Male,18,0,-24786,188557
+6322,Urban,Incomplete Secondary,Female,20,0,65862,279205
+13203,Rural,No Education,Male,38,6,-64078,149265
+6486,Urban,Incomplete Primary,Male,21,1,130561,343904
+5465,Rural,No Education,Male,32,4,-60657,152686
+1108,Urban,Higher,Female,30,1,169013,382356
+4773,Rural,No Education,Male,35,5,-76133,137210
+8540,Urban,Incomplete Secondary,Female,36,1,166774,380117
+6833,Rural,No Education,Male,26,4,-59925,153418
+13181,Rural,No Education,Female,30,4,-126417,86926
+9321,Urban,Incomplete Secondary,Male,17,0,96588,309931
+14041,Rural,Higher,Male,27,0,71389,284732
+938,Rural,No Education,Female,28,4,-27519,185824
+6498,Urban,Incomplete Primary,Male,21,2,188096,401439
+3317,Rural,Incomplete Primary,Male,35,6,-28646,184697
+5749,Rural,Incomplete Primary,Male,23,4,15096,228439
+7797,Urban,Incomplete Secondary,Male,17,0,-71156,142187
+5759,Rural,Incomplete Primary,Male,42,5,-33591,179752
+2123,Rural,Incomplete Primary,Female,15,0,-48276,165067
+3384,Urban,Incomplete Primary,Male,47,2,187382,400725
+12860,Rural,No Education,Female,36,2,-32708,180635
+8046,Urban,No Education,Male,25,2,-27259,186084
+1534,Urban,Incomplete Secondary,Female,22,0,140910,354253
+12870,Urban,Higher,Male,27,1,158521,371864
+2309,Rural,No Education,Male,45,8,-58791,154552
+11014,Urban,Incomplete Primary,Male,15,0,69537,282880
+6661,Rural,Incomplete Primary,Male,15,0,-44206,169137
+412,Urban,Incomplete Primary,Female,33,2,139607,352950
+9692,Rural,Incomplete Secondary,Male,19,0,-29081,184262
+15382,Rural,Incomplete Primary,Male,23,0,-40223,173120
+11355,Urban,Higher,Male,31,2,217983,431326
+15600,Rural,No Education,Male,48,10,-61292,152051
+12309,Urban,Higher,Male,30,1,201898,415241
+11700,Urban,Incomplete Secondary,Female,18,0,179444,392787
+4129,Rural,No Education,Male,43,6,-39859,173484
+11180,Rural,No Education,Male,30,4,-28416,184927
+4227,Urban,Incomplete Secondary,Male,30,2,114170,327513
+8222,Urban,Incomplete Primary,Female,45,4,213561,426904
+12030,Rural,Incomplete Primary,Female,17,0,-35149,178194
+7949,Rural,No Education,Male,26,5,-32956,180387
+5313,Rural,Incomplete Secondary,Male,17,0,-28108,185235
+9914,Rural,No Education,Female,36,7,-15747,197596
+14048,Rural,Incomplete Secondary,Female,19,0,32687,246030
+2320,Rural,No Education,Male,35,3,-82620,130723
+2537,Urban,Higher,Male,43,3,202413,415756
+13854,Rural,No Education,Female,20,0,-44417,168926
+427,Urban,Incomplete Secondary,Female,39,4,179731,393074
+1321,Rural,No Education,Male,29,6,-100750,112593
+5203,Rural,Incomplete Primary,Male,41,5,-8125,205218
+8615,Rural,No Education,Male,35,5,-89675,123668
+8359,Rural,Incomplete Primary,Female,15,0,-84067,129276
+3298,Rural,No Education,Female,40,3,-34308,179035
+7634,Urban,Complete Secondary,Male,35,0,156324,369667
+6854,Rural,No Education,Male,20,1,-117355,95988
+7982,Urban,Complete Secondary,Male,35,3,280345,493688
+7959,Rural,No Education,Male,18,0,-43890,169453
+11138,Rural,No Education,Male,39,2,-37786,175557
+5909,Rural,Incomplete Primary,Male,16,0,-10509,202834
+5373,Rural,No Education,Female,40,0,-32028,181315
+11584,Rural,Incomplete Primary,Male,31,5,-60069,153274
+14794,Urban,Incomplete Secondary,Male,30,1,160846,374189
+1740,Urban,Higher,Male,28,1,114193,327536
+2445,Rural,No Education,Female,47,2,-89108,124235
+11053,Rural,No Education,Female,40,3,-50390,162953
+4,Rural,No Education,Male,46,9,-50137,163206
+9748,Rural,No Education,Male,35,3,-29817,183526
+11147,Rural,No Education,Male,44,7,-65088,148255
+12666,Rural,No Education,Female,41,3,-15318,198025
+7837,Rural,No Education,Male,35,2,-125440,87903
+6019,Rural,No Education,Male,27,2,-34059,179284
+15293,Rural,No Education,Male,37,6,-129664,83679
+9852,Rural,No Education,Female,35,5,-68270,145073
+9924,Rural,Incomplete Primary,Male,16,0,-7401,205942
+103,Urban,Incomplete Primary,Male,15,0,148314,361657
+11722,Rural,No Education,Female,16,0,-124135,89208
+10943,Rural,Complete Primary,Male,26,1,-41106,172237
+9807,Rural,Incomplete Primary,Male,27,4,-59532,153811
+14313,Rural,Complete Secondary,Female,19,0,-52285,161058
+3600,Rural,No Education,Male,34,5,3666,217009
+10655,Urban,No Education,Male,20,1,-33262,180081
+4005,Rural,No Education,Female,16,0,-76911,136432
+5611,Rural,Incomplete Primary,Male,17,0,-13964,199379
+10952,Rural,No Education,Male,30,5,-16315,197028
+9681,Rural,Incomplete Secondary,Male,28,2,-61336,152007
+3485,Urban,Higher,Male,22,0,193820,407163
+7763,Rural,Incomplete Primary,Female,18,0,-61415,151928
+14410,Rural,Incomplete Primary,Male,16,0,-32804,180539
+13648,Rural,No Education,Male,23,4,-63142,150201
+4102,Urban,No Education,Male,23,2,27317,240660
+6384,Rural,No Education,Male,42,7,-97974,115369
+13296,Urban,Higher,Male,24,1,127611,340954
+11773,Rural,Incomplete Primary,Male,24,3,-45208,168135
+5113,Urban,Incomplete Primary,Female,36,1,141643,354986
+5814,Rural,No Education,Male,27,1,-104636,108707
+15496,Rural,No Education,Male,34,3,-49414,163929
+9248,Rural,No Education,Male,21,0,-24669,188674
+9387,Urban,No Education,Male,21,1,69998,283341
+11981,Rural,No Education,Male,30,5,-44984,168359
+3729,Urban,Incomplete Secondary,Male,17,0,115592,328935
+8958,Urban,Incomplete Secondary,Male,19,0,241840,455183
+4149,Urban,Incomplete Primary,Male,35,2,180459,393802
+3705,Urban,Complete Secondary,Female,30,0,118409,331752
+13316,Urban,Incomplete Primary,Female,45,3,133055,346398
+8626,Rural,Incomplete Primary,Male,27,2,-61043,152300
+11002,Rural,Incomplete Primary,Male,18,1,-59826,153517
+10366,Urban,Incomplete Primary,Male,18,0,232319,445662
+1324,Rural,No Education,Male,28,5,-109671,103672
+8919,Rural,No Education,Female,40,5,-130267,83076
+8385,Rural,Incomplete Primary,Male,31,2,-25491,187852
+1594,Rural,No Education,Male,45,7,-57885,155458
+12369,Rural,No Education,Male,26,2,-26924,186419
+15420,Urban,No Education,Female,30,1,69186,282529
+12716,Rural,Incomplete Primary,Male,16,0,-36041,177302
+2185,Rural,Complete Primary,Female,24,3,-58642,154701
+6193,Rural,No Education,Male,37,3,-51978,161365
+4339,Rural,Incomplete Primary,Female,15,0,-99791,113552
+8029,Rural,Incomplete Primary,Female,22,0,-33875,179468
+5551,Urban,Higher,Male,21,1,78640,291983
+14925,Urban,Complete Secondary,Male,41,4,231651,444994
+7733,Urban,Incomplete Primary,Male,17,0,146717,360060
+9947,Urban,Incomplete Secondary,Female,17,0,82890,296233
+9647,Rural,Incomplete Primary,Male,16,0,7737,221080
+6886,Urban,Incomplete Secondary,Female,22,1,-61790,151553
+6224,Urban,Incomplete Primary,Male,19,1,59783,273126
+13966,Rural,Incomplete Primary,Male,22,3,-51723,161620
+2247,Rural,Incomplete Primary,Female,27,3,-7778,205565
+7483,Urban,No Education,Female,27,4,-96485,116858
+8283,Rural,No Education,Male,39,6,-40964,172379
+9636,Rural,No Education,Male,16,0,-22747,190596
+5910,Rural,Incomplete Primary,Male,23,1,-32449,180894
+10220,Rural,No Education,Female,35,8,-80723,132620
+13620,Rural,No Education,Male,28,3,-76832,136511
+2997,Rural,No Education,Male,25,2,-48813,164530
+11863,Rural,No Education,Male,23,3,-58044,155299
+12229,Rural,Incomplete Secondary,Male,24,0,-48841,164502
+11274,Rural,No Education,Male,31,1,-53211,160132
+252,Urban,Incomplete Primary,Female,45,4,270347,483690
+13905,Rural,Complete Primary,Female,38,3,13033,226376
+14095,Rural,No Education,Female,45,3,-58934,154409
+11663,Rural,Incomplete Primary,Male,34,5,-76596,136747
+4232,Rural,No Education,Male,38,5,-40894,172449
+15646,Urban,Incomplete Primary,Male,30,4,89608,302951
+4830,Rural,Incomplete Primary,Female,18,0,-69786,143557
+5668,Rural,Incomplete Primary,Male,38,5,12360,225703
+11266,Rural,No Education,Male,40,5,5435,218778
+15102,Rural,Incomplete Primary,Male,33,1,30371,243714
+13053,Urban,Incomplete Secondary,Female,24,1,214415,427758
+8750,Rural,No Education,Male,40,0,-46568,166775
+11018,Urban,No Education,Male,45,7,127364,340707
+14011,Rural,Incomplete Primary,Male,18,0,-28357,184986
+5613,Rural,Higher,Female,24,1,-76144,137199
+14940,Urban,Incomplete Primary,Male,18,0,39830,253173
+2021,Rural,No Education,Female,23,1,-49230,164113
+12401,Rural,No Education,Male,35,4,-42848,170495
+12128,Rural,No Education,Female,40,4,-47259,166084
+4041,Rural,Incomplete Secondary,Male,22,1,-42749,170594
+1227,Rural,No Education,Male,23,1,-46175,167168
+11184,Rural,Incomplete Primary,Female,26,0,-32401,180942
+1806,Rural,No Education,Female,20,1,-81387,131956
+15150,Urban,No Education,Male,35,5,8098,221441
+11757,Urban,No Education,Male,27,3,173916,387259
+5187,Rural,Incomplete Primary,Male,30,4,2236,215579
+477,Rural,No Education,Male,36,5,-34725,178618
+6943,Urban,Higher,Male,42,0,181165,394508
+9530,Urban,Incomplete Secondary,Male,23,1,81351,294694
+11185,Rural,No Education,Male,38,8,-32634,180709
+7022,Urban,Complete Primary,Male,38,4,149223,362566
+10865,Urban,Incomplete Secondary,Female,47,3,142445,355788
+5182,Rural,No Education,Female,40,7,-85206,128137
+3708,Urban,Incomplete Secondary,Male,33,2,206297,419640
+12206,Urban,Incomplete Primary,Male,27,2,121312,334655
+5951,Rural,Incomplete Primary,Male,16,0,-71859,141484
+10401,Rural,No Education,Male,39,4,-71639,141704
+10897,Rural,No Education,Male,31,3,-67543,145800
+197,Rural,Incomplete Primary,Female,18,0,-17190,196153
+5439,Urban,Incomplete Primary,Male,30,3,75756,289099
+15674,Urban,No Education,Male,28,2,57221,270564
+11282,Rural,No Education,Female,48,5,3966,217309
+3976,Rural,No Education,Male,20,2,-40797,172546
+10004,Rural,Incomplete Secondary,Male,15,0,51863,265206
+9175,Rural,Incomplete Primary,Male,15,0,-59797,153546
+9186,Rural,No Education,Male,29,4,-75975,137368
+5141,Rural,No Education,Male,16,0,-47986,165357
+12565,Urban,Complete Primary,Female,24,0,131482,344825
+1625,Rural,Incomplete Primary,Male,17,0,-58055,155288
+13852,Rural,No Education,Male,45,8,-134327,79016
+4686,Urban,Incomplete Primary,Male,28,2,13158,226501
+4202,Rural,No Education,Male,30,7,-126471,86872
+2715,Urban,Complete Secondary,Female,33,3,186474,399817
+5023,Rural,Incomplete Primary,Male,25,1,-63424,149919
+11956,Urban,Higher,Male,25,0,115695,329038
+14598,Rural,No Education,Male,30,5,-65636,147707
+4014,Rural,No Education,Male,20,0,-50005,163338
+10412,Rural,Incomplete Primary,Male,20,2,-72025,141318
+931,Rural,No Education,Male,25,3,-11801,201542
+3880,Urban,Higher,Female,43,3,239984,453327
+15550,Urban,No Education,Female,38,3,-34109,179234
+7173,Rural,No Education,Male,21,0,-52039,161304
+7485,Urban,Incomplete Primary,Female,25,1,37287,250630
+4408,Urban,No Education,Female,47,2,63174,276517
+13713,Rural,No Education,Female,49,7,-17150,196193
+1922,Urban,Higher,Male,49,4,219153,432496
+10459,Rural,No Education,Male,37,2,-60795,152548
+15561,Urban,No Education,Female,45,6,506,213849
+8798,Rural,Incomplete Primary,Male,26,6,-105318,108025
+904,Rural,No Education,Male,41,7,-68221,145122
+6256,Rural,No Education,Male,34,5,-78938,134405
+8542,Urban,Incomplete Primary,Female,37,4,72368,285711
+9670,Rural,No Education,Male,48,6,-48850,164493
+5156,Rural,Incomplete Primary,Female,20,0,-12127,201216
+4150,Urban,Incomplete Secondary,Male,18,0,180459,393802
+7150,Rural,Incomplete Secondary,Male,17,0,-46151,167192
+12822,Rural,No Education,Male,35,5,-79003,134340
+14015,Rural,Complete Primary,Male,25,2,12132,225475
+5175,Rural,Incomplete Primary,Female,43,4,-43040,170303
+8973,Rural,Incomplete Secondary,Male,25,4,-69093,144250
+12264,Rural,Incomplete Primary,Male,16,0,-65501,147842
+11021,Urban,Incomplete Primary,Male,25,2,2292,215635
+10101,Rural,Incomplete Primary,Male,15,0,-46651,166692
+9811,Rural,Incomplete Secondary,Male,18,0,-33736,179607
+1072,Rural,Incomplete Primary,Male,35,7,-67302,146041
+9210,Urban,No Education,Female,26,2,44665,258008
+8769,Urban,Higher,Male,31,3,148616,361959
+8013,Rural,Incomplete Secondary,Female,24,0,-29885,183458
+11319,Urban,No Education,Female,35,2,108171,321514
+7262,Rural,No Education,Female,20,0,-75492,137851
+13245,Rural,No Education,Female,30,4,-109930,103413
+11057,Rural,Higher,Female,21,0,2218,215561
+4289,Rural,No Education,Female,45,4,-46246,167097
+12024,Rural,No Education,Male,30,1,-31099,182244
+7683,Rural,No Education,Male,25,2,-56896,156447
+8893,Rural,No Education,Male,28,6,-66943,146400
+9469,Urban,Incomplete Primary,Male,26,3,103694,317037
+2381,Urban,Incomplete Secondary,Female,26,0,193418,406761
+12285,Rural,No Education,Male,23,2,-51968,161375
+2251,Rural,Incomplete Primary,Female,16,0,-83834,129509
+13855,Rural,No Education,Female,30,2,-34449,178894
+721,Rural,No Education,Male,39,5,-62376,150967
+7196,Urban,Higher,Male,29,0,50528,263871
+13247,Rural,No Education,Male,39,4,-129055,84288
+1012,Urban,No Education,Female,35,3,45782,259125
+2184,Rural,No Education,Male,21,2,-80248,133095
+9993,Urban,Incomplete Primary,Male,22,2,76673,290016
+6718,Urban,No Education,Female,25,0,93003,306346
+9411,Urban,Incomplete Primary,Male,16,0,-46515,166828
+5401,Urban,No Education,Female,42,7,75783,289126
+11207,Urban,Incomplete Secondary,Male,30,0,163391,376734
+14050,Rural,No Education,Male,24,2,-69693,143650
+1863,Rural,Incomplete Secondary,Female,25,2,-48393,164950
+11645,Rural,Incomplete Secondary,Male,24,2,-81962,131381
+4074,Rural,Incomplete Primary,Male,15,0,-15469,197874
+8026,Rural,Incomplete Primary,Male,17,0,-25491,187852
+9644,Rural,Incomplete Primary,Male,18,0,34138,247481
+6573,Rural,Incomplete Primary,Female,18,0,-46823,166520
+3910,Rural,Incomplete Primary,Male,31,3,-40617,172726
+8594,Rural,No Education,Female,36,2,-39461,173882
+3014,Rural,Incomplete Primary,Male,17,0,-72984,140359
+380,Rural,No Education,Male,30,7,-90585,122758
+11402,Urban,Incomplete Secondary,Male,16,0,255091,468434
+2857,Rural,Incomplete Primary,Male,24,0,-26954,186389
+7890,Rural,Incomplete Primary,Female,45,2,-65580,147763
+5744,Rural,Incomplete Secondary,Female,24,2,-47311,166032
+15536,Urban,Incomplete Primary,Male,21,0,225019,438362
+1748,Urban,Incomplete Primary,Female,38,2,168665,382008
+12270,Rural,Higher,Male,23,1,-42804,170539
+6072,Rural,No Education,Male,34,5,-129486,83857
+3352,Rural,No Education,Male,44,7,-66975,146368
+48,Rural,No Education,Male,28,2,-50071,163272
+4032,Rural,Incomplete Primary,Female,19,0,-47142,166201
+13055,Urban,Incomplete Secondary,Female,49,2,214415,427758
+7154,Rural,Incomplete Primary,Male,24,2,-34693,178650
+1164,Urban,Complete Primary,Female,30,2,129627,342970
+13190,Rural,No Education,Male,42,7,-73789,139554
+13188,Rural,No Education,Male,24,3,-60726,152617
+7041,Urban,Incomplete Primary,Female,28,1,57355,270698
+12421,Urban,Complete Primary,Male,25,0,97764,311107
+12723,Rural,Incomplete Secondary,Male,15,0,-29825,183518
+10990,Rural,No Education,Male,46,8,-49780,163563
+3681,Rural,No Education,Male,15,0,-44476,168867
+7418,Rural,Complete Primary,Male,18,0,-26038,187305
+12212,Urban,Incomplete Primary,Female,24,2,47762,261105
+3598,Rural,Incomplete Secondary,Male,20,0,-54825,158518
+6889,Urban,Incomplete Primary,Female,30,3,-78009,135334
+13004,Rural,Incomplete Secondary,Male,23,0,-37821,175522
+6082,Rural,No Education,Male,48,8,-131420,81923
+11954,Urban,Incomplete Secondary,Male,17,0,105281,318624
+14053,Rural,Incomplete Secondary,Female,15,0,-54164,159179
+7310,Urban,Incomplete Primary,Female,43,4,169053,382396
+14698,Urban,No Education,Female,35,0,79341,292684
+4510,Urban,No Education,Male,30,2,31646,244989
+2657,Urban,Incomplete Secondary,Male,17,0,144345,357688
+2055,Rural,No Education,Male,22,3,-56996,156347
+4843,Rural,No Education,Male,27,3,-88028,125315
+2933,Rural,No Education,Male,35,3,-29801,183542
+12528,Rural,Incomplete Primary,Male,26,5,-15294,198049
+6626,Urban,No Education,Female,30,3,97385,310728
+10365,Urban,Higher,Male,25,0,246197,459540
+1200,Rural,No Education,Male,24,4,-31004,182339
+4251,Rural,No Education,Male,35,2,-25018,188325
+11165,Rural,Incomplete Primary,Male,26,1,-59839,153504
+11832,Rural,No Education,Male,29,7,-97799,115544
+7915,Rural,No Education,Male,26,4,-34110,179233
+6308,Urban,Incomplete Secondary,Male,19,0,101582,314925
+8294,Rural,Incomplete Secondary,Male,18,0,-33739,179604
+10933,Urban,Higher,Male,19,0,258859,472202
+12749,Rural,No Education,Male,34,9,-131844,81499
+11135,Rural,No Education,Male,28,2,-31508,181835
+9953,Urban,Higher,Female,35,2,214105,427448
+7272,Rural,Incomplete Primary,Male,15,0,-72664,140679
+3636,Rural,Incomplete Primary,Male,16,0,-37546,175797
+2627,Urban,Incomplete Secondary,Male,29,2,164591,377934
+7442,Rural,No Education,Male,47,5,-109665,103678
+8773,Urban,Higher,Female,24,0,118585,331928
+5382,Urban,Higher,Male,44,6,152906,366249
+15523,Urban,Incomplete Primary,Female,15,0,216504,429847
+11321,Urban,No Education,Male,27,2,57545,270888
+9751,Rural,No Education,Male,26,1,-37326,176017
+1936,Rural,No Education,Female,30,3,-72559,140784
+2343,Rural,No Education,Male,38,6,-51245,162098
+11221,Urban,Incomplete Secondary,Female,20,0,154990,368333
+11295,Rural,No Education,Male,40,1,-96084,117259
+709,Rural,Incomplete Primary,Male,16,0,-63835,149508
+752,Urban,Incomplete Secondary,Male,26,0,164475,377818
+7931,Rural,No Education,Male,35,2,-116910,96433
+4247,Rural,No Education,Male,28,4,-37663,175680
+11605,Rural,Incomplete Secondary,Female,25,0,-67811,145532
+6418,Urban,Higher,Male,39,2,265918,479261
+10222,Rural,No Education,Male,18,0,-61033,152310
+85,Urban,Incomplete Primary,Female,18,0,16035,229378
+15387,Rural,Incomplete Secondary,Male,19,0,4324,217667
+10130,Urban,Incomplete Primary,Male,22,2,96611,309954
+14878,Urban,Incomplete Secondary,Male,23,0,122976,336319
+12731,Rural,No Education,Male,36,3,-43785,169558
+14301,Rural,Incomplete Primary,Male,43,9,-46033,167310
+7874,Rural,No Education,Female,21,0,-47187,166156
+885,Rural,No Education,Male,31,4,-130507,82836
+11163,Rural,Incomplete Secondary,Male,19,0,-44880,168463
+5036,Rural,No Education,Male,16,0,-95309,118034
+6437,Rural,Incomplete Secondary,Male,20,0,-27455,185888
+9474,Urban,Incomplete Primary,Male,26,0,182426,395769
+13031,Urban,No Education,Female,41,3,40221,253564
+4404,Urban,Incomplete Primary,Male,24,2,192541,405884
+7815,Urban,No Education,Female,34,3,-28092,185251
+177,Rural,No Education,Male,30,3,-99456,113887
+9600,Urban,Incomplete Secondary,Female,24,0,180225,393568
+11572,Rural,No Education,Male,38,5,-73973,139370
+13779,Rural,No Education,Male,20,0,-87672,125671
+12821,Rural,No Education,Male,30,5,-64402,148941
+567,Rural,No Education,Male,29,2,-20440,192903
+11013,Urban,No Education,Male,28,2,110097,323440
+8021,Rural,No Education,Male,48,6,-34309,179034
+5652,Rural,Incomplete Secondary,Male,17,0,-31942,181401
+8675,Rural,Incomplete Primary,Male,26,3,-42305,171038
+7792,Urban,Incomplete Primary,Female,28,0,174011,387354
+14222,Rural,No Education,Male,40,7,-33750,179593
+829,Rural,No Education,Male,30,3,-17564,195779
+10841,Rural,No Education,Male,29,2,-49889,163454
+8422,Rural,No Education,Male,30,5,-69961,143382
+11374,Rural,No Education,Male,38,5,-43426,169917
+11300,Rural,No Education,Female,44,8,-83353,129990
+7291,Rural,No Education,Female,16,0,-99556,113787
+150,Rural,No Education,Female,18,2,-70986,142357
+5588,Urban,Higher,Male,28,2,70887,284230
+5708,Urban,Higher,Female,18,0,92489,305832
+7304,Rural,No Education,Female,24,2,-57125,156218
+8882,Rural,No Education,Female,45,6,-4256,209087
+2860,Rural,Incomplete Primary,Male,20,0,-38719,174624
+4964,Urban,Incomplete Secondary,Female,22,0,143027,356370
+5091,Rural,No Education,Male,28,2,-116392,96951
+1036,Urban,Incomplete Secondary,Female,28,0,167328,380671
+6735,Rural,No Education,Male,30,8,-111680,101663
+11410,Urban,Incomplete Primary,Female,16,0,225795,439138
+9523,Urban,Incomplete Primary,Male,18,1,7986,221329
+2484,Rural,Incomplete Primary,Male,42,5,-72464,140879
+15512,Urban,Incomplete Secondary,Female,17,0,209113,422456
+9968,Urban,Higher,Female,26,1,177643,390986
+8061,Urban,No Education,Male,32,7,57736,271079
+13652,Rural,No Education,Male,47,6,-47246,166097
+1403,Urban,Incomplete Secondary,Male,15,0,235106,448449
+14778,Urban,Incomplete Primary,Female,26,2,116740,330083
+519,Rural,No Education,Male,34,10,-118888,94455
+435,Urban,Complete Primary,Male,23,0,139471,352814
+3070,Rural,No Education,Female,35,7,-97436,115907
+7448,Urban,Higher,Female,24,0,73961,287304
+6926,Urban,Incomplete Secondary,Male,28,3,51957,265300
+432,Urban,Higher,Female,23,0,256762,470105
+2035,Rural,No Education,Male,23,1,-56196,157147
+5827,Rural,No Education,Male,25,3,-66775,146568
+4721,Urban,Incomplete Primary,Male,24,1,11676,225019
+14990,Rural,No Education,Male,37,5,-26249,187094
+10815,Rural,No Education,Female,17,0,-48859,164484
+10690,Rural,No Education,Male,30,6,-70696,142647
+4677,Rural,No Education,Female,22,1,-78904,134439
+14782,Urban,Complete Secondary,Female,27,1,162860,376203
+8256,Rural,Incomplete Primary,Male,25,2,-61109,152234
+11741,Urban,Incomplete Secondary,Male,17,0,68737,282080
+11218,Urban,Incomplete Primary,Female,20,0,170292,383635
+10221,Rural,Incomplete Primary,Female,16,0,-80723,132620
+2920,Rural,Complete Primary,Male,23,0,-11615,201728
+10024,Urban,Incomplete Primary,Female,25,0,174886,388229
+11905,Urban,No Education,Male,43,6,-8707,204636
+7249,Rural,No Education,Female,33,2,-40493,172850
+14358,Rural,No Education,Male,44,0,-50637,162706
+3252,Rural,No Education,Male,40,7,-68534,144809
+9091,Rural,No Education,Male,40,4,-32951,180392
+4094,Urban,Incomplete Primary,Male,18,0,101200,314543
+6504,Urban,No Education,Female,44,4,97304,310647
+12871,Urban,Higher,Female,29,1,152815,366158
+5237,Rural,Incomplete Secondary,Male,23,0,-18484,194859
+8894,Rural,No Education,Female,25,1,-42663,170680
+8575,Urban,Incomplete Primary,Male,15,0,251140,464483
+908,Rural,Incomplete Primary,Male,15,0,-61419,151924
+9782,Urban,Incomplete Primary,Female,35,1,62791,276134
+12003,Rural,Incomplete Primary,Female,17,0,-39481,173862
+1800,Rural,No Education,Female,48,4,-118155,95188
+9076,Rural,No Education,Male,30,5,-64662,148681
+13403,Urban,Incomplete Secondary,Male,30,4,45569,258912
+6303,Rural,No Education,Male,41,5,-72598,140745
+6260,Rural,Incomplete Primary,Male,16,0,-14875,198468
+5225,Rural,Incomplete Primary,Male,27,2,-6950,206393
+7727,Rural,Incomplete Primary,Male,25,5,-77805,135538
+8499,Rural,Incomplete Primary,Male,20,1,-60887,152456
+4541,Rural,No Education,Male,46,9,-76363,136980
+5437,Urban,Complete Secondary,Male,36,1,230121,443464
+15023,Rural,No Education,Female,40,3,-62813,150530
+1023,Urban,Incomplete Secondary,Female,34,3,146793,360136
+5016,Rural,No Education,Male,26,1,-70986,142357
+13030,Urban,Incomplete Primary,Male,33,1,61309,274652
+1394,Urban,Incomplete Primary,Male,23,0,245009,458352
+6175,Rural,Incomplete Secondary,Male,22,0,-65586,147757
+13741,Rural,No Education,Male,22,3,-63530,149813
+11952,Urban,Incomplete Secondary,Male,20,0,133796,347139
+13609,Urban,No Education,Male,19,0,205563,418906
+7626,Urban,Incomplete Primary,Male,17,0,276002,489345
+1633,Rural,Incomplete Primary,Male,26,4,-47940,165403
+4044,Rural,Complete Primary,Male,16,0,-83427,129916
+9755,Rural,No Education,Female,30,2,-45915,167428
+6293,Rural,No Education,Male,35,6,-78278,135065
+5406,Urban,No Education,Male,45,6,79998,293341
+1087,Rural,No Education,Male,25,2,-51607,161736
+14709,Urban,No Education,Male,39,3,141397,354740
+12365,Rural,Incomplete Primary,Male,18,0,-58868,154475
+10940,Rural,Incomplete Secondary,Male,26,0,-28180,185163
+863,Rural,No Education,Male,28,4,-90765,122578
+4442,Rural,No Education,Female,17,0,-57753,155590
+2271,Urban,Incomplete Primary,Female,16,0,-50803,162540
+13305,Urban,Higher,Female,24,2,89648,302991
+13065,Urban,Incomplete Primary,Male,36,3,186811,400154
+14699,Urban,Higher,Male,40,2,236033,449376
+7153,Rural,No Education,Male,27,1,-38351,174992
+2233,Urban,Higher,Female,17,0,213194,426537
+3560,Urban,Complete Primary,Female,49,1,102930,316273
+14454,Rural,Incomplete Primary,Male,15,0,-39662,173681
+13703,Rural,No Education,Male,49,7,-22069,191274
+9810,Rural,Incomplete Secondary,Male,21,0,-33736,179607
+4105,Urban,No Education,Male,25,2,10881,224224
+13742,Rural,No Education,Male,40,6,-89120,124223
+11651,Rural,No Education,Male,31,3,-55387,157956
+13263,Rural,Higher,Female,32,1,-13961,199382
+13037,Urban,Incomplete Secondary,Male,23,0,-27230,186113
+13094,Rural,No Education,Female,46,3,-124054,89289
+4557,Rural,No Education,Male,36,8,-76249,137094
+12225,Rural,Incomplete Primary,Male,15,0,34462,247805
+4258,Rural,Incomplete Primary,Male,20,0,-40803,172540
+1303,Rural,No Education,Female,36,0,-57879,155464
+1796,Rural,No Education,Male,40,7,-104542,108801
+7677,Rural,No Education,Male,24,3,-75173,138170
+6483,Rural,No Education,Male,15,0,-58675,154668
+2520,Rural,Incomplete Secondary,Male,37,5,-72075,141268
+3367,Urban,Incomplete Secondary,Female,42,3,192819,406162
+5717,Urban,Higher,Male,21,0,225790,439133
+4106,Urban,Complete Primary,Male,17,0,8399,221742
+4521,Rural,No Education,Male,38,4,-67256,146087
+10469,Rural,No Education,Male,40,7,-25912,187431
+6215,Urban,Higher,Male,23,0,31995,245338
+10835,Rural,No Education,Male,38,6,-49624,163719
+13124,Rural,Incomplete Secondary,Female,19,0,-13712,199631
+9750,Rural,No Education,Male,40,2,-19381,193962
+2003,Rural,Incomplete Primary,Male,18,1,-45012,168331
+8281,Rural,No Education,Male,39,5,-65846,147497
+12634,Rural,No Education,Female,23,3,-72375,140968
+9708,Rural,No Education,Male,33,2,-56387,156956
+11343,Rural,Incomplete Primary,Male,29,5,-49163,164180
+2999,Rural,No Education,Male,35,2,-34510,178833
+14479,Rural,No Education,Female,25,1,-96460,116883
+4049,Rural,No Education,Male,30,3,-65696,147647
+14128,Urban,Incomplete Secondary,Female,22,0,233808,447151
+737,Urban,Incomplete Primary,Female,15,0,115789,329132
+9421,Urban,No Education,Male,38,6,80185,293528
+6663,Rural,No Education,Male,35,5,-48540,164803
+1663,Urban,Higher,Female,31,0,80047,293390
+169,Rural,No Education,Male,37,8,-88287,125056
+12706,Rural,No Education,Male,32,3,-31078,182265
+6202,Rural,No Education,Male,27,3,-46292,167051
+1618,Rural,Incomplete Primary,Male,20,3,-36379,176964
+2727,Rural,No Education,Male,38,6,-67867,145476
+1480,Urban,Higher,Female,23,0,142455,355798
+6631,Urban,Complete Primary,Male,33,3,92992,306335
+3644,Rural,Incomplete Primary,Male,29,4,-71719,141624
+3796,Rural,Incomplete Primary,Female,15,0,-78311,135032
+11783,Rural,No Education,Male,39,5,-51161,162182
+12562,Urban,Incomplete Primary,Female,42,2,135223,348566
+11026,Rural,No Education,Female,42,5,-72752,140591
+13443,Rural,Incomplete Primary,Male,25,2,-54933,158410
+1214,Rural,No Education,Male,38,4,-90781,122562
+15062,Rural,No Education,Male,26,4,-115140,98203
+11864,Rural,Incomplete Primary,Male,21,0,-27827,185516
+4305,Rural,No Education,Male,25,3,-47877,165466
+2474,Rural,No Education,Male,35,6,-42822,170521
+3659,Urban,Complete Primary,Female,35,1,137785,351128
+7440,Rural,No Education,Male,30,5,-115111,98232
+13861,Rural,No Education,Male,38,3,-48615,164728
+9731,Urban,No Education,Male,40,7,249335,462678
+13098,Rural,Incomplete Primary,Female,20,2,-37620,175723
+11096,Urban,No Education,Female,37,4,-55752,157591
+6394,Urban,Incomplete Primary,Female,23,0,271087,484430
+6490,Urban,Higher,Male,24,0,144565,357908
+4304,Rural,Incomplete Primary,Male,17,0,-67971,145372
+14640,Rural,Incomplete Secondary,Male,25,3,-65059,148284
+2361,Urban,Incomplete Secondary,Male,18,0,211931,425274
+13623,Rural,Incomplete Primary,Male,18,1,-109936,103407
+3616,Urban,Higher,Male,25,1,222398,435741
+5334,Urban,Higher,Female,23,0,71931,285274
+6326,Urban,Incomplete Primary,Male,31,3,121101,334444
+4203,Rural,No Education,Male,30,7,-100762,112581
+15175,Rural,Incomplete Secondary,Male,23,3,17342,230685
+14414,Rural,No Education,Female,28,4,-65999,147344
+13045,Urban,Incomplete Primary,Female,18,1,-69218,144125
+5844,Rural,No Education,Male,32,7,-76454,136889
+3596,Rural,No Education,Male,47,4,-55895,157448
+8125,Rural,Incomplete Primary,Male,30,5,-26378,186965
+2885,Rural,Incomplete Secondary,Male,16,0,-22824,190519
+294,Rural,Incomplete Primary,Male,27,2,-54515,158828
+5606,Rural,No Education,Female,36,7,-15015,198328
+4231,Rural,No Education,Male,36,6,-28329,185014
+5654,Rural,Incomplete Primary,Male,18,0,-21904,191439
+8926,Rural,No Education,Female,21,1,-119986,93357
+4487,Rural,No Education,Male,37,5,-56217,157126
+5509,Urban,Incomplete Primary,Male,20,0,120881,334224
+6425,Urban,Incomplete Secondary,Male,17,0,165816,379159
+3403,Rural,Incomplete Primary,Male,16,0,-7157,206186
+11945,Urban,Incomplete Secondary,Female,18,0,152468,365811
+488,Rural,No Education,Male,25,4,-49034,164309
+291,Rural,Incomplete Primary,Male,20,0,-43184,170159
+9310,Rural,Incomplete Secondary,Male,18,0,72404,285747
+6271,Rural,Incomplete Primary,Male,22,1,-14295,199048
+15240,Rural,No Education,Male,46,8,-41667,171676
+10093,Rural,Incomplete Primary,Male,35,6,-65564,147779
+5577,Urban,Incomplete Secondary,Female,29,1,90248,303591
+15209,Urban,Incomplete Primary,Male,17,0,225817,439160
+14259,Urban,Incomplete Primary,Female,35,3,134135,347478
+102,Urban,Incomplete Primary,Male,40,7,148314,361657
+10606,Rural,Incomplete Primary,Female,18,1,-41134,172209
+10941,Rural,No Education,Male,32,4,-12841,200502
+9544,Rural,No Education,Male,28,4,-73484,139859
+9437,Rural,No Education,Female,18,1,-139474,73869
+7810,Urban,Higher,Female,29,0,85107,298450
+2253,Rural,No Education,Male,46,9,-102219,111124
+10013,Rural,No Education,Male,39,4,-56032,157311
+3370,Urban,Complete Secondary,Male,47,3,134267,347610
+9188,Rural,No Education,Female,30,6,-68042,145301
+15340,Rural,No Education,Male,18,0,-114684,98659
+287,Rural,Incomplete Primary,Male,22,2,-53061,160282
+7309,Rural,Incomplete Primary,Male,17,0,-96647,116696
+5431,Urban,Incomplete Secondary,Male,22,0,190895,404238
+15138,Rural,Incomplete Primary,Male,36,5,-47102,166241
+6120,Rural,Incomplete Primary,Male,18,0,-39454,173889
+10293,Rural,No Education,Male,40,4,-81634,131709
+2453,Rural,No Education,Male,25,2,-81014,132329
+9827,Rural,Incomplete Secondary,Male,19,0,-62619,150724
+6757,Rural,Incomplete Secondary,Male,21,0,-41933,171410
+12627,Rural,Incomplete Primary,Male,15,0,-36414,176929
+10240,Rural,No Education,Female,48,8,-22726,190617
+14132,Urban,Incomplete Primary,Female,44,2,122134,335477
+1311,Rural,Higher,Female,28,0,-38201,175142
+5922,Rural,No Education,Male,18,0,-31425,181918
+13035,Urban,No Education,Male,43,6,-113999,99344
+14112,Rural,Incomplete Primary,Female,18,0,-39913,173430
+1371,Urban,Incomplete Secondary,Female,17,0,77755,291098
+7204,Urban,Incomplete Primary,Female,17,0,7979,221322
+9907,Rural,Incomplete Secondary,Male,20,2,-29484,183859
+12042,Rural,No Education,Female,20,1,-88919,124424
+15225,Urban,Incomplete Secondary,Female,42,0,210556,423899
+3342,Rural,Incomplete Primary,Male,30,2,-83171,130172
+10142,Urban,Higher,Male,33,2,181920,395263
+9246,Rural,Incomplete Primary,Male,17,0,-17990,195353
+3572,Rural,No Education,Male,29,3,-60619,152724
+7771,Rural,Incomplete Primary,Male,15,0,-55589,157754
+3520,Urban,Higher,Female,31,1,181047,394390
+3838,Rural,Incomplete Primary,Male,15,0,-34185,179158
+7751,Urban,Incomplete Secondary,Female,38,3,72965,286308
+10715,Rural,Incomplete Primary,Male,16,0,-74663,138680
+9706,Rural,Incomplete Secondary,Male,17,0,-32061,181282
+5598,Rural,No Education,Male,26,4,-76254,137089
+15636,Urban,No Education,Female,40,6,89346,302689
+10919,Urban,Higher,Female,27,0,224269,437612
+9988,Urban,Incomplete Primary,Male,22,0,131773,345116
+6707,Urban,Incomplete Primary,Male,25,0,34456,247799
+5949,Rural,No Education,Male,35,4,-79683,133660
+10495,Rural,No Education,Female,35,3,-81726,131617
+6316,Urban,No Education,Male,45,0,8145,221488
+7343,Rural,No Education,Male,35,2,-23740,189603
+5689,Rural,Incomplete Primary,Female,18,1,-33943,179400
+9459,Urban,Incomplete Primary,Female,31,2,110197,323540
+2316,Rural,No Education,Male,33,5,-61531,151812
+358,Urban,Higher,Male,20,0,156436,369779
+7794,Urban,Complete Secondary,Male,35,4,219115,432458
+11029,Rural,No Education,Male,22,2,-55919,157424
+11844,Rural,No Education,Male,43,3,-45005,168338
+13113,Rural,No Education,Male,40,5,-36961,176382
+4951,Urban,Incomplete Primary,Male,20,1,53880,267223
+4979,Rural,No Education,Female,25,0,-41272,172071
+14721,Urban,Higher,Male,28,0,254742,468085
+4561,Rural,No Education,Male,30,6,-34668,178675
+8080,Rural,Incomplete Primary,Male,44,6,-78615,134728
+9747,Rural,No Education,Female,30,0,-41940,171403
+9417,Urban,No Education,Male,39,7,-43592,169751
+4897,Urban,Incomplete Primary,Male,25,2,81433,294776
+6435,Rural,Incomplete Primary,Male,20,1,-64234,149109
+903,Rural,No Education,Male,39,9,-69199,144144
+6731,Rural,No Education,Male,45,6,-89396,123947
+12586,Rural,No Education,Female,16,0,-77488,135855
+1120,Urban,Incomplete Secondary,Female,22,0,195201,408544
+2440,Rural,Incomplete Primary,Female,20,0,-62949,150394
+13635,Rural,Incomplete Primary,Male,15,0,-47941,165402
+14599,Rural,No Education,Male,32,6,-109954,103389
+1731,Urban,Higher,Female,19,0,113603,326946
+15488,Rural,Higher,Female,21,0,-80432,132911
+11671,Urban,No Education,Female,31,1,33122,246465
+5398,Urban,Incomplete Secondary,Male,18,0,110775,324118
+492,Rural,No Education,Male,26,3,-16426,196917
+13136,Rural,No Education,Male,31,6,-57668,155675
+10352,Urban,Higher,Male,37,2,264842,478185
+5072,Rural,Incomplete Primary,Male,22,2,-15229,198114
+11558,Rural,No Education,Male,43,7,-73030,140313
+8141,Rural,No Education,Male,40,1,-119290,94053
+11585,Rural,Incomplete Primary,Male,42,8,-75444,137899
+8994,Rural,Incomplete Secondary,Male,25,0,-8168,205175
+1471,Urban,Higher,Female,38,1,143718,357061
+4871,Rural,No Education,Male,21,0,-29422,183921
+8238,Urban,Incomplete Primary,Female,42,5,122766,336109
+7542,Rural,No Education,Male,34,5,-35196,178147
+15235,Rural,No Education,Male,41,3,-60150,153193
+10921,Urban,Incomplete Secondary,Female,26,0,142431,355774
+11927,Rural,No Education,Female,34,5,-88401,124942
+13865,Rural,No Education,Male,38,4,-27959,185384
+2026,Rural,Incomplete Primary,Male,18,0,-38763,174580
+11481,Urban,Incomplete Primary,Male,32,1,145486,358829
+736,Urban,Incomplete Primary,Female,35,1,184176,397519
+9393,Urban,Incomplete Primary,Female,21,0,116256,329599
+4169,Urban,No Education,Female,16,0,-114365,98978
+10753,Urban,Incomplete Primary,Male,27,4,128922,342265
+11428,Rural,Incomplete Primary,Male,22,0,-38804,174539
+5152,Rural,No Education,Female,35,5,-48990,164353
+10906,Rural,No Education,Male,27,2,-71726,141617
+2519,Rural,Complete Primary,Female,31,4,-68613,144730
+3895,Rural,No Education,Male,35,5,-42068,171275
+3617,Urban,Higher,Female,22,0,156634,369977
+8460,Rural,No Education,Male,48,8,-146450,66893
+9619,Rural,No Education,Female,35,5,-27248,186095
+1088,Rural,Incomplete Secondary,Male,20,0,-66769,146574
+9569,Rural,No Education,Male,30,2,-56129,157214
+14026,Rural,Complete Primary,Male,15,0,50643,263986
+11672,Urban,Incomplete Secondary,Male,28,2,110803,324146
+10554,Rural,No Education,Male,30,4,-46813,166530
+12882,Urban,Incomplete Primary,Female,24,0,108438,321781
+7925,Rural,No Education,Male,40,1,-116367,96976
+2617,Urban,Higher,Male,30,3,229440,442783
+12417,Urban,Higher,Male,19,0,148873,362216
+13337,Urban,Higher,Male,22,0,190422,403765
+7932,Rural,No Education,Female,25,0,-122346,90997
+8066,Urban,Incomplete Primary,Male,15,0,66837,280180
+13180,Rural,No Education,Female,18,2,-118648,94695
+15325,Urban,Complete Primary,Female,28,0,150464,363807
+837,Rural,Incomplete Primary,Male,38,6,-42811,170532
+13151,Rural,No Education,Male,27,4,-81602,131741
+1684,Urban,Higher,Male,25,0,176573,389916
+6077,Rural,No Education,Male,19,1,-111912,101431
+1714,Urban,Incomplete Primary,Female,42,3,115883,329226
+2217,Urban,Incomplete Secondary,Male,35,2,183065,396408
+3155,Rural,No Education,Male,31,4,-83272,130071
+14312,Rural,Incomplete Primary,Female,16,0,-52285,161058
+12516,Rural,No Education,Male,35,4,-54141,159202
+15489,Rural,Higher,Female,24,0,-80432,132911
+11748,Urban,Higher,Female,21,0,45426,258769
+15426,Urban,Incomplete Primary,Female,48,0,136258,349601
+13128,Rural,No Education,Male,17,0,-45066,168277
+9315,Rural,Incomplete Secondary,Male,20,0,-24264,189079
+8799,Rural,No Education,Female,21,1,-72838,140505
+2928,Rural,Incomplete Secondary,Male,17,0,9817,223160
+5776,Rural,Higher,Female,46,9,-89854,123489
+305,Rural,Incomplete Primary,Female,15,0,-73138,140205
+4852,Rural,No Education,Female,45,0,-66930,146413
+11792,Urban,Incomplete Primary,Female,16,0,234129,447472
+10891,Rural,No Education,Male,33,2,-70518,142825
+5146,Rural,No Education,Male,30,7,-71600,141743
+3956,Rural,Incomplete Primary,Male,16,0,-43812,169531
+9966,Urban,Higher,Female,40,4,202825,416168
+12854,Rural,No Education,Male,34,4,-19294,194049
+13540,Rural,No Education,Male,35,4,-25123,188220
+851,Rural,No Education,Male,40,9,-62750,150593
+13688,Rural,No Education,Female,19,0,-87852,125491
+15045,Rural,No Education,Male,28,4,-49423,163920
+8148,Rural,No Education,Male,40,5,-74798,138545
+14212,Rural,No Education,Female,26,0,-108709,104634
+8426,Rural,Incomplete Primary,Male,28,4,-70606,142737
+4741,Urban,Incomplete Secondary,Female,36,0,228948,442291
+11824,Rural,No Education,Male,22,2,-107508,105835
+14800,Rural,No Education,Male,32,5,147320,360663
+13958,Rural,No Education,Male,45,4,-61189,152154
+14307,Rural,Incomplete Primary,Male,46,9,-22623,190720
+6206,Rural,No Education,Female,45,4,-61534,151809
+3679,Rural,No Education,Male,21,1,-63906,149437
+12553,Urban,Incomplete Primary,Female,27,2,134634,347977
+12490,Urban,Incomplete Secondary,Male,18,0,129818,343161
+5080,Rural,No Education,Male,25,4,-109632,103711
+11716,Rural,Incomplete Primary,Female,17,0,-69168,144175
+9607,Urban,Complete Secondary,Female,21,0,110756,324099
+3373,Urban,Incomplete Primary,Male,26,0,232989,446332
+14741,Urban,Incomplete Secondary,Female,18,0,156808,370151
+4154,Urban,Complete Primary,Female,28,0,162021,375364
+12067,Urban,Incomplete Secondary,Male,27,2,122993,336336
+15650,Urban,Incomplete Primary,Female,19,0,172275,385618
+8927,Rural,No Education,Female,30,1,-96861,116482
+9470,Urban,Incomplete Primary,Male,30,4,103395,316738
+11025,Urban,Incomplete Primary,Male,28,2,-2127,211216
+5372,Rural,Incomplete Secondary,Male,17,0,4243,217586
+6068,Rural,No Education,Male,25,3,-78654,134689
+4334,Rural,No Education,Male,38,3,-128755,84588
+1351,Urban,No Education,Male,20,0,198571,411914
+759,Rural,Incomplete Primary,Male,20,1,-21846,191497
+2070,Rural,No Education,Male,30,4,-57039,156304
+7384,Urban,Incomplete Secondary,Male,15,0,89102,302445
+12862,Rural,Incomplete Primary,Male,39,4,-38839,174504
+1374,Urban,No Education,Male,30,6,185676,399019
+5822,Rural,No Education,Female,31,4,-117648,95695
+1685,Urban,Incomplete Secondary,Female,28,0,119518,332861
+2975,Rural,Incomplete Primary,Male,19,0,-45457,167886
+11577,Rural,No Education,Female,30,2,-40790,172553
+13363,Rural,No Education,Male,16,0,-71518,141825
+1062,Rural,No Education,Female,48,6,-57205,156138
+2120,Rural,Incomplete Primary,Male,15,0,-65356,147987
+1091,Rural,No Education,Male,24,3,-21212,192131
+896,Rural,No Education,Male,31,4,-69188,144155
+8409,Rural,No Education,Female,35,5,-99124,114219
+2228,Urban,Incomplete Primary,Female,26,0,132799,346142
+11581,Rural,No Education,Female,43,6,-41416,171927
+933,Rural,No Education,Male,41,8,-4908,208435
+14209,Rural,No Education,Male,38,6,-107740,105603
+13578,Rural,No Education,Male,35,2,-90800,122543
+3466,Urban,Incomplete Primary,Male,48,3,126146,339489
+5557,Urban,No Education,Male,43,0,123730,337073
+8375,Rural,No Education,Male,24,5,-82338,131005
+10842,Rural,Incomplete Primary,Male,17,0,-49889,163454
+14979,Rural,Incomplete Secondary,Male,15,0,-24942,188401
+11393,Rural,Incomplete Primary,Male,35,5,39492,252835
+15265,Rural,No Education,Male,37,9,-38786,174557
+7285,Rural,No Education,Male,44,6,-43484,169859
+14637,Rural,No Education,Male,25,3,-70773,142570
+6506,Urban,Complete Secondary,Male,23,1,163163,376506
+6703,Urban,No Education,Female,35,0,-16576,196767
+4922,Urban,Incomplete Primary,Male,29,1,202159,415502
+4823,Rural,No Education,Male,24,3,-60896,152447
+9850,Rural,Incomplete Primary,Male,18,0,-29236,184107
+281,Rural,Incomplete Primary,Male,21,2,-39889,173454
+5849,Rural,No Education,Male,26,6,-47973,165370
+2761,Urban,Incomplete Secondary,Male,18,0,-3809,209534
+658,Urban,Incomplete Primary,Male,16,0,290326,503669
+765,Rural,No Education,Male,19,1,-47806,165537
+11591,Rural,No Education,Male,35,6,-62902,150441
+11213,Urban,Complete Secondary,Male,38,3,277971,491314
+9085,Rural,Incomplete Secondary,Male,19,2,-58953,154390
+7657,Rural,No Education,Male,28,3,-89788,123555
+4661,Rural,No Education,Male,17,0,-90030,123313
+3861,Urban,Incomplete Primary,Female,47,7,183159,396502
+2684,Urban,Incomplete Primary,Male,19,0,260236,473579
+8883,Rural,No Education,Male,38,2,-55546,157797
+9054,Rural,Incomplete Primary,Male,16,0,-33628,179715
+1985,Urban,Incomplete Secondary,Male,23,0,220177,433520
+12015,Rural,No Education,Male,41,9,-31267,182076
+13767,Rural,No Education,Male,46,8,-123019,90324
+7650,Rural,Incomplete Primary,Female,32,3,-56969,156374
+5070,Rural,Incomplete Primary,Female,20,2,-43561,169782
+1535,Urban,Incomplete Secondary,Female,19,0,140910,354253
+7924,Rural,Incomplete Primary,Male,36,6,-24575,188768
+10849,Rural,Incomplete Primary,Male,20,0,-58631,154712
+5679,Rural,No Education,Male,47,5,-96345,116998
+8420,Rural,Incomplete Secondary,Female,18,1,-73373,139970
+10063,Rural,No Education,Male,38,7,-71524,141819
+1271,Urban,Higher,Male,27,1,150872,364215
+11546,Rural,No Education,Male,24,3,-52219,161124
+2849,Rural,Incomplete Primary,Male,18,0,-10533,202810
+13891,Rural,No Education,Male,28,5,-119216,94127
+6734,Rural,No Education,Male,24,5,-77834,135509
+12480,Urban,Higher,Female,20,0,40609,253952
+5291,Rural,No Education,Male,35,4,-21374,191969
+6891,Urban,Incomplete Secondary,Female,22,1,-48757,164586
+4503,Urban,Complete Primary,Female,22,0,-10975,202368
+3059,Rural,No Education,Female,28,4,-51631,161712
+7654,Rural,Incomplete Secondary,Male,19,0,-73696,139647
+12761,Rural,No Education,Male,26,5,-89534,123809
+7900,Rural,No Education,Female,46,5,-35848,177495
+11168,Rural,No Education,Male,31,5,6410,219753
+2405,Urban,Incomplete Primary,Female,18,0,183203,396546
+4960,Urban,No Education,Female,26,2,69098,282441
+4090,Rural,No Education,Male,34,4,-22937,190406
+3296,Rural,No Education,Male,31,3,-13138,200205
+4246,Rural,No Education,Male,33,4,-43790,169553
+5881,Rural,Incomplete Secondary,Male,20,0,-7804,205539
+3704,Urban,Complete Secondary,Male,21,0,229418,442761
+12996,Rural,No Education,Male,32,3,-64692,148651
+3746,Urban,Incomplete Secondary,Male,16,0,161633,374976
+6250,Rural,Incomplete Primary,Male,18,0,-53280,160063
+14233,Rural,No Education,Male,21,2,-60984,152359
+10169,Rural,Incomplete Primary,Male,28,0,-39547,173796
+47,Rural,No Education,Male,27,3,-38176,175167
+4966,Urban,Higher,Female,26,0,136088,349431
+15214,Urban,Incomplete Secondary,Female,27,0,221161,434504
+374,Rural,No Education,Male,33,6,-83902,129441
+4343,Rural,No Education,Male,15,0,-127863,85480
+10075,Rural,Incomplete Primary,Male,15,0,-28162,185181
+3593,Rural,Incomplete Primary,Male,16,0,-53146,160197
+10447,Rural,No Education,Male,29,4,-54669,158674
+6492,Urban,Incomplete Primary,Male,40,4,204685,418028
+7600,Urban,Complete Primary,Male,19,0,292072,505415
+10881,Urban,Incomplete Secondary,Female,19,0,-29739,183604
+13542,Rural,No Education,Male,30,4,-35666,177677
+14895,Rural,No Education,Female,34,6,-95504,117839
+15377,Rural,Incomplete Primary,Female,32,0,-41540,171803
+4863,Rural,No Education,Male,32,4,-999,212344
+9528,Urban,Incomplete Primary,Male,25,1,132475,345818
+9579,Urban,Incomplete Secondary,Male,16,0,190038,403381
+2155,Urban,Complete Secondary,Female,47,0,209902,423245
+8402,Rural,No Education,Male,40,4,-38950,174393
+9797,Rural,No Education,Male,35,4,-61930,151413
+7039,Urban,Higher,Female,26,0,137884,351227
+3839,Rural,No Education,Male,30,4,-53895,159448
+3387,Urban,Complete Primary,Male,23,1,47875,261218
+7614,Urban,Incomplete Primary,Male,19,0,291638,504981
+4603,Rural,No Education,Male,28,6,-94919,118424
+201,Rural,No Education,Female,37,7,-58259,155084
+6648,Urban,Incomplete Primary,Male,15,0,218419,431762
+4011,Rural,No Education,Female,37,6,-83596,129747
+7182,Rural,No Education,Male,27,4,-36497,176846
+14271,Urban,Incomplete Secondary,Female,28,2,81466,294809
+469,Rural,Incomplete Primary,Male,23,3,-7698,205645
+28,Rural,No Education,Female,36,5,-144953,68390
+10192,Rural,Incomplete Primary,Male,25,2,-43748,169595
+12702,Rural,Incomplete Primary,Female,15,0,-70930,142413
+15161,Rural,Incomplete Primary,Female,30,6,10738,224081
+11821,Rural,No Education,Male,16,0,-105504,107839
+5124,Urban,Incomplete Secondary,Male,16,0,212740,426083
+2770,Urban,No Education,Female,25,3,59902,273245
+12429,Urban,No Education,Female,37,5,42487,255830
+3609,Urban,Incomplete Primary,Male,17,0,288209,501552
+8539,Rural,Incomplete Primary,Male,15,0,-53154,160189
+13274,Rural,Incomplete Primary,Male,39,3,-27441,185902
+3323,Rural,Incomplete Primary,Male,24,2,-37598,175745
+5647,Rural,No Education,Male,31,4,-53496,159847
+15682,Urban,Incomplete Primary,Male,18,0,186851,400194
+9025,Rural,No Education,Male,31,7,-50562,162781
+11397,Urban,Incomplete Primary,Male,20,0,134896,348239
+9812,Rural,Incomplete Primary,Male,30,5,-63445,149898
+440,Urban,Higher,Male,30,0,206430,419773
+2237,Rural,No Education,Male,39,4,-28398,184945
+9286,Rural,No Education,Female,40,8,-31551,181792
+12833,Rural,Incomplete Primary,Female,17,0,-82484,130859
+926,Rural,Incomplete Secondary,Male,21,0,-19104,194239
+15199,Urban,Complete Secondary,Male,32,0,214036,427379
+260,Urban,Complete Secondary,Male,36,2,225942,439285
+9799,Rural,Incomplete Primary,Male,15,0,-48221,165122
+4340,Rural,Incomplete Primary,Male,19,0,-116236,97107
+4253,Rural,Incomplete Primary,Male,23,0,-28063,185280
+2831,Rural,No Education,Male,45,5,-1497,211846
+6823,Rural,Incomplete Primary,Female,28,1,-69523,143820
+5793,Urban,Incomplete Primary,Male,22,2,96946,310289
+1924,Urban,Higher,Male,24,0,220074,433417
+10039,Urban,Incomplete Primary,Female,40,2,138759,352102
+3313,Rural,No Education,Male,30,5,-33077,180266
+6087,Urban,Incomplete Primary,Male,16,0,223496,436839
+9893,Rural,Incomplete Primary,Male,15,0,-38975,174368
+7408,Urban,Incomplete Secondary,Male,25,0,208553,421896
+3276,Rural,No Education,Male,21,3,-105152,108191
+13662,Rural,No Education,Male,30,2,-52097,161246
+6071,Rural,No Education,Male,21,1,-122926,90417
+928,Rural,No Education,Male,45,7,-15325,198018
+7096,Urban,Complete Secondary,Male,47,2,262160,475503
+9254,Rural,No Education,Female,30,2,-66231,147112
+3448,Rural,No Education,Male,20,1,-49231,164112
+5538,Rural,Incomplete Primary,Male,18,0,-12639,200704
+2088,Rural,Incomplete Primary,Male,20,1,-57993,155350
+5126,Urban,Higher,Female,24,0,163524,376867
+13312,Urban,No Education,Male,38,4,175772,389115
+10331,Rural,Incomplete Primary,Male,16,0,-112386,100957
+3782,Rural,No Education,Male,46,7,-55836,157507
+7475,Urban,Incomplete Secondary,Male,30,1,67340,280683
+6751,Rural,No Education,Male,37,5,-81877,131466
+9460,Urban,No Education,Male,25,3,75631,288974
+11502,Urban,Incomplete Secondary,Female,25,1,179045,392388
+1721,Urban,Incomplete Primary,Male,35,2,137079,350422
+2560,Urban,Complete Primary,Male,37,0,232840,446183
+11724,Rural,No Education,Female,21,2,-150327,63016
+1122,Urban,Incomplete Primary,Female,15,0,195201,408544
+15020,Rural,No Education,Female,20,1,-74885,138458
+11521,Rural,No Education,Male,28,3,-56544,156799
+14774,Urban,Incomplete Primary,Female,16,0,233386,446729
+6006,Rural,Incomplete Primary,Male,20,0,-25820,187523
+11170,Rural,Incomplete Primary,Male,25,2,-10202,203141
+3261,Rural,No Education,Male,24,5,-71235,142108
+13936,Rural,Incomplete Primary,Male,18,0,-55886,157457
+9427,Urban,Incomplete Secondary,Female,17,0,120731,334074
+5503,Urban,Complete Primary,Male,27,2,61339,274682
+14261,Urban,No Education,Male,45,3,197664,411007
+14701,Urban,Incomplete Primary,Female,24,1,90547,303890
+12970,Urban,Complete Primary,Female,24,0,107858,321201
+2232,Urban,Complete Secondary,Male,21,0,195746,409089
+6508,Urban,Incomplete Primary,Male,23,2,92331,305674
+1454,Urban,Incomplete Primary,Female,35,0,232695,446038
+2615,Rural,No Education,Male,33,1,-33525,179818
+15634,Urban,No Education,Male,35,0,222954,436297
+8140,Rural,No Education,Female,43,2,-139698,73645
+274,Rural,Incomplete Primary,Male,40,6,-23833,189510
+8758,Rural,Incomplete Primary,Male,15,0,-14353,198990
+2555,Urban,Incomplete Primary,Male,30,3,180104,393447
+6142,Rural,No Education,Male,26,0,-43655,169688
+12993,Rural,Incomplete Secondary,Male,20,0,-25595,187748
+4124,Rural,No Education,Male,48,5,-48347,164996
+3206,Rural,No Education,Male,33,4,-52466,160877
+5229,Rural,Incomplete Secondary,Female,18,0,-25235,188108
+6416,Urban,No Education,Male,33,0,107847,321190
+15044,Rural,No Education,Male,30,4,-52661,160682
+8723,Rural,Incomplete Primary,Male,15,0,-12803,200540
+4396,Urban,Incomplete Secondary,Male,17,1,135218,348561
+9357,Urban,Incomplete Secondary,Female,25,0,142461,355804
+795,Rural,Incomplete Secondary,Male,22,1,-28674,184669
+2407,Urban,Incomplete Secondary,Male,42,3,226059,439402
+5787,Rural,Incomplete Primary,Female,15,0,-39444,173899
+10813,Rural,No Education,Female,32,5,-34721,178622
+4694,Urban,Incomplete Secondary,Male,19,0,86758,300101
+5585,Urban,Incomplete Secondary,Female,26,0,-9607,203736
+11451,Rural,No Education,Male,32,7,-3609,209734
+10791,Rural,Incomplete Primary,Male,25,3,-30404,182939
+11406,Urban,Incomplete Secondary,Male,36,2,153803,367146
+9464,Urban,Incomplete Secondary,Male,30,2,105337,318680
+5971,Urban,Incomplete Primary,Male,16,0,287967,501310
+1660,Urban,Incomplete Secondary,Female,24,0,-4621,208722
+7664,Rural,Incomplete Primary,Male,32,5,10549,223892
+3997,Rural,Incomplete Primary,Male,15,0,-81397,131946
+1912,Urban,Higher,Male,48,6,220860,434203
+2859,Rural,Incomplete Primary,Male,28,4,-33573,179770
+11132,Rural,Incomplete Primary,Male,18,0,-6258,207085
+10145,Rural,Incomplete Primary,Male,18,1,-44214,169129
+9304,Rural,No Education,Male,46,7,-62615,150728
+8392,Rural,Incomplete Primary,Male,15,0,-34678,178665
+3711,Urban,Incomplete Primary,Male,16,0,243287,456630
+14632,Rural,Incomplete Primary,Male,22,1,-79983,133360
+14939,Urban,Incomplete Primary,Female,19,0,182739,396082
+14054,Rural,Higher,Male,30,1,61780,275123
+8087,Rural,No Education,Male,37,4,-67124,146219
+6960,Urban,Higher,Male,24,0,157553,370896
+10595,Urban,Incomplete Primary,Male,30,3,47999,261342
+1749,Urban,No Education,Male,32,2,117953,331296
+2974,Rural,No Education,Male,36,7,-45457,167886
+8847,Urban,Incomplete Secondary,Female,30,3,27483,240826
+12265,Rural,No Education,Female,18,1,-66044,147299
+12825,Rural,No Education,Male,43,8,-41597,171746
+2313,Rural,Incomplete Primary,Male,30,4,-72280,141063
+4238,Rural,No Education,Male,45,6,-64795,148548
+1359,Urban,Higher,Male,18,0,226618,439961
+8197,Rural,No Education,Male,48,8,-42821,170522
+8841,Urban,Incomplete Secondary,Female,20,0,26639,239982
+13812,Urban,No Education,Female,30,1,-25387,187956
+3345,Rural,Incomplete Primary,Male,38,7,-57951,155392
+9858,Rural,Complete Primary,Male,21,2,-21418,191925
+14216,Rural,Incomplete Secondary,Male,15,0,-33213,180130
+8451,Rural,No Education,Female,29,1,-142526,70817
+8391,Rural,Incomplete Primary,Male,49,6,-34678,178665
+3380,Urban,No Education,Female,25,2,200867,414210
+189,Rural,No Education,Male,35,6,-96106,117237
+806,Rural,Incomplete Primary,Female,15,0,-29434,183909
+2100,Rural,Incomplete Primary,Male,35,5,-34610,178733
+609,Rural,Incomplete Primary,Female,19,0,-26770,186573
+10991,Rural,No Education,Male,16,0,-49780,163563
+1460,Urban,Complete Secondary,Male,39,3,178441,391784
+5217,Rural,No Education,Male,27,3,-42700,170643
+9058,Rural,Incomplete Primary,Male,27,0,-39261,174082
+15363,Rural,No Education,Female,35,5,-49511,163832
+1329,Rural,Incomplete Primary,Male,30,5,-105164,108179
+11520,Rural,No Education,Male,40,4,-69571,143772
+12717,Rural,Incomplete Primary,Male,22,1,-42257,171086
+219,Rural,No Education,Female,46,1,-43428,169915
+4953,Urban,Incomplete Primary,Female,22,1,125364,338707
+361,Urban,Higher,Male,27,0,242398,455741
+8297,Rural,No Education,Female,30,1,-58912,154431
+12252,Rural,No Education,Male,25,3,-62824,150519
+6347,Rural,No Education,Male,40,3,-42283,171060
+328,Urban,Incomplete Primary,Male,15,0,89209,302552
+15015,Rural,No Education,Male,44,5,-15059,198284
+11190,Urban,No Education,Male,26,3,14158,227501
+6188,Rural,No Education,Male,45,6,-49780,163563
+8162,Rural,No Education,Female,35,2,-61357,151986
+9458,Urban,No Education,Female,25,2,87736,301079
+1412,Urban,Complete Secondary,Male,28,1,223603,436946
+5035,Rural,No Education,Male,18,0,-95309,118034
+6763,Rural,No Education,Male,25,4,-90788,122555
+2085,Rural,No Education,Male,30,4,-51475,161868
+12307,Urban,Higher,Male,38,4,222790,436133
+4120,Rural,No Education,Male,35,5,-35507,177836
+12983,Rural,No Education,Female,36,6,-76658,136685
+10011,Rural,No Education,Female,45,2,-79782,133561
+13963,Rural,Incomplete Primary,Female,15,0,-76669,136674
+5835,Rural,No Education,Male,25,2,-77168,136175
+7417,Rural,No Education,Male,41,4,-26038,187305
+8828,Urban,Incomplete Primary,Male,17,0,76361,289704
+11837,Rural,Incomplete Primary,Male,18,1,-31891,181452
+3754,Urban,Higher,Male,28,1,229518,442861
+6801,Rural,Incomplete Primary,Female,16,0,-27253,186090
+1770,Rural,No Education,Female,22,0,-112531,100812
+15668,Urban,Incomplete Primary,Male,24,0,144819,358162
+12390,Rural,No Education,Male,22,2,-40621,172722
+11635,Rural,Incomplete Secondary,Female,16,0,-72071,141272
+4039,Rural,No Education,Male,42,6,-54084,159259
+1689,Urban,No Education,Male,33,5,160786,374129
+2358,Urban,Higher,Male,31,0,211931,425274
+12907,Urban,Higher,Male,25,0,-36455,176888
+9955,Urban,Complete Primary,Male,46,5,141552,354895
+14412,Rural,No Education,Female,40,0,-50580,162763
+9002,Rural,No Education,Male,39,2,-62824,150519
+3016,Rural,Incomplete Primary,Male,20,1,-37842,175501
+14511,Urban,Incomplete Secondary,Female,17,0,83986,297329
+8031,Rural,No Education,Male,39,7,-14670,198673
+7947,Rural,No Education,Female,27,4,-29040,184303
+2663,Urban,Higher,Male,30,1,246153,459496
+3756,Urban,Incomplete Secondary,Female,20,0,43473,256816
+1808,Rural,No Education,Female,19,0,-99928,113415
+42,Rural,No Education,Male,26,5,-23046,190297
+8193,Rural,No Education,Male,32,5,-48253,165090
+8472,Rural,Incomplete Primary,Male,26,0,-46980,166363
+13166,Rural,No Education,Male,29,3,-111653,101690
+5569,Urban,Complete Primary,Male,19,1,173095,386438
+5459,Urban,Incomplete Secondary,Female,18,0,102061,315404
+14118,Rural,Incomplete Secondary,Female,18,0,-8221,205122
+2930,Rural,No Education,Male,28,3,-28425,184918
+12757,Rural,No Education,Female,40,2,-42053,171290
+11267,Rural,Complete Primary,Male,19,0,5435,218778
+6978,Rural,No Education,Male,25,3,-48599,164744
+1699,Rural,Incomplete Primary,Male,30,3,-101393,111950
+1607,Rural,No Education,Male,23,1,-71744,141599
+9097,Rural,Incomplete Primary,Female,15,0,-48686,164657
+11963,Urban,Incomplete Primary,Male,15,0,93369,306712
+8914,Rural,No Education,Male,29,5,-87471,125872
+1327,Rural,No Education,Male,42,9,-68594,144749
+3577,Rural,Complete Primary,Male,22,1,21488,234831
+9023,Rural,No Education,Male,21,3,-50803,162540
+2158,Urban,Incomplete Primary,Female,19,0,119211,332554
+13278,Urban,Incomplete Primary,Male,18,0,119529,332872
+11753,Urban,Higher,Male,25,0,93560,306903
+14218,Rural,No Education,Male,33,8,-44646,168697
+3834,Rural,No Education,Male,30,4,-60487,152856
+8969,Rural,Incomplete Secondary,Male,19,1,-70956,142387
+1255,Rural,No Education,Male,16,0,-50243,163100
+15014,Rural,Incomplete Primary,Male,17,0,-15173,198170
+5169,Rural,No Education,Male,29,6,-21117,192226
+3882,Urban,Complete Primary,Female,31,3,206430,419773
+15517,Urban,Incomplete Primary,Male,40,2,175693,389036
+2022,Rural,No Education,Male,25,2,-53099,160244
+2936,Rural,Incomplete Primary,Male,19,1,-62776,150567
+9728,Urban,Higher,Male,19,0,249335,462678
+14334,Rural,No Education,Male,31,3,-44970,168373
+1890,Urban,Incomplete Primary,Male,17,0,240475,453818
+8500,Rural,No Education,Male,33,3,-18295,195048
+2808,Rural,No Education,Male,39,9,-114469,98874
+9034,Rural,Incomplete Secondary,Male,23,0,-25100,188243
+13345,Rural,No Education,Male,29,2,-71550,141793
+3284,Rural,No Education,Male,40,5,-37896,175447
+10442,Rural,Incomplete Primary,Male,28,5,-69007,144336
+4230,Urban,Complete Primary,Male,23,1,82868,296211
+7839,Rural,No Education,Male,28,3,-103460,109883
+7301,Rural,No Education,Male,26,5,-110934,102409
+3903,Rural,Incomplete Primary,Male,15,0,-45037,168306
+4955,Urban,No Education,Female,18,0,70553,283896
+8411,Rural,No Education,Male,30,4,-89595,123748
+15008,Rural,Incomplete Primary,Male,18,0,-18023,195320
+1767,Rural,No Education,Female,33,3,-146404,66939
+11072,Rural,No Education,Female,40,3,-55279,158064
+4193,Rural,No Education,Female,24,3,-129007,84336
+6109,Urban,Higher,Male,40,5,224864,438207
+11752,Urban,Higher,Female,19,0,42308,255651
+2190,Rural,No Education,Male,22,2,-43788,169555
+386,Urban,Incomplete Primary,Male,34,2,-9602,203741
+6134,Rural,Incomplete Primary,Male,26,3,-47273,166070
+8145,Rural,No Education,Male,45,4,-120531,92812
+8268,Rural,Incomplete Secondary,Female,27,2,-15114,198229
+4337,Rural,No Education,Male,25,3,-89315,124028
+312,Rural,Incomplete Primary,Female,16,0,-26916,186427
+6474,Rural,No Education,Male,19,1,-74145,139198
+12236,Rural,Incomplete Secondary,Male,22,0,28668,242011
+13514,Rural,Incomplete Secondary,Male,18,0,-41011,172332
+8884,Rural,No Education,Male,28,6,-68827,144516
+4394,Urban,Incomplete Primary,Female,33,5,62943,276286
+14541,Rural,No Education,Female,32,8,-98691,114652
+5854,Rural,Incomplete Primary,Male,26,1,-54887,158456
+13906,Rural,Incomplete Primary,Male,20,2,-38829,174514
+10461,Rural,No Education,Male,45,1,-49993,163350
+7691,Urban,Incomplete Secondary,Male,29,2,233609,446952
+6114,Urban,Complete Secondary,Female,37,1,191633,404976
+1054,Urban,Complete Primary,Female,40,2,147660,361003
+6106,Urban,Incomplete Primary,Male,21,1,129611,342954
+2146,Urban,Incomplete Secondary,Male,16,0,159163,372506
+7336,Rural,Incomplete Primary,Male,25,1,-18833,194510
+2335,Rural,No Education,Male,40,8,-42611,170732
+7308,Rural,No Education,Male,25,4,-92165,121178
+11356,Urban,Complete Primary,Female,32,2,44456,257799
+6612,Urban,Incomplete Primary,Female,27,0,229101,442444
+12577,Urban,Incomplete Primary,Female,17,0,85880,299223
+10204,Urban,Incomplete Secondary,Female,21,1,74558,287901
+10125,Rural,Incomplete Primary,Male,31,3,-76739,136604
+354,Urban,No Education,Male,40,5,201857,415200
+13899,Rural,No Education,Female,25,3,-40017,173326
+7827,Rural,Incomplete Secondary,Female,29,2,-25022,188321
+6779,Rural,Incomplete Primary,Male,20,2,-103839,109504
+3528,Urban,Incomplete Secondary,Male,24,0,202469,415812
+8077,Rural,No Education,Female,36,5,-74648,138695
+14519,Urban,Higher,Female,28,0,142791,356134
+11450,Rural,No Education,Female,45,4,-29381,183962
+4045,Rural,No Education,Male,23,3,-70980,142363
+2499,Rural,Incomplete Secondary,Female,24,2,-57394,155949
+3523,Urban,Higher,Male,20,0,203206,416549
+5941,Rural,Incomplete Primary,Male,21,0,-76914,136429
+15,Rural,No Education,Male,27,6,-27687,185656
+9467,Urban,Incomplete Primary,Female,37,5,94371,307714
+1870,Rural,Incomplete Primary,Male,40,4,-49881,163462
+3430,Rural,Incomplete Primary,Male,18,0,-29949,183394
+534,Rural,Incomplete Primary,Male,26,4,-7900,205443
+13603,Urban,Higher,Female,20,0,140609,353952
+2656,Urban,Higher,Male,24,0,144345,357688
+6014,Rural,Incomplete Secondary,Male,22,0,-23636,189707
+10931,Urban,Incomplete Primary,Male,31,2,232303,445646
+10795,Rural,No Education,Male,33,5,-83188,130155
+4985,Rural,No Education,Male,37,5,-21825,191518
+7078,Urban,Complete Secondary,Female,38,0,206293,419636
+6352,Rural,Incomplete Primary,Male,15,0,-36837,176506
+12056,Rural,Incomplete Primary,Female,22,1,-47304,166039
+1804,Rural,Incomplete Primary,Male,20,2,-107002,106341
+6992,Rural,No Education,Male,25,4,-62100,151243
+4780,Rural,Incomplete Secondary,Male,23,0,-15640,197703
+3214,Rural,Incomplete Primary,Male,17,0,-40869,172474
+5853,Rural,Incomplete Primary,Male,15,0,-29808,183535
+12790,Rural,No Education,Male,28,7,-59854,153489
+569,Rural,Incomplete Primary,Male,16,0,-30440,182903
+14971,Rural,No Education,Male,27,2,-29163,184180
+2772,Urban,Incomplete Primary,Male,28,0,137775,351118
+32,Rural,No Education,Female,25,2,-93471,119872
+15051,Rural,No Education,Female,40,2,-21484,191859
+122,Urban,Incomplete Secondary,Male,25,0,199112,412455
+15289,Rural,No Education,Male,45,7,-93082,120261
+13520,Rural,No Education,Male,30,1,-65034,148309
+2586,Urban,Incomplete Secondary,Male,18,0,129499,342842
+12745,Rural,No Education,Male,34,6,-103179,110164
+3423,Rural,No Education,Male,48,4,-14209,199134
+3211,Rural,Incomplete Primary,Male,41,4,-34628,178715
+14624,Rural,Incomplete Primary,Male,16,0,-39174,174169
+9995,Urban,Complete Primary,Male,15,0,142510,355853
+8130,Rural,No Education,Female,27,4,-61290,152053
+733,Urban,Incomplete Primary,Male,29,2,40596,253939
+9802,Rural,No Education,Female,26,1,-74154,139189
+3853,Rural,No Education,Male,28,2,-46423,166920
+80,Rural,No Education,Female,28,3,-82631,130712
+4844,Rural,No Education,Male,30,3,-38699,174644
+13658,Rural,No Education,Female,27,3,-67014,146329
+411,Urban,Incomplete Secondary,Female,19,0,190554,403897
+13953,Rural,Incomplete Primary,Male,16,0,-76363,136980
+6970,Rural,Incomplete Primary,Male,26,2,-66557,146786
+10549,Rural,Incomplete Secondary,Female,21,2,-74003,139340
+1963,Urban,Incomplete Secondary,Female,46,1,252453,465796
+12676,Rural,Incomplete Secondary,Male,17,0,47929,261272
+12701,Rural,No Education,Female,33,4,-70930,142413
+8871,Rural,No Education,Male,45,8,40911,254254
+7529,Rural,Incomplete Primary,Male,25,0,-68872,144471
+3670,Rural,No Education,Male,29,4,-78560,134783
+14266,Urban,Higher,Male,26,1,153634,366977
+9649,Rural,Complete Secondary,Male,32,0,1019,214362
+10650,Urban,No Education,Male,37,7,156919,370262
+13887,Rural,No Education,Male,31,5,-133615,79728
+9408,Urban,Incomplete Primary,Male,42,3,45772,259115
+14515,Urban,Incomplete Primary,Male,36,6,51275,264618
+2472,Rural,Incomplete Secondary,Female,26,0,-73628,139715
+15491,Rural,No Education,Male,38,7,-65230,148113
+4788,Rural,No Education,Male,34,3,-28756,184587
+4101,Urban,Incomplete Primary,Male,28,2,2399,215742
+3614,Urban,Incomplete Secondary,Female,15,0,222122,435465
+8381,Rural,Incomplete Primary,Male,23,0,-13637,199706
+12521,Rural,Incomplete Primary,Male,15,0,-42934,170409
+1490,Rural,No Education,Male,40,7,-30169,183174
+3590,Rural,No Education,Male,23,0,-66672,146671
+9489,Urban,Incomplete Primary,Female,35,4,106272,319615
+8288,Rural,Incomplete Secondary,Male,19,0,-46023,167320
+9575,Urban,Incomplete Primary,Female,35,2,124876,338219
+11931,Rural,No Education,Male,22,4,-79700,133643
+12280,Rural,No Education,Male,31,5,-62319,151024
+8177,Rural,No Education,Male,32,4,-50411,162932
+14873,Urban,Incomplete Primary,Female,30,0,34863,248206
+9133,Rural,No Education,Male,35,4,-26282,187061
+5184,Rural,Incomplete Primary,Female,16,0,-90049,123294
+14163,Rural,Incomplete Primary,Male,20,0,-80460,132883
+11263,Rural,No Education,Female,42,5,-25064,188279
+1769,Rural,No Education,Female,49,1,-112531,100812
+5937,Rural,No Education,Male,35,7,-63947,149396
+14659,Rural,No Education,Male,28,3,-75893,137450
+5737,Urban,Higher,Male,24,0,242122,455465
+13057,Urban,Higher,Male,26,0,219890,433233
+12189,Urban,Incomplete Primary,Male,23,2,82786,296129
+5181,Rural,No Education,Female,25,3,-97440,115903
+9568,Rural,No Education,Female,16,0,-81378,131965
+13061,Urban,Higher,Male,26,0,185964,399307
+4065,Rural,No Education,Male,20,0,-61476,151867
+10096,Rural,Incomplete Secondary,Male,19,0,-37083,176260
+6348,Rural,No Education,Male,37,4,-44989,168354
+5100,Urban,Higher,Male,24,0,293905,507248
+14443,Rural,Incomplete Primary,Female,30,2,-37979,175364
+456,Urban,Higher,Male,44,2,265161,478504
+14447,Rural,No Education,Male,35,4,-24259,189084
+12484,Urban,Higher,Male,25,1,91247,304590
+7306,Rural,No Education,Male,35,7,-113114,100229
+6931,Urban,Higher,Female,37,0,165314,378657
+1990,Urban,Incomplete Primary,Female,45,5,175021,388364
+4752,Rural,Incomplete Primary,Male,37,7,-57009,156334
+1489,Rural,No Education,Male,26,3,-47629,165714
+4107,Urban,No Education,Male,32,3,30120,243463
+11612,Rural,No Education,Male,24,1,-111761,101582
+15141,Urban,No Education,Male,35,3,154995,368338
+9939,Rural,Incomplete Primary,Male,18,0,-42450,170893
+5408,Urban,Incomplete Primary,Female,27,0,275491,488834
+13759,Urban,Complete Primary,Male,20,1,-4156,209187
+6835,Urban,Complete Primary,Male,24,2,94492,307835
+9855,Rural,Incomplete Secondary,Male,16,0,-40334,173009
+9630,Rural,No Education,Male,26,2,-64326,149017
+7769,Rural,No Education,Male,28,2,-70689,142654
+1563,Urban,Incomplete Secondary,Male,25,1,153932,367275
+14463,Rural,Incomplete Primary,Female,15,0,-141876,71467
+6552,Rural,Incomplete Primary,Male,18,0,-26876,186467
+174,Rural,No Education,Male,29,5,-98144,115199
+10631,Urban,No Education,Male,24,2,165156,378499
+51,Rural,No Education,Male,33,3,-33620,179723
+7021,Urban,Incomplete Primary,Female,16,0,199341,412684
+4163,Urban,No Education,Male,32,8,-24895,188448
+8395,Rural,Incomplete Secondary,Male,28,1,-27685,185658
+5675,Rural,No Education,Male,48,4,-53706,159637
+400,Urban,Higher,Male,20,0,99836,313179
+4462,Rural,No Education,Male,27,2,-39595,173748
+750,Urban,Incomplete Secondary,Male,20,1,193257,406600
+4707,Urban,No Education,Female,30,3,39350,252693
+4626,Urban,Incomplete Primary,Male,35,2,35726,249069
+14886,Rural,Incomplete Secondary,Male,22,0,-45294,168049
+15078,Rural,No Education,Male,28,3,-44424,168919
+6467,Rural,No Education,Female,47,2,-47531,165812
+6390,Urban,Incomplete Primary,Male,22,0,82786,296129
+5548,Urban,No Education,Male,30,4,39982,253325
+15026,Rural,No Education,Female,28,4,-79226,134117
+2302,Rural,Incomplete Primary,Male,16,0,-51486,161857
+1040,Urban,Incomplete Primary,Male,17,0,118459,331802
+4672,Rural,No Education,Female,46,8,-79126,134217
+8255,Rural,No Education,Female,28,4,-52825,160518
+4157,Urban,Higher,Female,35,2,217398,430741
+1140,Rural,No Education,Male,32,1,-5091,208252
+10290,Rural,Incomplete Primary,Male,25,2,-84459,128884
+2272,Urban,Incomplete Secondary,Female,16,0,-37116,176227
+4668,Rural,Incomplete Primary,Male,15,0,-67324,146019
+14982,Rural,No Education,Male,25,3,-25007,188336
+7682,Rural,No Education,Male,21,2,-72443,140900
+11328,Rural,No Education,Male,29,5,-55982,157361
+8427,Rural,No Education,Male,37,6,-99850,113493
+6073,Rural,No Education,Male,17,0,-129486,83857
+6581,Rural,Incomplete Primary,Male,31,4,-47942,165401
+10833,Rural,No Education,Male,35,5,-33955,179388
+14814,Rural,Incomplete Primary,Female,18,0,-54824,158519
+11189,Rural,Incomplete Primary,Male,25,2,-24571,188772
+9198,Rural,No Education,Male,30,6,-73545,139798
+5475,Rural,No Education,Male,19,1,-46216,167127
+1698,Rural,No Education,Male,34,1,-54911,158432
+14254,Urban,Higher,Male,31,4,137098,350441
+13021,Urban,Incomplete Primary,Male,34,3,-45016,168327
+11399,Urban,No Education,Female,39,3,157093,370436
+12360,Rural,Incomplete Primary,Male,20,1,-107302,106041
+14291,Urban,No Education,Female,30,6,-28704,184639
+4703,Urban,Complete Primary,Female,44,0,75873,289216
+8444,Rural,Incomplete Primary,Male,17,0,-25470,187873
+13912,Rural,Incomplete Primary,Male,39,6,10633,223976
+3291,Rural,No Education,Male,22,1,-44637,168706
+6278,Rural,Incomplete Primary,Female,17,0,-56502,156841
+10964,Rural,Incomplete Primary,Male,23,1,-53665,159678
+1226,Rural,Incomplete Primary,Female,21,0,-44817,168526
+4217,Urban,Higher,Male,21,0,187156,400499
+15541,Urban,Incomplete Secondary,Female,42,2,225800,439143
+3419,Rural,No Education,Female,46,8,-29325,184018
+3775,Urban,Incomplete Secondary,Female,27,0,55083,268426
+9298,Rural,No Education,Male,42,5,-35252,178091
+7277,Rural,No Education,Male,28,5,-22669,190674
+5859,Rural,Incomplete Primary,Male,42,7,-15465,197878
+9508,Rural,Incomplete Secondary,Male,24,1,12169,225512
+13943,Rural,No Education,Male,42,5,-28447,184896
+12109,Rural,No Education,Male,25,3,-45356,167987
+10647,Urban,No Education,Female,20,0,215315,428658
+2958,Rural,No Education,Male,20,2,-57886,155457
+10582,Urban,Complete Primary,Female,15,0,23152,236495
+1,Rural,No Education,Male,38,8,-51074,162269
+9539,Rural,Incomplete Primary,Male,15,0,-81509,131834
+10792,Rural,No Education,Male,45,6,-59071,154272
+8770,Urban,Incomplete Secondary,Male,38,1,148616,361959
+3510,Urban,No Education,Male,24,0,176143,389486
+9017,Rural,Incomplete Primary,Male,21,0,-57903,155440
+7299,Rural,No Education,Female,27,5,-106834,106509
+3493,Urban,Incomplete Secondary,Male,25,1,163108,376451
+13845,Rural,Incomplete Primary,Female,16,0,-117884,95459
+6867,Urban,Incomplete Primary,Female,42,4,-88609,124734
+14970,Rural,No Education,Male,25,1,-40604,172739
+10787,Rural,No Education,Female,48,10,-9707,203636
+8754,Rural,Incomplete Secondary,Male,24,2,-37940,175403
+3464,Urban,Incomplete Primary,Female,25,0,78058,291401
+10291,Rural,No Education,Male,18,1,-79502,133841
+8792,Rural,No Education,Female,37,8,-91638,121705
+9420,Urban,Incomplete Primary,Male,33,5,-68033,145310
+13900,Rural,Incomplete Primary,Male,38,0,-109481,103862
+4329,Rural,No Education,Male,19,0,-124329,89014
+13375,Rural,No Education,Male,32,6,-79638,133705
+13536,Rural,No Education,Male,24,3,-43556,169787
+2547,Urban,Incomplete Primary,Female,43,1,144018,357361
+5894,Rural,Incomplete Secondary,Female,19,0,-56823,156520
+12616,Rural,No Education,Male,32,5,-58262,155081
+11551,Rural,No Education,Male,33,6,-46987,166356
+3462,Rural,Complete Primary,Male,16,0,-23034,190309
+13046,Urban,Incomplete Secondary,Male,27,3,41036,254379
+15104,Rural,Incomplete Secondary,Male,18,0,-51496,161847
+11694,Urban,Incomplete Secondary,Male,15,0,241082,454425
+3661,Urban,Higher,Female,22,0,137785,351128
+2082,Rural,No Education,Female,41,4,-65402,147941
+9564,Rural,No Education,Male,45,6,-54985,158358
+5153,Rural,No Education,Male,38,9,-72855,140488
+9894,Rural,Incomplete Primary,Male,25,1,-52741,160602
+11903,Urban,Incomplete Primary,Female,40,7,140937,354280
+11523,Rural,No Education,Male,30,3,-68217,145126
+3208,Rural,No Education,Male,38,5,-37496,175847
+11062,Rural,No Education,Male,20,0,-62755,150588
+13497,Urban,No Education,Male,24,4,-86254,127089
+11937,Rural,No Education,Male,18,0,-97695,115648
+6096,Urban,Complete Primary,Male,31,2,186711,400054
+625,Urban,No Education,Female,48,6,212039,425382
+9752,Rural,Incomplete Secondary,Female,20,0,-34141,179202
+10932,Urban,Complete Primary,Male,38,3,258859,472202
+12630,Rural,Incomplete Primary,Male,31,5,-12276,201067
+7454,Urban,Incomplete Primary,Female,15,0,259856,473199
+7721,Rural,No Education,Male,17,0,-83671,129672
+12961,Urban,Incomplete Secondary,Female,25,0,214607,427950
+5863,Rural,No Education,Male,30,2,-33999,179344
+11949,Urban,Incomplete Primary,Male,20,1,69212,282555
+13649,Rural,No Education,Male,31,7,-82437,130906
+12487,Urban,Incomplete Secondary,Male,34,3,139820,353163
+10300,Rural,No Education,Male,27,5,-68299,145044
+11720,Rural,No Education,Female,22,2,-141007,72336
+3777,Urban,Higher,Female,31,0,204659,418002
+10428,Rural,Incomplete Primary,Male,16,0,-57151,156192
+5118,Urban,Incomplete Primary,Female,47,4,126352,339695
+4581,Rural,Incomplete Primary,Male,24,2,-80043,133300
+7568,Rural,No Education,Male,45,7,-50137,163206
+12602,Rural,No Education,Male,20,1,-36076,177267
+9660,Rural,No Education,Female,31,3,-35584,177759
+9,Rural,No Education,Female,23,2,-64141,149202
+6441,Rural,Incomplete Primary,Male,15,0,-33208,180135
+8078,Rural,No Education,Male,22,1,-71159,142184
+5067,Rural,No Education,Male,47,8,-55133,158210
+12101,Urban,Incomplete Primary,Male,40,0,209115,422458
+11957,Urban,No Education,Female,26,1,121601,334944
+1651,Urban,Higher,Female,30,0,-8476,204867
+2175,Rural,Complete Primary,Male,20,2,-35660,177683
+451,Urban,Incomplete Primary,Female,19,0,237133,450476
+8115,Rural,No Education,Male,24,3,-95073,118270
+8740,Rural,Incomplete Primary,Female,41,6,-30722,182621
+12624,Rural,No Education,Female,28,7,-42742,170601
+8453,Rural,No Education,Male,24,3,-127812,85531
+13334,Urban,Higher,Male,28,0,227711,441054
+2513,Rural,Incomplete Primary,Female,37,5,-63771,149572
+3046,Rural,Incomplete Secondary,Male,25,3,-37999,175344
+5164,Rural,Incomplete Primary,Male,30,3,-59742,153601
+2086,Rural,No Education,Male,31,7,-64598,148745
+7587,Urban,Incomplete Primary,Male,19,0,300338,513681
+7597,Urban,Incomplete Primary,Male,21,0,300603,513946
+2814,Rural,No Education,Male,20,0,-124774,88569
+182,Rural,No Education,Male,28,5,-69570,143773
+7734,Urban,Incomplete Primary,Male,34,3,31593,244936
+1322,Rural,Incomplete Primary,Male,28,3,-94643,118700
+2202,Rural,No Education,Male,44,3,-61468,151875
+9444,Rural,No Education,Female,40,4,-102196,111147
+13487,Urban,No Education,Male,28,3,-74888,138455
+12780,Rural,No Education,Male,36,6,-74916,138427
+15251,Rural,No Education,Male,36,4,-35481,177862
+15592,Rural,Incomplete Primary,Male,25,4,-57968,155375
+11540,Rural,Incomplete Primary,Male,22,0,-38207,175136
+4316,Rural,No Education,Female,39,7,-138364,74979
+13352,Rural,No Education,Male,33,7,-93920,119423
+13143,Rural,No Education,Male,44,6,-1498,211845
+15428,Rural,No Education,Male,47,8,-43810,169533
+255,Urban,No Education,Female,20,0,200961,414304
+6346,Rural,No Education,Male,29,4,-54704,158639
+3108,Rural,No Education,Male,25,2,19355,232698
+3468,Urban,Complete Primary,Male,19,0,126146,339489
+7376,Urban,Complete Primary,Male,16,0,8600,221943
+5466,Rural,No Education,Male,25,3,-53664,159679
+2451,Rural,Incomplete Primary,Male,19,0,-80228,133115
+5275,Rural,No Education,Male,37,1,-40603,172740
+14770,Urban,Complete Primary,Male,27,0,188966,402309
+1599,Rural,No Education,Female,48,3,-63186,150157
+14643,Rural,Incomplete Primary,Male,17,0,-65571,147772
+5573,Urban,Incomplete Secondary,Male,15,0,229694,443037
+9252,Rural,No Education,Male,27,3,-20553,192790
+6505,Urban,Incomplete Secondary,Male,21,0,43304,256647
+8930,Urban,No Education,Male,48,2,127934,341277
+5195,Rural,Incomplete Primary,Female,42,7,-42907,170436
+15384,Rural,Incomplete Primary,Male,25,2,-8752,204591
+10369,Urban,Incomplete Primary,Male,25,1,123157,336500
+10541,Rural,No Education,Male,42,5,-85137,128206
+4352,Urban,Incomplete Primary,Male,34,2,148443,361786
+13137,Rural,Incomplete Primary,Male,15,0,-57668,155675
+773,Rural,Incomplete Primary,Female,15,0,-36460,176883
+12933,Urban,Higher,Male,27,0,222213,435556
+3222,Urban,Incomplete Primary,Male,20,1,82876,296219
+285,Rural,Incomplete Primary,Male,30,6,-3146,210197
+5555,Urban,Incomplete Primary,Female,38,0,71125,284468
+14084,Rural,No Education,Male,22,1,-67992,145351
+5059,Rural,Incomplete Primary,Female,35,7,-61478,151865
+395,Urban,Higher,Female,22,0,80853,294196
+14705,Urban,Incomplete Secondary,Male,17,0,246148,459491
+327,Urban,Higher,Male,32,1,89209,302552
+14797,Urban,Higher,Male,20,0,243488,456831
+7552,Rural,Incomplete Primary,Male,30,1,-59748,153595
+5564,Urban,Complete Primary,Male,35,2,29315,242658
+9566,Rural,No Education,Female,17,0,-74637,138706
+4973,Urban,Incomplete Secondary,Female,22,0,172929,386272
+1984,Urban,Higher,Male,21,0,220177,433520
+2610,Rural,Incomplete Primary,Male,42,3,-61084,152259
+12377,Rural,Incomplete Primary,Female,24,2,-42425,170918
+7172,Rural,No Education,Female,41,7,-37317,176026
+11974,Rural,Incomplete Primary,Male,21,2,-27917,185426
+15501,Rural,No Education,Female,20,1,-52489,160854
+6700,Rural,No Education,Male,38,8,-142656,70687
+8507,Rural,No Education,Male,46,5,-2219,211124
+7977,Urban,Complete Secondary,Female,38,0,231107,444450
+6033,Rural,No Education,Male,30,5,-87013,126330
+11738,Urban,Incomplete Primary,Male,15,0,125292,338635
+5383,Urban,Incomplete Primary,Male,15,0,152906,366249
+1262,Urban,Incomplete Secondary,Female,18,0,169752,383095
+15147,Urban,Higher,Female,29,0,107053,320396
+13387,Urban,Complete Primary,Female,21,0,55405,268748
+12254,Rural,No Education,Male,20,2,-66586,146757
+7969,Urban,Complete Secondary,Female,48,2,218467,431810
+9612,Rural,No Education,Male,28,5,-49879,163464
+5461,Urban,Incomplete Primary,Female,34,0,18906,232249
+6046,Rural,No Education,Male,45,7,-100829,112514
+1419,Urban,Higher,Male,28,1,272799,486142
+6530,Rural,No Education,Male,27,5,-84615,128728
+15421,Urban,Incomplete Secondary,Female,22,0,86768,300111
+9920,Rural,Incomplete Primary,Male,28,3,-38463,174880
+11710,Rural,No Education,Male,31,4,-57096,156247
+8318,Rural,No Education,Male,22,0,-65371,147972
+12903,Urban,Complete Secondary,Male,18,0,-12742,200601
+9130,Rural,No Education,Female,30,2,-62327,151016
+4029,Rural,Incomplete Primary,Female,17,0,-33829,179514
+14421,Rural,No Education,Male,40,6,-77668,135675
+9333,Urban,Incomplete Primary,Female,16,0,144454,357797
+4615,Urban,Complete Primary,Female,32,4,159275,372618
+1476,Urban,Higher,Female,24,0,124898,338241
+6464,Rural,No Education,Male,35,7,-36637,176706
+10855,Rural,Incomplete Primary,Male,30,5,-43693,169650
+6429,Rural,Incomplete Primary,Male,22,2,-11041,202302
+1434,Urban,Incomplete Primary,Male,46,2,69374,282717
+2151,Urban,Complete Primary,Male,15,0,146564,359907
+10509,Rural,No Education,Female,26,4,-68309,145034
+14147,Rural,No Education,Female,18,0,-75170,138173
+15547,Urban,Incomplete Primary,Female,18,0,-3863,209480
+5872,Rural,Incomplete Primary,Male,40,7,-42220,171123
+15445,Rural,No Education,Male,45,3,-39595,173748
+9970,Urban,Complete Primary,Male,31,2,144846,358189
+3888,Rural,No Education,Male,28,5,-58379,154964
+8749,Rural,Incomplete Primary,Female,31,6,-51141,162202
+6225,Urban,Incomplete Primary,Female,40,3,23872,237215
+6342,Rural,No Education,Male,45,6,-59224,154119
+11524,Rural,No Education,Male,28,4,-68478,144865
+12080,Urban,No Education,Female,47,4,100383,313726
+1248,Rural,No Education,Male,26,2,-47486,165857
+978,Rural,Incomplete Primary,Male,18,0,-27888,185455
+1027,Urban,No Education,Male,43,2,82597,295940
+11028,Rural,No Education,Male,44,8,-30914,182429
+11961,Urban,Higher,Male,20,0,118332,331675
+276,Rural,No Education,Male,42,7,30233,243576
+2352,Urban,Incomplete Secondary,Female,19,1,162408,375751
+2752,Urban,Higher,Female,20,2,34637,247980
+15362,Rural,No Education,Male,25,3,-55761,157582
+10073,Rural,No Education,Male,31,2,-47030,166313
+4430,Rural,Incomplete Secondary,Female,22,0,-8777,204566
+10116,Rural,Incomplete Secondary,Female,25,0,-76676,136667
+7220,Rural,Incomplete Primary,Female,30,3,-61545,151798
+9354,Urban,Incomplete Primary,Male,16,0,206504,419847
+9633,Rural,No Education,Male,46,4,-34816,178527
+8704,Urban,No Education,Female,46,9,-17860,195483
+10242,Rural,Incomplete Primary,Female,16,1,-22726,190617
+14055,Rural,Incomplete Primary,Female,47,5,-42597,170746
+3022,Rural,Incomplete Primary,Male,28,3,-5782,207561
+4025,Rural,Incomplete Primary,Male,19,0,-27251,186092
+10859,Rural,No Education,Female,39,11,-68345,144998
+12196,Urban,Incomplete Secondary,Male,24,0,129968,343311
+2087,Rural,Incomplete Primary,Male,22,1,-57993,155350
+5021,Rural,Incomplete Primary,Male,15,0,-15800,197543
+9317,Urban,No Education,Male,27,4,111672,325015
+3166,Rural,No Education,Male,47,8,-99650,113693
+12326,Rural,No Education,Male,30,1,-71345,141998
+10244,Rural,No Education,Male,40,7,-5261,208082
+5730,Urban,Higher,Female,25,0,167276,380619
+8564,Urban,Incomplete Primary,Female,22,0,96376,309719
+1494,Rural,Complete Primary,Male,15,0,-30169,183174
+2127,Urban,Incomplete Primary,Male,18,0,183561,396904
+5333,Urban,Higher,Female,24,0,71931,285274
+5422,Urban,Higher,Male,20,0,232437,445780
+2449,Rural,No Education,Female,30,3,-55328,158015
+4817,Rural,No Education,Male,24,3,-91998,121345
+5024,Rural,Incomplete Secondary,Male,40,0,-63424,149919
+10408,Rural,No Education,Male,47,8,-55467,157876
+1531,Urban,Incomplete Primary,Male,17,0,121124,334467
+15478,Rural,No Education,Male,30,3,-54342,159001
+8342,Rural,Higher,Male,27,4,-8575,204768
+13683,Rural,No Education,Female,22,2,-75166,138177
+14578,Urban,Incomplete Secondary,Male,20,0,-65751,147592
+12367,Rural,No Education,Male,30,2,-63634,149709
+11798,Urban,Incomplete Primary,Male,18,0,131967,345310
+8362,Rural,No Education,Female,32,5,-113364,99979
+6635,Urban,Incomplete Primary,Female,20,0,229956,443299
+2141,Urban,Incomplete Secondary,Male,32,1,113968,327311
+9501,Rural,Incomplete Primary,Male,20,0,-74341,139002
+12703,Rural,No Education,Male,30,3,-29685,183658
+15012,Rural,Incomplete Primary,Male,41,1,-31091,182252
+2040,Rural,No Education,Male,31,4,-44377,168966
+10609,Rural,Incomplete Secondary,Female,20,0,-47725,165618
+14411,Rural,No Education,Male,30,6,-41278,172065
+8016,Rural,Incomplete Primary,Male,45,7,-27256,186087
+13840,Rural,Incomplete Primary,Male,18,0,-99500,113843
+9839,Rural,Incomplete Primary,Male,17,0,-53740,159603
+10578,Urban,Incomplete Primary,Male,22,1,-49758,163585
+2685,Urban,No Education,Male,28,0,260236,473579
+6439,Rural,No Education,Male,47,4,-56248,157095
+14025,Rural,No Education,Male,27,2,50643,263986
+10613,Rural,Incomplete Primary,Female,30,7,-26212,187131
+12461,Rural,No Education,Male,28,5,-76579,136764
+4769,Rural,Incomplete Primary,Female,15,0,-42656,170687
+10335,Rural,Incomplete Primary,Female,22,1,-101572,111771
+9989,Urban,Incomplete Primary,Male,18,0,131773,345116
+6076,Rural,No Education,Female,24,2,-93697,119646
+6533,Rural,No Education,Male,18,1,-113519,99824
+9618,Rural,Incomplete Primary,Female,22,4,-59508,153835
+1218,Rural,Incomplete Primary,Male,15,0,18291,231634
+12709,Rural,No Education,Male,38,2,-43310,170033
+1945,Urban,No Education,Female,21,1,110950,324293
+12888,Urban,Complete Secondary,Male,23,0,112487,325830
+14700,Urban,Incomplete Secondary,Male,42,2,218531,431874
+7673,Rural,Incomplete Primary,Male,18,1,-40375,172968
+4605,Urban,Incomplete Primary,Female,27,1,89299,302642
+12373,Rural,No Education,Male,45,3,-23718,189625
+6519,Rural,No Education,Male,18,0,-101428,111915
+178,Rural,No Education,Male,20,2,-99885,113458
+2010,Rural,No Education,Male,44,4,-49173,164170
+8811,Rural,No Education,Female,18,1,-82812,130531
+1741,Urban,Incomplete Primary,Female,37,3,189494,402837
+8373,Rural,No Education,Female,28,4,-87301,126042
+13700,Rural,Incomplete Primary,Female,26,3,-20321,193022
+9546,Rural,No Education,Male,27,2,-54430,158913
+458,Urban,Incomplete Secondary,Male,39,2,126425,339768
+14290,Urban,No Education,Female,38,3,-20328,193015
+1581,Rural,Incomplete Primary,Female,16,0,-18590,194753
+4099,Urban,No Education,Male,36,3,-28890,184453
+6209,Rural,Incomplete Secondary,Male,23,2,-69111,144232
+3935,Rural,Incomplete Primary,Male,18,0,-28987,184356
+12036,Rural,No Education,Male,25,0,-63277,150066
+64,Rural,No Education,Male,40,8,-30431,182912
+6024,Rural,No Education,Male,35,5,-41448,171895
+12856,Rural,No Education,Male,40,5,-1416,211927
+7803,Urban,Incomplete Secondary,Female,18,0,76478,289821
+4601,Rural,Incomplete Primary,Male,22,0,-94386,118957
+6443,Rural,No Education,Male,31,4,-53667,159676
+2792,Rural,Complete Secondary,Male,40,1,127219,340562
+10697,Rural,No Education,Female,20,1,-76010,137333
+4405,Urban,Incomplete Secondary,Male,24,2,182705,396048
+5285,Rural,No Education,Male,42,6,-33223,180120
+3405,Rural,No Education,Female,30,5,-532,212811
+15497,Rural,No Education,Male,32,7,-84490,128853
+7361,Urban,No Education,Male,31,3,29828,243171
+12347,Rural,No Education,Female,20,1,-108967,104376
+5385,Urban,Incomplete Secondary,Male,16,0,113473,326816
+6736,Rural,No Education,Male,25,2,-102202,111141
+14743,Urban,No Education,Female,16,0,156808,370151
+3088,Rural,No Education,Male,22,2,-122580,90763
+1455,Urban,Incomplete Primary,Female,21,0,232695,446038
+7232,Rural,No Education,Female,38,2,-82563,130780
+9533,Urban,No Education,Male,34,2,86646,299989
+9125,Rural,No Education,Female,44,7,-26246,187097
+13268,Rural,Higher,Male,18,0,6038,219381
+4991,Rural,No Education,Female,25,0,-57471,155872
+9203,Rural,No Education,Male,27,5,-66717,146626
+3234,Urban,Incomplete Secondary,Male,40,3,169875,383218
+5816,Rural,No Education,Male,33,7,-115236,98107
+11341,Rural,Incomplete Primary,Male,30,4,-54660,158683
+62,Rural,No Education,Male,30,2,-31798,181545
+13771,Rural,No Education,Male,31,3,-126849,86494
+8194,Rural,No Education,Male,40,8,-36008,177335
+6689,Rural,No Education,Male,48,8,-131432,81911
+2479,Rural,Incomplete Primary,Female,18,0,-77602,135741
+10296,Rural,No Education,Male,28,2,-69805,143538
+8407,Rural,Incomplete Primary,Male,25,2,-71087,142256
+796,Rural,Incomplete Secondary,Male,20,0,-55651,157692
+7489,Urban,Incomplete Primary,Male,27,3,12807,226150
+8808,Rural,No Education,Male,18,1,-100952,112391
+9973,Urban,Incomplete Primary,Female,39,2,121804,335147
+2502,Rural,Incomplete Secondary,Female,26,2,-72573,140770
+6148,Rural,No Education,Female,28,2,-57754,155589
+10105,Rural,No Education,Female,45,3,-46350,166993
+8002,Urban,No Education,Female,20,0,270716,484059
+634,Urban,Incomplete Secondary,Female,18,0,146963,360306
+564,Rural,Incomplete Secondary,Male,23,1,-40237,173106
+1587,Rural,No Education,Male,40,6,1115,214458
+2674,Urban,Incomplete Primary,Female,35,1,96895,310238
+8461,Rural,No Education,Male,17,0,-146450,66893
+8292,Rural,No Education,Female,35,3,-62594,150749
+9876,Rural,No Education,Male,33,3,-77896,135447
+8979,Rural,Incomplete Primary,Female,16,0,-76384,136959
+14146,Rural,Incomplete Primary,Female,15,0,-54464,158879
+12430,Urban,Incomplete Secondary,Male,20,0,95735,309078
+5763,Rural,No Education,Male,23,4,-83515,129828
+12011,Rural,No Education,Male,30,4,-46721,166622
+12275,Rural,Complete Primary,Male,20,1,-76470,136873
+10621,Rural,No Education,Male,39,8,-83562,129781
+8481,Rural,Incomplete Primary,Female,41,5,-24649,188694
+9684,Rural,Incomplete Secondary,Male,23,0,-40466,172877
+11216,Urban,Complete Primary,Male,17,0,167137,380480
+8629,Rural,No Education,Male,17,0,-62437,150906
+2679,Urban,Complete Secondary,Male,23,0,109632,322975
+12248,Rural,Incomplete Primary,Male,16,0,-67371,145972
+830,Rural,No Education,Male,30,2,-66568,146775
+14512,Urban,No Education,Male,43,4,28393,241736
+2096,Rural,No Education,Male,21,1,-67364,145979
+10781,Rural,No Education,Male,30,1,-69685,143658
+13995,Rural,Incomplete Primary,Female,45,8,-34074,179269
+3547,Rural,Incomplete Primary,Male,16,0,-113612,99731
+15544,Urban,No Education,Male,34,4,13677,227020
+7832,Rural,Incomplete Primary,Female,23,1,-110418,102925
+3044,Rural,No Education,Male,27,1,-39339,174004
+11631,Rural,Incomplete Secondary,Male,25,0,-38383,174960
+11597,Rural,No Education,Female,48,5,-65413,147930
+13474,Rural,Incomplete Primary,Female,45,6,-45600,167743
+2827,Rural,No Education,Female,20,2,-81088,132255
+8001,Urban,Higher,Female,23,0,270716,484059
+8374,Rural,Incomplete Primary,Female,15,0,-113889,99454
+4861,Rural,No Education,Male,27,3,-52193,161150
+1576,Rural,Incomplete Primary,Male,16,0,-7864,205479
+408,Urban,Incomplete Primary,Male,23,0,24381,237724
+2806,Rural,No Education,Male,20,0,-131783,81560
+12615,Rural,Incomplete Primary,Male,20,3,-51562,161781
+8666,Rural,No Education,Male,32,6,-35589,177754
+13828,Urban,Incomplete Primary,Female,18,0,72997,286340
+1624,Rural,No Education,Male,25,2,-26148,187195
+3195,Rural,Incomplete Primary,Male,20,1,-51575,161768
+11271,Rural,No Education,Male,32,3,-20441,192902
+9816,Rural,Incomplete Primary,Male,23,3,-63148,150195
+15609,Rural,Incomplete Primary,Male,15,0,-57219,156124
+11434,Rural,Incomplete Primary,Male,42,7,-8814,204529
+171,Rural,No Education,Female,30,4,-84869,128474
+7206,Urban,Incomplete Primary,Male,31,2,21335,234678
+8413,Rural,Incomplete Primary,Male,15,0,-89595,123748
+10798,Rural,Incomplete Secondary,Female,35,4,-56543,156800
+13159,Rural,Incomplete Primary,Male,31,3,-65636,147707
+2969,Rural,Incomplete Primary,Male,20,0,9987,223330
+10152,Rural,Incomplete Primary,Male,15,0,-53130,160213
+12170,Rural,Incomplete Primary,Male,42,3,36780,250123
+3078,Rural,No Education,Male,34,9,-106242,107101
+13752,Urban,Incomplete Primary,Female,15,0,-75655,137688
+15643,Urban,No Education,Female,17,1,108551,321894
+5319,Rural,Incomplete Secondary,Female,16,0,98630,311973
+8378,Rural,No Education,Female,45,4,-94931,118412
+6196,Rural,No Education,Male,46,7,-81235,132108
+1386,Urban,No Education,Female,20,0,228146,441489
+9930,Rural,Incomplete Primary,Female,20,0,-19880,193463
+13729,Rural,No Education,Male,20,1,-24502,188841
+4401,Urban,Incomplete Primary,Male,15,0,190469,403812
+684,Urban,Incomplete Secondary,Female,21,0,63978,277321
+8169,Rural,Incomplete Primary,Male,25,2,-54920,158423
+3215,Rural,No Education,Female,41,3,-63220,150123
+1079,Rural,No Education,Female,48,4,-77578,135765
+10213,Rural,No Education,Male,28,7,-69303,144040
+9854,Rural,Incomplete Primary,Male,20,0,-40334,173009
+2311,Rural,Incomplete Primary,Female,18,0,-68962,144381
+10286,Rural,Incomplete Primary,Female,18,0,-55731,157612
+1723,Urban,Incomplete Secondary,Male,17,0,152504,365847
+5122,Urban,Higher,Female,29,1,164981,378324
+10653,Urban,Incomplete Primary,Female,24,0,77656,290999
+14703,Urban,Higher,Female,21,1,181848,395191
+15349,Rural,No Education,Female,48,2,-89871,123472
+410,Urban,Incomplete Secondary,Male,25,2,83213,296556
+801,Rural,No Education,Male,25,3,-55406,157937
+11433,Rural,Incomplete Primary,Male,27,3,-43393,169950
+748,Urban,Complete Primary,Male,28,3,179161,392504
+11592,Rural,Incomplete Primary,Male,16,0,-62902,150441
+2596,Rural,No Education,Male,30,4,-36685,176658
+9250,Rural,No Education,Female,35,2,-47664,165679
+14883,Rural,Incomplete Primary,Male,16,0,-63013,150330
+3012,Rural,Incomplete Primary,Male,30,5,-31905,181438
+8328,Rural,No Education,Female,30,2,-78751,134592
+8257,Rural,Incomplete Primary,Female,22,0,-32773,180570
+7465,Urban,Higher,Female,19,0,205576,418919
+591,Urban,Incomplete Secondary,Male,16,0,120225,333568
+11283,Rural,Incomplete Secondary,Female,18,0,3966,217309
+13330,Urban,Higher,Male,25,0,195048,408391
+3394,Rural,Incomplete Primary,Female,28,2,-35219,178124
+6726,Urban,No Education,Male,25,2,-20359,192984
+7880,Rural,Incomplete Primary,Female,23,1,-18758,194585
+3707,Urban,Incomplete Primary,Male,48,4,220021,433364
+1492,Rural,Complete Primary,Male,22,0,-30169,183174
+426,Urban,Incomplete Secondary,Female,22,0,137032,350375
+12126,Rural,No Education,Male,21,2,-49445,163898
+11058,Rural,No Education,Male,37,8,-57081,156262
+11359,Urban,Higher,Male,23,0,212180,425523
+4468,Rural,No Education,Female,40,7,-89988,123355
+5965,Urban,Incomplete Primary,Male,19,0,255158,468501
+8669,Rural,No Education,Male,18,0,-49317,164026
+7049,Urban,Higher,Male,21,0,146657,360000
+14473,Rural,No Education,Male,32,5,-116234,97109
+2994,Rural,No Education,Male,39,4,-49022,164321
+963,Rural,Incomplete Secondary,Male,25,0,-18203,195140
+14225,Rural,No Education,Male,22,1,-63543,149800
+6570,Rural,Incomplete Primary,Female,15,0,-23681,189662
+2862,Rural,No Education,Male,45,6,-47794,165549
+6868,Urban,Incomplete Secondary,Female,25,1,-88609,124734
+5986,Urban,Higher,Male,18,0,252934,466277
+8474,Rural,Incomplete Primary,Male,18,0,-22483,190860
+474,Rural,No Education,Female,38,1,-8069,205274
+6840,Urban,Higher,Male,23,1,178020,391363
+1399,Urban,Incomplete Secondary,Male,17,0,236037,449380
+8761,Urban,No Education,Female,35,4,-12996,200347
+3890,Rural,Incomplete Secondary,Male,23,1,-38265,175078
+11292,Rural,No Education,Male,27,3,-69345,143998
+4460,Rural,No Education,Female,47,3,-80176,133167
+5386,Urban,No Education,Female,28,5,88672,302015
+6189,Rural,Incomplete Secondary,Male,22,1,-50206,163137
+15395,Rural,No Education,Male,21,1,-83865,129478
+9363,Urban,Incomplete Primary,Female,27,4,160464,373807
+13238,Rural,No Education,Female,40,9,-127896,85447
+14182,Rural,Incomplete Primary,Male,16,0,-52083,161260
+6174,Rural,Incomplete Primary,Male,27,1,-65586,147757
+9374,Rural,No Education,Male,28,2,-66148,147195
+4790,Rural,No Education,Male,35,3,-16704,196639
+2255,Rural,Incomplete Primary,Male,15,0,-91337,122006
+8604,Rural,Incomplete Primary,Male,18,0,-44337,169006
+15049,Rural,No Education,Male,33,7,-43143,170200
+8652,Rural,Incomplete Primary,Male,20,1,-41085,172258
+3503,Urban,Incomplete Primary,Female,31,1,229883,443226
+10805,Rural,No Education,Female,30,5,-78055,135288
+10633,Urban,No Education,Female,35,8,-19444,193899
+587,Urban,Incomplete Primary,Male,24,2,-5079,208264
+3579,Rural,Incomplete Primary,Male,15,0,-82541,130802
+12611,Rural,No Education,Male,36,9,-45782,167561
+9639,Rural,Incomplete Primary,Female,16,0,-33366,179977
+13454,Rural,Incomplete Secondary,Male,25,1,-26810,186533
+8486,Rural,No Education,Male,42,5,-21499,191844
+9089,Rural,Incomplete Primary,Male,43,5,-20257,193086
+7883,Rural,No Education,Male,30,3,-45619,167724
+5376,Rural,Incomplete Primary,Male,15,0,-40870,172473
+14153,Rural,Incomplete Primary,Male,22,1,-43222,170121
+11575,Rural,No Education,Male,47,3,-66072,147271
+4550,Rural,No Education,Male,46,10,-76322,137021
+11625,Rural,No Education,Male,29,5,-84960,128383
+10716,Rural,No Education,Male,36,4,-34148,179195
+10989,Rural,No Education,Male,34,8,-50572,162771
+10985,Rural,No Education,Male,38,9,-56643,156700
+8696,Urban,No Education,Male,37,7,-112893,100450
+8143,Rural,No Education,Male,38,6,-123169,90174
+6562,Rural,Incomplete Secondary,Male,15,0,-23370,189973
+11493,Urban,Incomplete Secondary,Male,16,0,194377,407720
+7938,Rural,No Education,Male,17,0,-85609,127734
+10719,Rural,No Education,Female,28,3,-65508,147835
+15394,Rural,Incomplete Primary,Male,24,2,-8073,205270
+6054,Rural,No Education,Male,18,0,-99513,113830
+7334,Urban,Higher,Female,26,0,203720,417063
+5077,Rural,No Education,Female,25,3,-61961,151382
+5423,Urban,No Education,Female,45,6,148753,362096
+7151,Rural,Incomplete Primary,Male,20,0,-55470,157873
+2459,Rural,Incomplete Primary,Male,30,4,-90162,123181
+3316,Rural,No Education,Male,35,5,-28048,185295
+12301,Rural,Incomplete Primary,Female,18,1,-67183,146160
+10047,Urban,Incomplete Secondary,Male,33,0,220267,433610
+12569,Urban,No Education,Male,22,2,32983,246326
+10257,Rural,No Education,Male,37,5,-8772,204571
+994,Rural,Incomplete Primary,Male,25,3,-41094,172249
+8019,Rural,Incomplete Primary,Male,17,0,-22833,190510
+11019,Urban,Incomplete Secondary,Male,25,0,113114,326457
+1745,Urban,No Education,Male,25,1,211037,424380
+3483,Urban,Higher,Male,19,0,187815,401158
+8269,Rural,No Education,Female,25,0,-37605,175738
+13724,Rural,Incomplete Primary,Male,17,1,-24438,188905
+812,Rural,Incomplete Primary,Female,15,0,-82398,130945
+6563,Rural,Incomplete Primary,Male,18,0,-19558,193785
+15236,Rural,No Education,Male,32,4,-32386,180957
+3480,Urban,No Education,Female,31,0,66664,280007
+14868,Urban,Incomplete Primary,Female,38,3,11251,224594
+8730,Rural,Complete Primary,Male,18,0,-25084,188259
+3446,Rural,Incomplete Primary,Male,15,0,-50239,163104
+5268,Rural,No Education,Female,27,5,-55623,157720
+11113,Rural,Incomplete Secondary,Female,25,1,-12291,201052
+11648,Rural,Incomplete Primary,Female,38,4,-44681,168662
+2268,Rural,Incomplete Secondary,Male,19,0,-91778,121565
+6105,Urban,Higher,Female,24,0,229874,443217
+5307,Rural,No Education,Male,35,8,-73388,139955
+6334,Rural,No Education,Female,39,4,-38448,174895
+8041,Rural,Incomplete Primary,Male,26,3,-41454,171889
+5002,Rural,No Education,Female,18,0,-33993,179350
+15386,Rural,No Education,Male,33,2,-27670,185673
+15435,Rural,Incomplete Primary,Male,22,1,-79327,134016
+14843,Rural,No Education,Male,39,4,-95059,118284
+10238,Rural,No Education,Male,40,10,-8923,204420
+3685,Rural,No Education,Male,16,0,-59212,154131
+14491,Rural,No Education,Male,16,0,-109059,104284
+13526,Rural,Complete Primary,Male,22,2,-59374,153969
+13858,Rural,Incomplete Primary,Male,25,1,-54553,158790
+1845,Rural,Incomplete Secondary,Male,17,0,-659,212684
+6385,Rural,No Education,Male,23,1,-97974,115369
+10663,Urban,Complete Primary,Male,42,6,83903,297246
+15567,Rural,No Education,Female,25,3,-65858,147485
+7020,Urban,Complete Secondary,Female,44,2,199341,412684
+4036,Rural,Incomplete Primary,Male,40,5,-6585,206758
+14200,Rural,No Education,Male,27,3,-104915,108428
+5197,Rural,No Education,Male,40,5,-49983,163360
+15182,Rural,Incomplete Primary,Female,20,1,-18592,194751
+7019,Urban,No Education,Male,32,4,91090,304433
+5663,Rural,No Education,Male,39,2,-59613,153730
+3548,Rural,No Education,Male,40,5,-138414,74929
+10862,Rural,Incomplete Primary,Female,25,5,-77367,135976
+378,Rural,No Education,Female,26,4,-103104,110239
+15105,Rural,No Education,Male,22,1,-52109,161234
+4986,Rural,Complete Primary,Male,15,0,-21825,191518
+1744,Urban,Higher,Male,20,0,252918,466261
+2702,Urban,Higher,Male,32,1,192738,406081
+6880,Urban,Incomplete Primary,Female,22,1,-93055,120288
+12756,Rural,No Education,Male,20,0,-88133,125210
+5360,Rural,Incomplete Primary,Female,30,1,-31814,181529
+8577,Urban,Incomplete Primary,Male,25,2,142062,355405
+13664,Rural,Incomplete Primary,Male,21,2,-57692,155651
+11534,Rural,Incomplete Primary,Male,23,2,-48762,164581
+9560,Rural,No Education,Male,37,9,-70369,142974
+7106,Urban,Higher,Male,36,3,285771,499114
+13969,Rural,Incomplete Secondary,Female,18,0,-75484,137859
+9261,Rural,No Education,Male,34,4,-38483,174860
+9954,Urban,Incomplete Primary,Male,31,1,141637,354980
+12094,Urban,Complete Primary,Female,25,0,174643,387986
+9040,Rural,Incomplete Primary,Male,36,7,23371,236714
+2496,Rural,No Education,Male,42,5,-87175,126168
+14073,Rural,No Education,Female,15,0,-60984,152359
+5602,Rural,No Education,Male,42,9,-9052,204291
+961,Rural,Incomplete Primary,Male,28,4,-60733,152610
+8674,Rural,Incomplete Primary,Male,15,0,-12703,200640
+6955,Urban,Incomplete Primary,Female,24,0,118717,332060
+10044,Urban,Complete Secondary,Male,43,3,171600,384943
+14497,Urban,Incomplete Primary,Female,39,3,-35710,177633
+7551,Rural,No Education,Male,38,4,-57481,155862
+4978,Rural,No Education,Female,29,2,-41272,172071
+4463,Rural,Incomplete Secondary,Male,22,2,-41186,172157
+7062,Urban,Incomplete Primary,Female,37,3,54602,267945
+3326,Rural,No Education,Female,19,1,-65574,147769
+1115,Urban,Incomplete Secondary,Male,24,0,183971,397314
+13709,Rural,No Education,Male,35,3,-77177,136166
+4731,Urban,Complete Secondary,Male,48,2,169668,383011
+7865,Rural,No Education,Male,39,6,-4435,208908
+9305,Rural,Incomplete Secondary,Male,15,0,-62615,150728
+9218,Urban,Incomplete Primary,Male,16,0,106697,320040
+1580,Rural,Incomplete Primary,Female,45,4,-18590,194753
+10980,Rural,Incomplete Primary,Male,28,4,-46517,166826
+11617,Rural,No Education,Female,26,5,-98586,114757
+7052,Urban,Higher,Male,31,2,159076,372419
+14383,Rural,Complete Primary,Female,41,7,-75212,138131
+5590,Rural,No Education,Male,41,7,-31307,182036
+4451,Rural,Incomplete Secondary,Male,36,3,1352,214695
+10651,Urban,Incomplete Secondary,Female,18,0,149898,363241
+8697,Urban,No Education,Male,19,0,-112893,100450
+3692,Urban,Complete Primary,Male,49,4,198876,412219
+12368,Rural,No Education,Male,32,4,-32909,180434
+6760,Rural,Incomplete Primary,Male,15,0,-82767,130576
+971,Rural,Incomplete Secondary,Female,20,0,-30696,182647
+9746,Rural,No Education,Male,45,6,-20047,193296
+389,Urban,Higher,Female,21,0,90948,304291
+1954,Urban,Incomplete Secondary,Male,16,0,156566,369909
+5246,Rural,Incomplete Primary,Male,44,6,1682,215025
+15242,Rural,Incomplete Secondary,Female,21,0,-63810,149533
+3017,Rural,Incomplete Secondary,Male,16,0,-68432,144911
+2821,Rural,No Education,Female,22,0,-90738,122605
+316,Rural,Incomplete Primary,Male,23,2,-95146,118197
+10530,Rural,No Education,Male,48,4,-19930,193413
+9194,Rural,No Education,Male,35,4,-66172,147171
+414,Urban,Incomplete Secondary,Male,17,0,188633,401976
+5614,Rural,Incomplete Primary,Female,31,3,-82863,130480
+13329,Urban,Incomplete Secondary,Female,19,0,123656,336999
+8837,Urban,No Education,Male,38,6,-78092,135251
+9177,Rural,No Education,Male,25,6,-68208,145135
+14390,Urban,Incomplete Secondary,Male,18,0,83911,297254
+606,Rural,Incomplete Primary,Male,27,0,-35778,177565
+2324,Rural,No Education,Female,43,5,-52956,160387
+2468,Rural,Incomplete Primary,Male,37,6,-86076,127267
+8936,Urban,Incomplete Primary,Female,16,0,195929,409272
+14702,Urban,Higher,Male,31,3,260570,473913
+5400,Urban,No Education,Female,30,1,130431,343774
+11248,Urban,Complete Primary,Male,31,1,146912,360255
+9849,Rural,Incomplete Primary,Male,25,1,-29236,184107
+7863,Rural,Incomplete Primary,Male,18,1,-23305,190038
+1369,Urban,No Education,Male,22,0,122600,335943
+3785,Rural,No Education,Male,18,0,-41646,171697
+1254,Rural,Incomplete Primary,Male,18,0,-50243,163100
+14145,Rural,Incomplete Primary,Male,40,2,-57781,155562
+13219,Urban,Higher,Male,49,2,252930,466273
+13656,Rural,No Education,Male,26,2,-61763,151580
+14603,Rural,No Education,Male,18,0,-86951,126392
+14601,Rural,Incomplete Primary,Male,20,0,-109741,103602
+7239,Rural,Incomplete Primary,Male,35,2,-12023,201320
+2129,Urban,No Education,Male,21,0,114577,327920
+2789,Rural,Higher,Male,26,0,32812,246155
+3426,Rural,No Education,Female,36,6,-38070,175273
+12695,Rural,Incomplete Primary,Male,42,4,-5843,207500
+4116,Rural,Incomplete Primary,Female,15,0,-24727,188616
+10754,Urban,No Education,Male,34,6,129752,343095
+1112,Urban,Higher,Female,38,2,155283,368626
+5525,Rural,No Education,Female,34,2,-55920,157423
+10424,Rural,Incomplete Primary,Male,22,3,-58140,155203
+638,Urban,Incomplete Primary,Male,16,0,70242,283585
+249,Urban,Incomplete Primary,Male,41,4,207716,421059
+2817,Rural,Incomplete Primary,Female,15,0,-127881,85462
+697,Rural,No Education,Male,35,3,-47754,165589
+7774,Rural,No Education,Male,40,2,-55092,158251
+5033,Rural,Incomplete Primary,Male,18,0,-65371,147972
+7229,Rural,No Education,Male,40,7,-78152,135191
+6195,Rural,No Education,Male,28,4,-69185,144158
+3996,Rural,No Education,Male,18,0,-81397,131946
+8258,Rural,No Education,Female,48,4,-49430,163913
+4190,Rural,No Education,Male,49,4,-140746,72597
+1517,Rural,No Education,Male,30,4,-54987,158356
+2299,Rural,Incomplete Primary,Male,25,1,-72293,141050
+6551,Rural,No Education,Male,47,10,-26876,186467
+71,Rural,No Education,Female,25,4,-102659,110684
+8171,Rural,No Education,Male,38,5,-24502,188841
+1179,Rural,Complete Primary,Male,26,2,-27459,185884
+5804,Urban,Incomplete Primary,Female,16,0,134457,347800
+9877,Rural,No Education,Male,34,4,-7270,206073
+9676,Rural,Incomplete Primary,Male,15,0,-23245,190098
+11045,Rural,No Education,Male,31,3,-59535,153808
+15472,Rural,No Education,Male,31,3,-26697,186646
+4820,Rural,No Education,Male,40,10,-129151,84192
+2349,Urban,Higher,Female,21,0,220923,434266
+11730,Rural,No Education,Male,16,0,-81804,131539
+9977,Urban,Incomplete Primary,Female,18,0,206956,420299
+11583,Rural,No Education,Female,16,0,-83470,129873
+9653,Rural,No Education,Male,39,3,-43569,169774
+2090,Rural,No Education,Male,25,4,-69854,143489
+168,Rural,No Education,Female,38,9,-118125,95218
+4360,Urban,Incomplete Secondary,Female,25,0,100890,314233
+7110,Urban,Complete Secondary,Male,37,3,256875,470218
+12873,Urban,Complete Primary,Male,39,3,284123,497466
+6754,Rural,No Education,Male,31,5,-72613,140730
+10799,Rural,No Education,Female,46,4,-64685,148658
+1084,Rural,No Education,Male,27,2,-45415,167928
+5083,Rural,No Education,Male,37,3,-42364,170979
+14771,Urban,Incomplete Primary,Male,25,2,137275,350618
+14610,Rural,No Education,Male,24,2,-95723,117620
+8030,Rural,Incomplete Primary,Male,20,0,-14736,198607
+12631,Rural,Incomplete Secondary,Male,22,1,-12276,201067
+15057,Rural,No Education,Male,20,2,-121421,91922
+9165,Urban,No Education,Male,26,4,9181,222524
+11099,Urban,No Education,Male,28,6,-38820,174523
+10091,Rural,No Education,Male,40,2,-38891,174452
+3335,Rural,No Education,Female,25,3,-78894,134449
+5278,Rural,No Education,Male,30,3,-44893,168450
+7158,Rural,No Education,Male,38,6,-58423,154920
+3064,Rural,Incomplete Primary,Male,15,0,-8061,205282
+3669,Rural,No Education,Male,30,2,-74569,138774
+11286,Rural,No Education,Male,26,1,-106302,107041
+3185,Rural,No Education,Male,32,3,-69060,144283
+8301,Rural,Incomplete Secondary,Female,17,0,-22162,191181
+3693,Urban,Higher,Male,26,0,198876,412219
+13646,Rural,Incomplete Primary,Female,28,3,-55884,157459
+9527,Urban,Incomplete Primary,Male,22,1,146681,360024
+15216,Urban,Complete Secondary,Female,27,0,237440,450783
+4808,Rural,No Education,Female,15,0,-122413,90930
+218,Rural,No Education,Male,40,7,-16456,196887
+13467,Rural,Incomplete Primary,Male,38,7,-60176,153167
+8095,Rural,No Education,Male,35,6,-88090,125253
+4490,Urban,No Education,Female,40,4,-5685,207658
+7137,Rural,No Education,Male,27,2,-66932,146411
+2013,Rural,No Education,Male,27,5,-64002,149341
+13062,Urban,Incomplete Secondary,Female,45,2,230324,443667
+8199,Rural,Incomplete Primary,Male,35,9,-67401,145942
+12303,Urban,Incomplete Primary,Female,30,3,122253,335596
+901,Rural,No Education,Male,15,0,-55352,157991
+12037,Rural,Incomplete Primary,Male,16,0,-63277,150066
+185,Rural,No Education,Male,20,0,-90149,123194
+14911,Urban,Incomplete Secondary,Male,16,0,222077,435420
+12381,Rural,No Education,Male,42,5,-8480,204863
+8397,Rural,Incomplete Primary,Male,17,0,-45135,168208
+6946,Urban,Complete Primary,Male,16,0,105715,319058
+10109,Rural,Higher,Female,24,0,-7090,206253
+3486,Urban,Incomplete Primary,Male,17,0,193820,407163
+14020,Rural,Incomplete Primary,Male,22,1,-1930,211413
+8952,Urban,Incomplete Secondary,Male,16,0,169642,382985
+593,Urban,Incomplete Primary,Male,18,0,48012,261355
+13069,Urban,Higher,Female,20,0,119336,332679
+15286,Rural,No Education,Female,30,8,-96998,116345
+7268,Rural,Incomplete Primary,Male,22,1,-65204,148139
+15508,Urban,Incomplete Primary,Female,38,1,146842,360185
+10320,Urban,Higher,Male,25,2,-103661,109682
+7290,Rural,No Education,Female,46,10,-99556,113787
+4111,Urban,No Education,Female,33,2,-38953,174390
+539,Rural,Incomplete Primary,Male,45,7,-20204,193139
+3269,Rural,No Education,Female,16,0,-85077,128266
+9361,Urban,No Education,Female,30,1,96230,309573
+3356,Rural,No Education,Female,27,5,-37298,176045
+15317,Urban,Incomplete Secondary,Female,23,0,121609,334952
+9800,Rural,Incomplete Primary,Male,26,2,-55983,157360
+3283,Rural,No Education,Male,25,5,-86841,126502
+5293,Rural,Incomplete Primary,Female,17,0,-40354,172989
+9267,Rural,No Education,Male,40,3,-52865,160478
+4476,Rural,No Education,Male,30,5,-78171,135172
+9486,Urban,Incomplete Primary,Female,15,0,102276,315619
+11085,Urban,No Education,Female,35,1,74381,287724
+15549,Urban,Incomplete Secondary,Female,19,0,3754,217097
+2705,Urban,Incomplete Secondary,Male,19,0,120092,333435
+5480,Rural,Incomplete Primary,Female,16,0,-17280,196063
+5352,Urban,Incomplete Primary,Male,17,0,100730,314073
+13265,Rural,No Education,Male,43,3,-25807,187536
+5682,Rural,Incomplete Primary,Male,26,2,-67512,145831
+13707,Rural,Incomplete Secondary,Male,30,0,-6879,206464
+4470,Rural,No Education,Male,28,3,-88160,125183
+7014,Urban,No Education,Female,35,2,144988,358331
+14035,Rural,Incomplete Primary,Male,20,1,-44346,168997
+11681,Urban,Incomplete Primary,Female,16,0,93388,306731
+4666,Rural,No Education,Male,40,9,-69667,143676
+14319,Rural,Incomplete Primary,Female,18,0,-54752,158591
+6509,Urban,Incomplete Secondary,Female,22,0,129009,342352
+6028,Rural,No Education,Male,28,4,-38406,174937
+2326,Rural,No Education,Male,40,6,-66718,146625
+6850,Urban,Incomplete Primary,Male,25,2,103721,317064
+15626,Rural,No Education,Male,40,6,-59904,153439
+14928,Urban,Higher,Female,40,2,195137,408480
+4128,Rural,No Education,Male,20,1,-78842,134501
+466,Rural,Incomplete Primary,Female,45,0,-28988,184355
+10388,Rural,Incomplete Primary,Male,15,0,-52787,160556
+3618,Urban,Complete Secondary,Male,21,0,171381,384724
+10255,Rural,Incomplete Primary,Male,23,2,-38752,174591
+114,Urban,Incomplete Secondary,Female,18,0,86033,299376
+8856,Rural,Incomplete Primary,Male,24,0,-33587,179756
+12633,Rural,No Education,Male,25,5,-70789,142554
+36,Rural,Incomplete Primary,Male,15,0,-104538,108805
+14340,Rural,No Education,Female,41,3,-22300,191043
+6374,Rural,No Education,Male,25,3,-105766,107577
+6445,Rural,No Education,Male,48,4,-69341,144002
+9190,Rural,No Education,Female,16,0,-93772,119571
+2020,Rural,Incomplete Primary,Male,18,1,-27769,185574
+6546,Rural,Incomplete Primary,Female,38,4,-69798,143545
+4415,Urban,Incomplete Primary,Female,26,1,126882,340225
+869,Rural,No Education,Male,27,2,-126313,87030
+11924,Rural,Incomplete Primary,Male,15,0,-88734,124609
+16,Rural,No Education,Male,43,7,-57344,155999
+5298,Rural,No Education,Female,46,4,-23745,189598
+12517,Rural,No Education,Male,31,6,-63392,149951
+11563,Rural,No Education,Male,31,3,-56497,156846
+13359,Rural,Incomplete Primary,Male,18,1,-63598,149745
+9067,Rural,Incomplete Primary,Male,28,2,-71053,142290
+13927,Rural,No Education,Male,32,7,8470,221813
+5720,Urban,Incomplete Secondary,Female,23,0,239822,453165
+5795,Urban,Incomplete Secondary,Female,17,0,110254,323597
+6848,Urban,Incomplete Primary,Male,15,0,90376,303719
+7913,Rural,No Education,Male,33,3,-54726,158617
+9293,Rural,No Education,Male,42,5,-31421,181922
+4266,Rural,Incomplete Primary,Male,18,0,-55364,157979
+10766,Urban,Incomplete Primary,Female,19,0,179880,393223
+9355,Urban,Complete Secondary,Female,37,0,238446,451789
+9232,Rural,Higher,Male,24,2,17554,230897
+12659,Rural,No Education,Female,39,5,53645,266988
+6599,Urban,Higher,Male,27,1,200578,413921
+12110,Rural,No Education,Male,35,4,-56915,156428
+11698,Urban,Incomplete Primary,Female,36,4,186961,400304
+11048,Rural,Incomplete Primary,Male,21,2,-28319,185024
+8993,Rural,Incomplete Primary,Male,20,1,-8168,205175
+3170,Rural,No Education,Male,35,7,-91532,121811
+10996,Rural,No Education,Male,31,5,-53785,159558
+1852,Rural,Incomplete Secondary,Female,21,1,2307,215650
+8727,Rural,No Education,Male,30,6,-59907,153436
+13284,Urban,Incomplete Secondary,Male,45,6,178586,391929
+12737,Rural,No Education,Male,30,4,-129177,84166
+14981,Rural,Incomplete Primary,Male,23,1,-2269,211074
+6272,Rural,No Education,Male,48,7,-14295,199048
+5050,Rural,No Education,Female,40,3,-79282,134061
+15132,Rural,No Education,Female,39,6,-81888,131455
+15454,Rural,No Education,Male,28,1,-19743,193600
+8638,Rural,Incomplete Primary,Female,18,0,-62038,151305
+13530,Rural,Incomplete Secondary,Male,19,0,-26161,187182
+8991,Rural,Incomplete Primary,Male,22,2,-47505,165838
+13818,Urban,Complete Primary,Female,20,1,19523,232866
+3060,Rural,No Education,Male,39,0,-30622,182721
+3290,Rural,No Education,Male,36,3,-33520,179823
+8234,Urban,Higher,Female,28,0,181723,395066
+13174,Rural,No Education,Male,19,1,-124682,88661
+84,Urban,Incomplete Primary,Female,28,1,64547,277890
+5913,Rural,No Education,Male,35,4,-77610,135733
+5029,Rural,No Education,Male,27,1,-32409,180934
+2630,Urban,Incomplete Secondary,Female,39,2,211733,425076
+13346,Rural,No Education,Male,45,8,-78055,135288
+4257,Rural,Incomplete Primary,Male,19,0,-29873,183470
+1003,Rural,Incomplete Primary,Male,18,0,-20359,192984
+2799,Rural,No Education,Female,30,3,-128346,84997
+5279,Rural,No Education,Female,38,2,-32602,180741
+7992,Urban,Incomplete Primary,Male,20,0,245826,459169
+5324,Rural,No Education,Female,42,1,-28629,184714
+4348,Urban,Higher,Male,27,3,207330,420673
+11686,Urban,Incomplete Primary,Male,28,2,131603,344946
+11069,Rural,Incomplete Primary,Male,15,0,-72460,140883
+2216,Urban,Higher,Female,25,1,213268,426611
+9610,Urban,Higher,Female,42,0,180487,393830
+536,Rural,Incomplete Primary,Male,44,7,-30387,182956
+7253,Rural,Incomplete Secondary,Female,37,4,-25971,187372
+1483,Urban,Incomplete Primary,Male,24,1,136037,349380
+13699,Rural,Incomplete Secondary,Female,19,0,-54113,159230
+15253,Rural,Incomplete Secondary,Male,20,0,-49938,163405
+7845,Rural,No Education,Female,37,4,-114379,98964
+8890,Rural,Incomplete Secondary,Female,41,4,-2440,210903
+2406,Urban,Incomplete Primary,Male,26,2,150065,363408
+8858,Rural,No Education,Female,30,7,-56173,157170
+3099,Rural,Complete Primary,Female,15,0,12343,225686
+1484,Urban,Incomplete Primary,Male,19,0,127947,341290
+9595,Urban,No Education,Male,17,0,155184,368527
+7765,Rural,No Education,Male,40,7,-77874,135469
+10732,Urban,Incomplete Secondary,Male,32,1,176398,389741
+7525,Rural,Incomplete Primary,Male,17,0,-76608,136735
+3107,Rural,Incomplete Primary,Male,20,1,-19140,194203
+15298,Rural,No Education,Male,34,7,-136887,76456
+8485,Rural,Complete Primary,Male,17,0,-39430,173913
+11622,Rural,No Education,Male,42,12,-103634,109709
+12267,Rural,Incomplete Primary,Male,21,1,-86945,126398
+1859,Rural,No Education,Male,22,2,-80233,133110
+4338,Rural,No Education,Female,38,5,-99791,113552
+248,Urban,Higher,Male,26,0,206430,419773
+7690,Urban,Higher,Male,17,0,153760,367103
+13644,Rural,No Education,Male,30,5,-70524,142819
+13678,Rural,No Education,Male,29,4,-126421,86922
+8442,Rural,Incomplete Secondary,Male,15,0,-34906,178437
+11865,Rural,No Education,Female,48,5,-55710,157633
+4562,Rural,Incomplete Secondary,Male,15,0,-34668,178675
+4803,Rural,No Education,Female,17,0,-129151,84192
+14302,Rural,Incomplete Primary,Male,19,0,-46033,167310
+14344,Rural,No Education,Male,49,6,-40523,172820
+7586,Urban,Incomplete Secondary,Male,15,0,300338,513681
+12197,Urban,No Education,Male,42,7,76881,290224
+2168,Urban,Higher,Female,40,0,244162,457505
+14315,Rural,Incomplete Primary,Male,35,5,-30074,183269
+6843,Urban,Complete Primary,Male,33,0,111820,325163
+3866,Urban,No Education,Male,45,0,163697,377040
+14100,Rural,Incomplete Primary,Male,18,1,-87953,125390
+2563,Urban,Incomplete Primary,Female,18,0,195472,408815
+6212,Rural,No Education,Female,29,4,-63279,150064
+15606,Rural,No Education,Female,39,6,-41724,171619
+873,Rural,No Education,Male,25,2,-129897,83446
+15571,Rural,Incomplete Primary,Male,19,0,-51732,161611
+1609,Rural,No Education,Male,30,4,-50351,162992
+10372,Urban,Higher,Female,31,1,214714,428057
+11501,Urban,Complete Primary,Female,42,0,179045,392388
+136,Rural,Incomplete Primary,Female,19,1,-37290,176053
+3422,Rural,No Education,Male,36,5,-54682,158661
+6204,Rural,Incomplete Primary,Male,27,1,-20368,192975
+14206,Rural,No Education,Male,26,2,-112193,101150
+7713,Rural,No Education,Female,33,7,-92918,120425
+1044,Urban,Incomplete Primary,Female,18,0,147822,361165
+6067,Rural,No Education,Female,41,10,-80404,132939
+13343,Rural,No Education,Male,15,0,-69503,143840
+1086,Rural,No Education,Male,26,3,-38785,174558
+9412,Urban,Higher,Male,23,2,62981,276324
+3275,Rural,No Education,Male,38,3,-76546,136797
+11547,Rural,No Education,Male,42,4,-49574,163769
+11181,Rural,No Education,Male,45,8,-55956,157387
+15416,Urban,Incomplete Secondary,Male,18,0,135320,348663
+2113,Rural,Incomplete Primary,Male,18,0,-70557,142786
+1352,Urban,Complete Secondary,Male,45,2,196073,409416
+6686,Rural,No Education,Female,16,0,-129208,84135
+7502,Rural,Incomplete Primary,Male,17,0,-33706,179637
+13220,Urban,No Education,Male,48,0,252930,466273
+867,Rural,Incomplete Primary,Male,25,3,-48430,164913
+15336,Rural,No Education,Male,43,7,-92419,120924
+10963,Rural,No Education,Male,31,3,-59562,153781
+275,Rural,Incomplete Primary,Male,15,0,-23833,189510
+2450,Rural,No Education,Male,34,5,-81526,131817
+2681,Urban,Complete Primary,Male,40,6,180812,394155
+12763,Rural,Incomplete Primary,Male,29,4,-64449,148894
+5915,Rural,No Education,Male,28,4,-65371,147972
+1148,Rural,No Education,Male,16,0,-26877,186466
+11033,Rural,No Education,Male,46,7,-43993,169350
+11990,Rural,No Education,Female,25,2,-28707,184636
+8782,Urban,Incomplete Primary,Male,25,2,88568,301911
+4872,Rural,No Education,Male,31,3,-10033,203310
+4963,Urban,Incomplete Primary,Male,15,0,163488,376831
+14123,Urban,No Education,Female,20,0,189894,403237
+10591,Urban,No Education,Male,25,1,-95055,118288
+3992,Rural,Incomplete Secondary,Male,27,3,-67400,145943
+11620,Rural,No Education,Female,24,2,-99683,113660
+3036,Rural,Incomplete Primary,Male,28,6,-24793,188550
+1905,Urban,Incomplete Secondary,Male,16,0,190004,403347
+834,Rural,No Education,Male,46,7,-22461,190882
+6595,Urban,Complete Primary,Female,17,0,228972,442315
+10121,Rural,No Education,Female,45,3,-70407,142936
+3860,Urban,Incomplete Secondary,Female,21,0,153165,366508
+3845,Rural,Incomplete Primary,Male,16,0,-52752,160591
+7661,Rural,No Education,Male,24,3,-15356,197987
+1176,Rural,Incomplete Primary,Male,16,0,-63124,150219
+4177,Urban,No Education,Male,45,4,-116883,96460
+5628,Rural,Incomplete Primary,Female,15,0,-109590,103753
+7954,Rural,No Education,Male,30,6,-59336,154007
+5864,Rural,No Education,Male,35,6,-33278,180065
+15474,Rural,No Education,Male,30,2,-31305,182038
+5340,Urban,Incomplete Primary,Male,24,2,127357,340700
+10384,Rural,No Education,Male,35,5,-54714,158629
+11469,Rural,Incomplete Primary,Male,18,0,-47790,165553
+4975,Rural,Incomplete Primary,Female,16,0,-28197,185146
+7104,Urban,Incomplete Primary,Male,27,0,261945,475288
+13020,Urban,No Education,Male,29,4,-7858,205485
+8794,Rural,No Education,Female,32,9,-116597,96746
+4786,Rural,No Education,Male,30,2,-16427,196916
+2460,Rural,Incomplete Primary,Male,16,0,-79931,133412
+1198,Rural,Incomplete Primary,Male,16,0,-31004,182339
+11404,Urban,Incomplete Secondary,Male,15,0,195264,408607
+430,Urban,Higher,Male,34,2,226778,440121
+2532,Urban,Incomplete Secondary,Female,16,0,205504,418847
+4063,Rural,No Education,Male,27,3,-45001,168342
+8898,Rural,No Education,Female,22,0,-77173,136170
+14267,Urban,Incomplete Secondary,Female,41,3,143546,356889
+10710,Rural,No Education,Male,38,8,-49368,163975
+13251,Rural,Incomplete Primary,Female,16,0,-100743,112600
+5365,Rural,No Education,Female,44,6,-42093,171250
+2590,Urban,Incomplete Secondary,Female,32,1,126527,339870
+10538,Rural,No Education,Female,46,7,-70123,143220
+14220,Rural,No Education,Male,34,10,-39981,173362
+1965,Urban,Incomplete Primary,Female,19,0,159432,372775
+10425,Rural,No Education,Male,27,5,-74415,138928
+3835,Rural,No Education,Male,18,0,-27601,185742
+14967,Rural,No Education,Female,40,3,-79905,133438
+6516,Rural,No Education,Female,15,0,-80857,132486
+4098,Urban,Complete Secondary,Male,19,0,52528,265871
+300,Rural,Incomplete Primary,Male,25,3,-11521,201822
+2110,Rural,Incomplete Secondary,Male,17,0,-99083,114260
+7174,Rural,No Education,Female,29,2,-56167,157176
+3972,Rural,No Education,Female,28,2,-51578,161765
+4507,Urban,No Education,Female,48,6,-27554,185789
+8582,Urban,Incomplete Secondary,Male,36,2,193271,406614
+2482,Rural,Incomplete Secondary,Male,27,2,-85011,128332
+7515,Rural,Incomplete Secondary,Female,18,0,-45068,168275
+5345,Urban,Incomplete Primary,Male,23,1,86618,299961
+6890,Urban,Incomplete Secondary,Female,30,3,-48757,164586
+6021,Rural,Incomplete Primary,Male,28,2,-30393,182950
+5866,Rural,Complete Primary,Female,17,0,-19162,194181
+15533,Urban,Incomplete Primary,Female,32,3,104702,318045
+14869,Urban,Incomplete Primary,Female,16,0,11251,224594
+15186,Rural,No Education,Female,26,6,-42115,171228
+1191,Rural,Incomplete Primary,Male,16,0,-45162,168181
+5643,Rural,No Education,Male,40,1,-18497,194846
+3945,Rural,Incomplete Secondary,Male,19,0,-21818,191525
+10714,Rural,No Education,Male,38,6,-74663,138680
+120,Urban,No Education,Female,32,2,99748,313091
+9847,Rural,Incomplete Primary,Female,16,0,-53466,159877
+2500,Rural,Incomplete Secondary,Female,20,1,-57394,155949
+15022,Rural,No Education,Female,24,4,-74709,138634
+13815,Urban,No Education,Female,19,0,151234,364577
+12609,Rural,No Education,Male,15,0,-55550,157793
+1724,Urban,Incomplete Secondary,Male,23,0,152504,365847
+13357,Rural,Incomplete Primary,Male,32,3,-60729,152614
+7188,Urban,Incomplete Secondary,Female,29,0,5720,219063
+6249,Rural,No Education,Male,40,5,-63279,150064
+11124,Rural,Incomplete Primary,Female,15,0,-13042,200301
+9277,Rural,No Education,Male,40,6,6975,220318
+3372,Urban,Incomplete Secondary,Male,15,0,232989,446332
+12306,Urban,Higher,Male,25,0,206183,419526
+10018,Rural,Incomplete Secondary,Female,19,0,-53546,159797
+3551,Urban,Incomplete Secondary,Male,22,0,161603,374946
+11161,Rural,Incomplete Secondary,Male,17,0,-54900,158443
+8763,Urban,Incomplete Primary,Male,25,1,34727,248070
+4330,Rural,No Education,Male,29,2,-131637,81706
+377,Rural,No Education,Male,46,7,-114369,98974
+11177,Rural,No Education,Female,49,5,-20186,193157
+7477,Urban,Higher,Female,24,0,25003,238346
+705,Rural,Incomplete Primary,Male,17,0,-70737,142606
+2418,Rural,No Education,Male,49,6,-114953,98390
+9454,Urban,Incomplete Secondary,Male,15,0,91154,304497
+10064,Rural,No Education,Male,32,7,-24786,188557
+6097,Urban,Higher,Female,29,1,223164,436507
+6910,Rural,No Education,Male,38,6,-34774,178569
+8518,Rural,Incomplete Primary,Male,26,1,-75157,138186
+10769,Urban,Complete Secondary,Female,32,2,209425,422768
+8702,Urban,No Education,Male,35,7,-17158,196185
+14469,Rural,No Education,Female,22,4,-106699,106644
+12355,Rural,No Education,Female,24,4,-134744,78599
+5988,Urban,Higher,Female,40,3,235307,448650
+1451,Urban,No Education,Male,47,4,197386,410729
+5013,Rural,Incomplete Primary,Male,15,0,20517,233860
+3502,Urban,Incomplete Primary,Female,37,2,229883,443226
+14071,Rural,No Education,Male,25,2,-61402,151941
+2338,Rural,No Education,Male,43,7,-34951,178392
+5226,Rural,No Education,Male,43,4,-56858,156485
+10156,Rural,No Education,Male,16,0,-39937,173406
+14790,Urban,Incomplete Secondary,Female,20,0,109819,323162
+6622,Urban,Incomplete Primary,Male,18,0,97172,310515
+15580,Rural,Incomplete Primary,Male,17,0,-59551,153792
+11386,Rural,Incomplete Primary,Male,25,0,-48570,164773
+5757,Rural,Incomplete Secondary,Male,20,1,-20349,192994
+7026,Urban,Incomplete Secondary,Male,25,0,251578,464921
+15145,Urban,Higher,Male,29,1,124766,338109
+5457,Urban,Incomplete Secondary,Female,19,0,84810,298153
+4512,Urban,Incomplete Secondary,Female,48,7,172441,385784
+1935,Rural,Incomplete Primary,Female,25,4,-64151,149192
+12295,Rural,No Education,Female,28,5,-69262,144081
+1635,Rural,No Education,Female,44,10,-49013,164330
+9319,Urban,No Education,Male,38,7,96588,309931
+2944,Rural,Incomplete Primary,Male,22,0,-35190,178153
+1431,Urban,Incomplete Primary,Female,18,0,245012,458355
+7018,Urban,Higher,Male,30,1,174539,387882
+9446,Rural,No Education,Female,27,2,-82017,131326
+4292,Rural,No Education,Male,25,3,-53585,159758
+7337,Rural,No Education,Male,30,5,-39869,173474
+14178,Rural,Incomplete Primary,Female,25,0,-58041,155302
+3624,Rural,No Education,Male,25,4,-44785,168558
+754,Urban,Incomplete Primary,Male,25,0,123531,336874
+8987,Rural,No Education,Male,27,5,-79919,133424
+9543,Rural,No Education,Female,22,2,-58075,155268
+6706,Urban,No Education,Male,45,0,53633,266976
+34,Rural,Incomplete Primary,Female,15,0,-102373,110970
+11785,Rural,No Education,Male,31,5,-40707,172636
+13572,Rural,Incomplete Primary,Male,16,0,-43228,170115
+11559,Rural,Incomplete Primary,Male,15,0,-73030,140313
+14391,Urban,Incomplete Secondary,Male,21,0,83911,297254
+11899,Urban,No Education,Female,20,0,-202423,10920
+6888,Urban,Incomplete Secondary,Female,31,5,-51510,161833
+2901,Rural,No Education,Male,38,4,-17522,195821
+4059,Rural,Incomplete Primary,Male,21,0,-62536,150807
+11111,Rural,No Education,Male,32,4,2553,215896
+5563,Urban,Higher,Male,20,0,61280,274623
+1298,Rural,No Education,Male,46,7,-26775,186568
+6936,Urban,Complete Secondary,Male,28,2,156356,369699
+13102,Rural,Incomplete Primary,Male,23,0,-51868,161475
+10491,Rural,No Education,Female,30,6,-63794,149549
+11732,Rural,No Education,Male,40,4,-115362,97981
+3129,Rural,No Education,Male,38,6,-35807,177536
+6102,Urban,Incomplete Primary,Female,38,3,94079,307422
+909,Rural,No Education,Male,20,1,-49487,163856
+12499,Rural,Incomplete Primary,Male,18,0,-46764,166579
+8094,Rural,No Education,Female,27,4,-103794,109549
+12645,Rural,No Education,Male,25,3,-62346,150997
+15167,Rural,No Education,Male,45,9,28049,241392
+15526,Urban,Incomplete Secondary,Female,28,0,183505,396848
+3578,Rural,No Education,Male,31,0,-41546,171797
+2579,Urban,Incomplete Primary,Female,41,0,132807,346150
+14297,Urban,No Education,Female,30,3,32535,245878
+3209,Rural,No Education,Male,37,6,-60470,152873
+3121,Rural,Incomplete Primary,Female,32,1,-23830,189513
+7891,Rural,Incomplete Primary,Male,30,4,-91320,122023
+12173,Rural,Incomplete Primary,Male,37,7,37150,250493
+8471,Rural,No Education,Male,32,3,-30880,182463
+112,Urban,Incomplete Primary,Male,35,5,127688,341031
+12966,Urban,Complete Primary,Male,34,2,122458,335801
+1702,Rural,No Education,Male,45,7,-82145,131198
+1784,Rural,No Education,Male,40,4,-65428,147915
+2797,Rural,No Education,Male,28,2,-140076,73267
+5934,Rural,No Education,Male,30,5,-79558,133785
+5716,Urban,Incomplete Primary,Female,15,0,143784,357127
+979,Rural,Incomplete Primary,Male,16,0,-27888,185455
+9441,Rural,No Education,Female,19,1,-117140,96203
+8204,Rural,No Education,Male,27,4,-33919,179424
+11626,Rural,No Education,Female,20,1,-94222,119121
+7069,Urban,Higher,Female,43,3,274181,487524
+10190,Rural,No Education,Female,34,6,-51478,161865
+14959,Rural,No Education,Male,35,6,-91659,121684
+5982,Urban,Higher,Male,29,0,267108,480451
+10982,Rural,Incomplete Primary,Male,22,3,-54784,158559
+9119,Rural,Incomplete Secondary,Male,18,0,-8048,205295
+10473,Rural,Incomplete Primary,Male,23,1,-44558,168785
+15425,Urban,Incomplete Primary,Female,18,0,170874,384217
+7074,Urban,No Education,Female,24,0,196125,409468
+9823,Rural,No Education,Female,48,5,-37798,175545
+1409,Urban,Incomplete Primary,Female,18,0,180692,394035
+10227,Rural,No Education,Male,26,6,-68963,144380
+9694,Rural,Complete Primary,Female,16,0,-50469,162874
+10632,Urban,Higher,Male,20,0,165156,378499
+14131,Urban,Complete Primary,Male,29,1,185370,398713
+11737,Urban,Complete Secondary,Male,25,1,125292,338635
+10510,Rural,No Education,Male,38,4,-21732,191611
+10803,Rural,Incomplete Primary,Male,26,3,-52627,160716
+2544,Urban,Higher,Male,23,0,214198,427541
+15238,Rural,Incomplete Secondary,Male,26,2,-27814,185529
+11708,Rural,No Education,Male,22,3,-121738,91605
+10465,Rural,Incomplete Secondary,Female,21,0,-11607,201736
+11822,Rural,No Education,Female,36,6,-110778,102565
+1615,Rural,Incomplete Primary,Male,15,0,-58428,154915
+14328,Rural,Complete Primary,Male,19,0,-51376,161967
+9991,Urban,No Education,Male,34,3,68498,281841
+7498,Rural,Incomplete Primary,Male,15,0,-43179,170164
+397,Urban,Incomplete Secondary,Female,27,0,14945,228288
+13792,Rural,No Education,Male,28,3,-76141,137202
+8337,Rural,No Education,Male,37,7,-58626,154717
+11655,Rural,Incomplete Secondary,Male,18,0,-68423,144920
+2367,Urban,Incomplete Secondary,Male,29,0,159626,372969
+14555,Rural,No Education,Female,30,3,-103474,109869
+5806,Urban,Incomplete Primary,Male,31,4,112571,325914
+6614,Urban,No Education,Female,35,3,178697,392040
+8296,Rural,No Education,Female,39,5,-58912,154431
+1600,Rural,No Education,Female,22,1,-63186,150157
+14495,Urban,Incomplete Primary,Male,30,3,164388,377731
+5921,Rural,Incomplete Primary,Male,15,0,-31425,181918
+818,Rural,No Education,Male,30,7,-14653,198690
+14102,Rural,Incomplete Primary,Male,22,2,-41804,171539
+9971,Urban,Incomplete Primary,Male,25,3,73607,286950
+15356,Rural,No Education,Male,43,5,-66396,146947
+3112,Rural,No Education,Male,27,3,-2276,211067
+10108,Rural,Complete Primary,Male,19,0,-60352,152991
+217,Rural,Incomplete Primary,Male,22,1,-13404,199939
+13456,Rural,Incomplete Primary,Male,20,0,-50931,162412
+3061,Rural,No Education,Male,43,9,-20325,193018
+6481,Rural,Incomplete Primary,Male,25,4,-55487,157856
+13561,Rural,No Education,Male,29,3,-24387,188956
+8325,Rural,No Education,Male,26,0,-75324,138019
+8338,Rural,No Education,Male,17,0,-58626,154717
+14346,Rural,No Education,Male,31,4,-52252,161091
+13608,Urban,Higher,Male,25,0,205563,418906
+8035,Rural,Incomplete Primary,Female,35,5,-14709,198634
+612,Rural,No Education,Male,40,8,-49716,163627
+7234,Rural,No Education,Male,39,4,4493,217836
+1513,Rural,Incomplete Primary,Male,46,5,-13148,200195
+10476,Rural,No Education,Male,18,0,-57896,155447
+11417,Rural,Higher,Female,22,0,-31355,181988
+6012,Rural,No Education,Male,30,4,-20353,192990
+8064,Urban,Incomplete Secondary,Male,21,0,60825,274168
+9377,Rural,No Education,Male,38,5,-58008,155335
+12712,Rural,No Education,Male,30,4,-56090,157253
+5271,Rural,No Education,Male,45,5,-32159,181184
+15206,Urban,Incomplete Secondary,Male,23,0,163412,376755
+7808,Urban,Incomplete Secondary,Male,26,2,74384,287727
+11896,Urban,No Education,Male,25,4,-20955,192388
+3722,Urban,Higher,Male,49,2,128020,341363
+6436,Rural,Incomplete Secondary,Male,20,1,-13527,199816
+4885,Rural,Incomplete Primary,Male,25,3,-26124,187219
+4818,Rural,No Education,Male,24,1,-100580,112763
+764,Rural,No Education,Female,45,4,-52345,160998
+11130,Rural,Incomplete Primary,Male,17,0,-35694,177649
+3026,Rural,No Education,Female,40,2,-54653,158690
+10629,Urban,Incomplete Primary,Female,24,1,-30279,183064
+5961,Urban,Higher,Female,45,1,234531,447874
+4075,Rural,No Education,Female,27,1,-30766,182577
+5149,Rural,No Education,Male,26,5,-35660,177683
+13111,Rural,Incomplete Secondary,Male,34,4,-23637,189706
+7723,Rural,Incomplete Primary,Female,19,0,-87241,126102
+2391,Urban,Incomplete Secondary,Male,20,0,76276,289619
+3899,Rural,Incomplete Primary,Male,24,1,-2096,211247
+4527,Rural,Incomplete Primary,Female,18,0,-52889,160454
+10497,Rural,No Education,Male,39,5,-59072,154271
+9935,Rural,No Education,Male,30,2,-14114,199229
+2914,Rural,Incomplete Primary,Male,24,2,-17532,195811
+1622,Rural,Incomplete Primary,Male,23,3,-27823,185520
+14275,Urban,No Education,Female,38,7,-60584,152759
+8912,Rural,No Education,Female,30,4,-69064,144279
+8432,Rural,Incomplete Primary,Male,28,1,-64509,148834
+13210,Urban,Incomplete Secondary,Female,19,0,179041,392384
+2478,Rural,No Education,Male,45,3,-80418,132925
+14521,Urban,Incomplete Primary,Female,25,2,126656,339999
+3823,Urban,Complete Primary,Male,30,0,133997,347340
+7835,Rural,Incomplete Secondary,Female,19,0,-45073,168270
+14472,Rural,No Education,Female,47,10,-142275,71068
+7601,Urban,Higher,Male,19,0,281655,494998
+3194,Rural,No Education,Female,30,0,-34375,178968
+13875,Rural,Incomplete Primary,Male,15,0,-22802,190541
+9372,Rural,No Education,Female,19,0,-68378,144965
+6815,Rural,No Education,Male,38,5,-62268,151075
+4399,Urban,No Education,Female,29,2,58687,272030
+3695,Urban,Higher,Male,30,0,198876,412219
+12939,Urban,Complete Primary,Female,16,0,202890,416233
+14111,Rural,Incomplete Primary,Male,32,5,-49156,164187
+3718,Urban,Higher,Female,18,2,171571,384914
+10218,Rural,No Education,Male,28,5,-69074,144269
+7413,Rural,Incomplete Secondary,Female,26,1,-40073,173270
+15086,Rural,Incomplete Primary,Male,17,0,-44530,168813
+9490,Urban,Incomplete Primary,Female,16,0,106272,319615
+4636,Rural,Incomplete Primary,Female,19,1,-92653,120690
+9626,Rural,No Education,Male,36,9,-28156,185187
+654,Urban,Incomplete Secondary,Female,18,0,136668,350011
+12660,Rural,Incomplete Primary,Male,35,2,4995,218338
+9643,Rural,Incomplete Primary,Male,15,0,34138,247481
+10217,Rural,No Education,Male,28,6,-56877,156466
+15632,Rural,Incomplete Primary,Male,18,0,-85922,127421
+13495,Urban,No Education,Male,32,4,-76415,136928
+8984,Rural,No Education,Male,38,5,-72550,140793
+3843,Rural,No Education,Male,37,5,-52752,160591
+10036,Urban,Incomplete Primary,Female,21,0,205658,419001
+15499,Rural,No Education,Male,18,0,-55116,158227
+8223,Urban,Higher,Male,29,1,175693,389036
+14362,Rural,No Education,Male,45,5,-42880,170463
+480,Rural,Incomplete Primary,Male,35,6,-32889,180454
+5958,Urban,Higher,Female,20,0,262698,476041
+12383,Rural,No Education,Male,25,3,-49756,163587
+9453,Urban,Complete Primary,Male,20,0,91154,304497
+104,Urban,Complete Secondary,Male,29,3,186851,400194
+1158,Urban,Complete Primary,Female,17,0,157589,370932
+11498,Urban,Incomplete Secondary,Female,22,0,128083,341426
+3475,Urban,Incomplete Secondary,Female,16,0,173668,387011
+1384,Urban,Higher,Male,22,0,100150,313493
+15096,Rural,No Education,Male,35,6,-45593,167750
+6226,Urban,Incomplete Primary,Male,24,1,71698,285041
+3990,Rural,No Education,Male,30,9,-98715,114628
+8119,Rural,No Education,Male,23,2,-61779,151564
+5747,Rural,No Education,Male,40,4,10178,223521
+12684,Rural,Incomplete Primary,Male,21,0,1626,214969
+648,Urban,Incomplete Primary,Male,32,1,92715,306058
+5805,Urban,Complete Secondary,Female,34,1,134457,347800
+14314,Rural,Incomplete Primary,Female,34,6,-44230,169113
+3828,Urban,Higher,Male,25,0,183744,397087
+9675,Rural,Incomplete Secondary,Male,18,0,-23245,190098
+3602,Urban,Incomplete Secondary,Female,16,0,166401,379744
+1458,Urban,Incomplete Primary,Male,41,6,185064,398407
+14753,Rural,Incomplete Secondary,Male,20,0,54627,267970
+6844,Urban,Higher,Male,30,0,259618,472961
+9513,Rural,Incomplete Primary,Male,43,7,41377,254720
+7946,Rural,No Education,Male,23,4,-40644,172699
+13948,Rural,Incomplete Secondary,Female,27,1,-17949,195394
+13581,Rural,Incomplete Primary,Male,40,2,-36439,176904
+8299,Rural,No Education,Female,49,3,-67064,146279
+4654,Rural,Incomplete Secondary,Male,23,0,48310,261653
+11234,Urban,Higher,Female,46,2,169978,383321
+884,Rural,No Education,Female,42,5,-106945,106398
+3658,Urban,Incomplete Secondary,Female,32,2,158412,371755
+544,Rural,No Education,Male,33,7,-13935,199408
+9003,Rural,Incomplete Primary,Female,18,0,-45925,167418
+15213,Urban,Higher,Female,30,2,221161,434504
+9887,Rural,Incomplete Primary,Male,28,2,-33340,180003
+14032,Rural,Incomplete Primary,Male,25,4,2934,216277
+4376,Rural,Incomplete Primary,Male,27,3,-65958,147385
+3965,Rural,No Education,Male,27,5,-40355,172988
+8546,Urban,Higher,Female,23,1,155460,368803
+3270,Rural,No Education,Male,26,2,-80604,132739
+3949,Rural,No Education,Male,35,7,-34799,178544
+742,Urban,Incomplete Primary,Male,20,0,176036,389379
+9358,Urban,No Education,Female,44,8,125775,339118
+13192,Rural,No Education,Female,38,4,-78330,135013
+9598,Urban,Higher,Female,35,0,160206,373549
+7066,Urban,Complete Secondary,Male,33,3,145150,358493
+3947,Rural,Incomplete Primary,Male,30,2,-27719,185624
+2145,Urban,Incomplete Primary,Male,17,0,159163,372506
+1881,Rural,No Education,Male,38,5,-49849,163494
+11467,Rural,No Education,Male,30,2,6520,219863
+9403,Urban,Complete Primary,Male,20,0,44918,258261
+12475,Urban,Incomplete Secondary,Male,41,4,23300,236643
+334,Urban,Incomplete Secondary,Female,15,0,18324,231667
+10432,Rural,No Education,Male,46,8,-62528,150815
+8831,Urban,Higher,Male,24,0,174171,387514
+3435,Rural,Incomplete Primary,Female,15,0,-52022,161321
+2287,Urban,Incomplete Secondary,Female,16,0,85771,299114
+10311,Urban,Incomplete Secondary,Male,25,2,-132275,81068
+715,Rural,No Education,Male,25,4,-67925,145418
+15475,Rural,Incomplete Primary,Male,23,1,-16205,197138
+4837,Rural,No Education,Male,22,3,-55198,158145
+10250,Rural,Incomplete Primary,Male,24,3,-35058,178285
+13129,Rural,Higher,Female,23,1,-35108,178235
+6127,Rural,Incomplete Primary,Male,17,0,894,214237
+10581,Urban,Incomplete Secondary,Female,36,2,23152,236495
+9160,Urban,No Education,Female,30,5,37146,250489
+11813,Urban,Incomplete Secondary,Female,24,0,74436,287779
+3648,Urban,Complete Secondary,Male,35,0,221806,435149
+9484,Urban,No Education,Male,32,3,38622,251965
+9984,Urban,Incomplete Secondary,Female,28,1,168322,381665
+10120,Rural,No Education,Female,32,8,-81335,132008
+840,Rural,No Education,Male,30,0,-37861,175482
+10187,Rural,Incomplete Primary,Male,20,0,-38014,175329
+13241,Rural,No Education,Male,36,6,-130064,83279
+14486,Rural,Incomplete Primary,Female,15,0,-144387,68956
+8880,Rural,Incomplete Secondary,Male,23,1,-40563,172780
+10783,Rural,Incomplete Primary,Male,17,0,-84495,128848
+5095,Urban,No Education,Male,25,0,260086,473429
+9808,Rural,No Education,Female,34,6,-66947,146396
+4140,Rural,Incomplete Primary,Male,20,0,-21544,191799
+8772,Urban,Incomplete Secondary,Female,30,0,83292,296635
+11674,Urban,Higher,Male,37,2,172756,386099
+11747,Urban,Incomplete Secondary,Female,17,0,57235,270578
+5946,Rural,No Education,Male,34,4,-61365,151978
+745,Urban,No Education,Male,37,4,127627,340970
+1966,Urban,Incomplete Secondary,Male,24,1,109053,322396
+14691,Urban,No Education,Male,44,6,157123,370466
+6791,Rural,Incomplete Primary,Female,18,0,-57219,156124
+1143,Rural,No Education,Female,38,4,-96033,117310
+11545,Rural,No Education,Male,30,0,-40738,172605
+5370,Rural,Incomplete Primary,Male,45,8,-26547,186796
+1207,Rural,Incomplete Secondary,Male,23,0,-13817,199526
+8367,Rural,No Education,Male,22,3,-121692,91651
+14849,Rural,No Education,Male,46,9,-82716,130627
+15219,Urban,No Education,Male,31,0,162155,375498
+15598,Rural,Incomplete Primary,Male,18,0,-47133,166210
+8060,Urban,Complete Primary,Female,15,0,-79238,134105
+4610,Urban,Incomplete Secondary,Female,30,1,68558,281901
+8493,Rural,Incomplete Primary,Male,20,0,-62869,150474
+14030,Rural,Incomplete Primary,Male,22,2,-28214,185129
+531,Rural,No Education,Male,24,3,-104564,108779
+10851,Rural,Incomplete Secondary,Male,15,0,-37769,175574
+7370,Urban,Complete Primary,Male,48,3,34804,248147
+4076,Rural,No Education,Male,39,0,-16640,196703
+15376,Rural,Incomplete Primary,Male,21,0,-9693,203650
+5528,Rural,No Education,Male,37,1,-29493,183850
+6088,Urban,Higher,Female,28,2,106486,319829
+14185,Rural,No Education,Male,42,6,-56340,157003
+2526,Urban,Incomplete Secondary,Female,21,0,218742,432085
+11079,Urban,No Education,Female,40,7,60620,273963
+13081,Urban,Complete Secondary,Male,40,4,172244,385587
+6923,Urban,Incomplete Primary,Female,15,0,24974,238317
+12224,Rural,Incomplete Primary,Male,17,0,34462,247805
+10684,Rural,No Education,Male,25,3,-89705,123638
+8545,Urban,Incomplete Secondary,Female,21,0,174064,387407
+15374,Rural,Complete Primary,Male,25,1,-50833,162510
+13438,Rural,No Education,Male,35,1,-37465,175878
+2413,Rural,Incomplete Primary,Female,16,0,-115053,98290
+4046,Rural,Incomplete Primary,Female,47,1,-61578,151765
+13028,Urban,Incomplete Primary,Female,18,0,221791,435134
+11943,Urban,No Education,Female,40,2,152468,365811
+12243,Rural,No Education,Male,25,3,-72887,140456
+1333,Urban,Incomplete Secondary,Male,19,0,159371,372714
+4297,Rural,Incomplete Secondary,Male,23,0,-45329,168014
+13145,Rural,No Education,Female,25,4,-98842,114501
+9723,Urban,Incomplete Secondary,Male,22,0,149516,362859
+2877,Rural,Incomplete Primary,Male,15,0,-40719,172624
+10114,Rural,Incomplete Primary,Female,17,1,-65377,147966
+6758,Rural,Incomplete Secondary,Male,18,0,-41933,171410
+7530,Rural,No Education,Male,28,0,-44588,168755
+5145,Rural,No Education,Male,35,5,-71358,141985
+6959,Urban,No Education,Male,40,4,157553,370896
+4895,Urban,Incomplete Secondary,Female,28,2,155330,368673
+6858,Rural,No Education,Male,29,3,-132160,81183
+5583,Urban,Incomplete Secondary,Female,18,0,17418,230761
+2118,Rural,No Education,Male,40,9,-65356,147987
+15000,Rural,No Education,Male,28,4,-20142,193201
+7443,Rural,No Education,Male,43,4,-110565,102778
+4245,Rural,No Education,Male,30,3,-19815,193528
+6423,Urban,No Education,Male,43,5,165816,379159
+6555,Rural,No Education,Male,49,9,-19982,193361
+1184,Rural,Incomplete Primary,Male,25,2,-31417,181926
+14089,Rural,No Education,Male,22,3,-37066,176277
+10164,Rural,Incomplete Primary,Male,20,0,-46296,167047
+7411,Urban,Incomplete Secondary,Female,26,0,206983,420326
+4756,Rural,No Education,Male,49,7,-15027,198316
+7909,Rural,Incomplete Primary,Female,15,0,-62334,151009
+9364,Rural,No Education,Male,30,3,-57207,156136
+11666,Urban,No Education,Female,31,2,10881,224224
+3837,Rural,No Education,Male,25,3,-46366,166977
+9621,Rural,Incomplete Primary,Male,26,1,-8030,205313
+14801,Rural,No Education,Male,18,0,147320,360663
+7744,Urban,Complete Primary,Male,31,3,173501,386844
+3563,Urban,Incomplete Secondary,Male,24,0,195089,408432
+6988,Rural,Incomplete Primary,Male,25,3,-51378,161965
+15443,Rural,Incomplete Primary,Male,38,7,-78336,135007
+622,Rural,Incomplete Primary,Male,15,0,-44939,168404
+5924,Rural,Incomplete Primary,Male,35,4,-44112,169231
+6836,Urban,Complete Primary,Male,34,2,204767,418110
+6030,Rural,Complete Primary,Male,15,0,-9673,203670
+6792,Rural,Incomplete Primary,Female,23,1,-65578,147765
+9181,Rural,No Education,Female,40,8,-93304,120039
+9521,Urban,No Education,Male,23,1,74786,288129
+3920,Rural,No Education,Male,19,0,-54768,158575
+2989,Rural,Incomplete Primary,Female,24,0,-63840,149503
+12358,Rural,Incomplete Primary,Female,16,0,-113156,100187
+3106,Rural,No Education,Male,39,5,33145,246488
+6330,Urban,Incomplete Secondary,Female,21,0,7734,221077
+14001,Rural,No Education,Male,34,5,-60114,153229
+7672,Rural,Incomplete Primary,Male,21,2,-75648,137695
+11012,Urban,No Education,Female,30,1,142583,355926
+6701,Rural,No Education,Male,28,4,-107994,105349
+15013,Rural,No Education,Male,42,6,-15173,198170
+3951,Rural,Incomplete Primary,Male,32,8,-16607,196736
+8813,Urban,No Education,Female,30,4,113487,326830
+14367,Rural,Incomplete Primary,Male,17,0,-54485,158858
+186,Rural,No Education,Male,17,0,-71453,141890
+15493,Rural,Incomplete Primary,Male,17,0,-64676,148667
+13307,Urban,Higher,Female,30,0,209733,423076
+6597,Urban,Complete Primary,Female,19,0,225591,438934
+6729,Urban,Incomplete Primary,Female,17,0,-33788,179555
+9351,Urban,Incomplete Secondary,Male,48,5,206504,419847
+4188,Urban,Incomplete Secondary,Male,31,4,-43339,170004
+8726,Rural,Incomplete Primary,Male,16,0,-30252,183091
+15612,Rural,No Education,Male,30,4,29842,243185
+6500,Urban,Incomplete Primary,Female,44,3,100174,313517
+3434,Rural,No Education,Male,31,6,-14619,198724
+11980,Rural,Incomplete Primary,Male,21,3,-29895,183448
+12802,Rural,Incomplete Primary,Male,35,4,-63125,150218
+6819,Rural,No Education,Male,28,5,-59527,153816
+4004,Rural,No Education,Male,36,8,-88521,124822
+2922,Rural,Incomplete Secondary,Male,18,0,-11615,201728
+8365,Rural,Incomplete Primary,Female,15,0,-93251,120092
+10782,Rural,No Education,Male,42,3,-84495,128848
+3205,Rural,Incomplete Primary,Male,47,8,-49420,163923
+9878,Rural,Incomplete Primary,Male,33,5,-8078,205265
+9735,Urban,Incomplete Primary,Male,27,2,180104,393447
+9385,Urban,Higher,Female,19,0,107041,320384
+15065,Rural,No Education,Male,15,0,-108452,104891
+3223,Urban,Incomplete Secondary,Male,18,1,84441,297784
+2572,Urban,Incomplete Secondary,Female,28,0,173558,386901
+9114,Rural,Incomplete Primary,Female,36,1,-23130,190213
+1595,Rural,Incomplete Primary,Male,15,0,-51240,162103
+2535,Urban,Higher,Male,40,1,204289,417632
+8185,Rural,No Education,Male,32,3,-37869,175474
+4402,Urban,Incomplete Primary,Female,28,1,28900,242243
+11090,Urban,Incomplete Secondary,Male,17,0,174177,387520
+7342,Rural,No Education,Male,38,8,-43004,170339
+10324,Urban,Incomplete Primary,Male,30,2,69613,282956
+677,Urban,Incomplete Primary,Male,28,2,128288,341631
+6110,Urban,Incomplete Secondary,Male,19,0,224864,438207
+6373,Rural,No Education,Female,20,1,-98761,114582
+4937,Rural,Incomplete Primary,Male,48,9,-21989,191354
+8232,Urban,Incomplete Secondary,Female,38,0,81954,295297
+922,Rural,No Education,Male,21,1,-40814,172529
+8611,Rural,No Education,Male,21,0,-53212,160131
+1183,Rural,Incomplete Primary,Male,18,0,-5437,207906
+11799,Urban,Incomplete Secondary,Male,20,0,222277,435620
+15530,Urban,Higher,Female,32,0,205274,418617
+11413,Rural,Complete Primary,Male,18,0,-54144,159199
+222,Rural,Incomplete Primary,Male,23,2,-62328,151015
+559,Rural,Higher,Female,25,0,-27333,186010
+6217,Urban,No Education,Male,22,3,-55776,157567
+1328,Rural,Incomplete Primary,Male,20,0,-68594,144749
+12510,Rural,Incomplete Primary,Male,18,0,-39531,173812
+2457,Rural,No Education,Male,45,4,-77888,135455
+8092,Rural,Incomplete Primary,Female,16,0,-105836,107507
+10237,Rural,No Education,Male,26,1,-31377,181966
+8733,Rural,Incomplete Secondary,Male,23,1,-26536,186807
+8673,Rural,Incomplete Primary,Male,37,7,-12703,200640
+11302,Rural,No Education,Male,27,3,-92309,121034
+14646,Rural,No Education,Female,45,6,-87225,126118
+13156,Rural,No Education,Male,35,10,-50842,162501
+2332,Rural,No Education,Male,40,8,-58810,154533
+12114,Rural,No Education,Male,25,3,-59583,153760
+3922,Rural,Incomplete Secondary,Male,20,2,-28803,184540
+2550,Urban,No Education,Female,28,0,190668,404011
+8352,Rural,Complete Primary,Female,17,0,-66033,147310
+6211,Rural,Incomplete Primary,Male,18,0,-62815,150528
+11538,Rural,No Education,Male,26,3,-41151,172192
+579,Urban,Incomplete Primary,Female,15,0,38358,251701
+8982,Rural,Incomplete Primary,Male,18,1,-36822,176521
+4849,Rural,No Education,Male,42,3,-47019,166324
+9599,Urban,Incomplete Secondary,Female,40,1,182789,396132
+10316,Urban,Incomplete Secondary,Male,23,0,51452,264795
+2880,Rural,No Education,Male,46,7,-17726,195617
+11982,Rural,No Education,Female,42,1,-44027,169316
+15039,Rural,No Education,Male,35,6,-77532,135811
+1666,Urban,Higher,Male,36,0,91741,305084
+4464,Rural,No Education,Male,35,5,997,214340
+6933,Urban,Higher,Female,23,0,97668,311011
+2583,Urban,No Education,Female,30,1,107596,320939
+9727,Urban,Complete Primary,Male,20,1,137532,350875
+7692,Urban,Higher,Female,24,0,116258,329601
+13590,Urban,Incomplete Primary,Female,20,0,243053,456396
+725,Urban,Higher,Male,40,0,194498,407841
+10438,Rural,No Education,Female,26,5,-55714,157629
+3822,Urban,Incomplete Secondary,Female,17,0,208501,421844
+12187,Urban,Incomplete Secondary,Female,19,0,41553,254896
+4078,Rural,Incomplete Primary,Male,34,5,-20664,192679
+1154,Urban,Incomplete Secondary,Male,16,0,137582,350925
+14205,Rural,No Education,Female,40,4,-108186,105157
+13557,Rural,Incomplete Primary,Male,15,0,-48800,164543
+4755,Rural,No Education,Male,42,7,-63433,149910
+448,Urban,Higher,Male,30,1,268449,481792
+1792,Rural,No Education,Male,40,6,-32910,180433
+10456,Rural,No Education,Male,28,2,-49583,163760
+13580,Rural,No Education,Female,26,1,-90694,122649
+10676,Rural,No Education,Male,24,3,-67023,146320
+11316,Urban,Complete Primary,Female,32,0,73527,286870
+13033,Urban,No Education,Female,45,5,-878,212465
+945,Rural,No Education,Female,35,3,-53904,159439
+2169,Urban,Higher,Female,34,0,244162,457505
+5684,Rural,No Education,Male,36,7,-101281,112062
+4437,Rural,No Education,Male,23,1,-68006,145337
+2334,Rural,No Education,Male,39,8,-72390,140953
+9536,Urban,Incomplete Primary,Male,38,3,154114,367457
+876,Rural,No Education,Male,43,5,-141340,72003
+4746,Urban,Incomplete Secondary,Male,37,0,254676,468019
+2946,Rural,No Education,Male,45,4,-55872,157471
+9905,Rural,Incomplete Primary,Male,23,2,-31226,182117
+11611,Rural,No Education,Female,23,1,-97303,116040
+8100,Rural,No Education,Male,26,5,-57333,156010
+1316,Rural,Incomplete Primary,Male,25,5,-77357,135986
+10612,Rural,No Education,Female,32,4,-65896,147447
+6619,Urban,Higher,Female,29,1,206919,420262
+7898,Rural,Incomplete Primary,Male,20,0,-55081,158262
+9056,Rural,No Education,Female,49,3,-20601,192742
+15331,Rural,No Education,Male,16,0,-112177,101166
+8065,Urban,No Education,Male,37,4,66837,280180
+15666,Urban,Higher,Male,37,4,224291,437634
+3652,Urban,Higher,Female,20,0,194066,407409
+4392,Rural,Incomplete Primary,Male,20,1,-49917,163426
+13417,Urban,No Education,Male,40,2,129739,343082
+4448,Rural,Higher,Female,25,0,-12330,201013
+9948,Urban,Higher,Male,38,2,219839,433182
+12449,Rural,No Education,Male,40,5,-74862,138481
+12495,Rural,Incomplete Secondary,Female,20,0,-16930,196413
+13902,Rural,No Education,Male,28,0,-119797,93546
+13867,Rural,No Education,Male,28,1,-50268,163075
+8284,Rural,Incomplete Secondary,Male,16,0,-40964,172379
+2134,Urban,Complete Primary,Male,31,1,148261,361604
+10477,Rural,No Education,Male,38,8,-38618,174725
+13006,Rural,Incomplete Primary,Male,17,0,-37821,175522
+1627,Rural,No Education,Male,30,5,-464,212879
+5558,Urban,Complete Primary,Male,20,1,115544,328887
+8291,Rural,Complete Primary,Female,15,0,-80348,132995
+1238,Rural,No Education,Male,27,2,-47743,165600
+4418,Urban,Incomplete Secondary,Male,17,0,104322,317665
+12297,Rural,No Education,Male,17,0,-79892,133451
+10858,Rural,No Education,Male,40,0,-61730,151613
+14655,Rural,No Education,Male,44,11,-49779,163564
+1802,Rural,No Education,Male,16,0,-93576,119767
+9620,Rural,No Education,Male,24,4,-44505,168838
+9689,Rural,No Education,Male,45,7,-59601,153742
+4982,Rural,Incomplete Primary,Male,21,0,-44826,168517
+12074,Urban,No Education,Female,45,1,85562,298905
+1356,Urban,Complete Secondary,Male,40,9,275167,488510
+980,Rural,No Education,Female,47,9,-34008,179335
+12647,Rural,No Education,Male,32,4,-60066,153277
+10866,Urban,Incomplete Secondary,Female,25,1,142445,355788
+1098,Rural,Complete Primary,Male,17,0,-21504,191839
+11902,Urban,Incomplete Primary,Female,16,0,-77472,135871
+1019,Urban,Incomplete Secondary,Male,23,1,97331,310674
+2956,Rural,Incomplete Primary,Male,20,1,-49052,164291
+7112,Urban,Complete Secondary,Male,39,1,264306,477649
+13881,Rural,Complete Primary,Male,15,0,-49140,164203
+1706,Urban,Higher,Male,29,1,212182,425525
+10670,Urban,Complete Primary,Male,23,1,39934,253277
+3257,Rural,Incomplete Primary,Female,18,1,-60663,152680
+5891,Rural,No Education,Male,30,4,-55713,157630
+7333,Urban,Complete Secondary,Male,45,4,171540,384883
+14840,Rural,No Education,Male,21,0,-81217,132126
+3030,Rural,No Education,Male,40,4,-31319,182024
+4443,Rural,No Education,Male,40,5,-55103,158240
+2076,Rural,No Education,Male,35,8,-70096,143247
+12718,Rural,Incomplete Primary,Male,30,2,-46077,167266
+950,Rural,Complete Primary,Male,17,0,-20503,192840
+13176,Rural,No Education,Female,18,0,-119388,93955
+10070,Rural,No Education,Male,43,6,-21828,191515
+2992,Rural,No Education,Male,28,4,-2459,210884
+6502,Urban,Incomplete Secondary,Female,22,1,164206,377549
+8261,Rural,Incomplete Primary,Female,30,1,28500,241843
+4314,Rural,No Education,Male,30,5,-132174,81169
+2068,Rural,Incomplete Primary,Male,22,2,-52094,161249
+14676,Rural,Incomplete Primary,Male,18,0,-70076,143267
+1509,Rural,No Education,Male,45,2,-35454,177889
+10085,Rural,Incomplete Primary,Male,34,5,8575,221918
+2716,Rural,Incomplete Primary,Female,40,8,-30309,183034
+6591,Rural,Incomplete Primary,Male,28,4,-44279,169064
+9695,Rural,Incomplete Secondary,Male,28,0,-27420,185923
+1567,Urban,Incomplete Primary,Male,18,0,258328,471671
+14063,Rural,Incomplete Secondary,Female,18,0,-40325,173018
+15234,Rural,No Education,Female,32,3,-52795,160548
+1603,Rural,No Education,Male,25,3,-52159,161184
+322,Urban,Incomplete Primary,Male,27,4,-8138,205205
+12132,Rural,Incomplete Primary,Male,28,2,5159,218502
+5517,Urban,Incomplete Secondary,Male,24,0,106241,319584
+10904,Rural,No Education,Male,41,6,-47305,166038
+7901,Rural,Incomplete Secondary,Female,17,0,-35848,177495
+7862,Rural,No Education,Female,34,3,-63771,149572
+13007,Rural,Incomplete Secondary,Male,21,0,-37821,175522
+12446,Rural,No Education,Male,20,2,-54409,158934
+8483,Rural,Incomplete Primary,Male,25,1,-35350,177993
+6393,Urban,Incomplete Primary,Female,28,0,271087,484430
+5810,Urban,Incomplete Primary,Male,28,2,133909,347252
+14763,Rural,No Education,Male,20,1,-38181,175162
+12494,Rural,No Education,Male,40,9,-18445,194898
+15166,Rural,No Education,Female,23,0,-24954,188389
+264,Urban,Incomplete Primary,Female,17,0,57647,270990
+11891,Urban,No Education,Female,41,3,31050,244393
+4148,Urban,Complete Secondary,Female,32,2,217488,430831
+5641,Rural,No Education,Female,38,4,-56749,156594
+4171,Urban,No Education,Male,37,8,-133306,80037
+11462,Rural,No Education,Female,30,3,-46732,166611
+9382,Urban,Incomplete Primary,Female,42,2,151117,364460

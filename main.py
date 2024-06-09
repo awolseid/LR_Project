@@ -14,7 +14,7 @@ from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
 
 if __name__=="__main__":
-    reading_data_path = "notebook\data\ImpactCOVID.csv"
+    reading_data_path = "notebook\data\WomenDHS.csv"
     
     data_object = Data()
     data_df = data_object.import_data(reading_data_path=reading_data_path)
@@ -23,9 +23,9 @@ if __name__=="__main__":
     data_saving_folder = "input_data"
     train_data_path, test_data_path = data_object.save_split_data(saving_folder=data_saving_folder)
 
-    target_variable = "EconomicImpact"
-    numerical_inputs = ['Age', 'NumRooms']
-    categorical_inputs = ['Sex', 'Marital', 'Education', 'Employment', 'Income']
+    target_variable = "WealthIndex"
+    numerical_inputs = ['Age', 'NumChild']
+    categorical_inputs = ['Residence','HouseHeadSex', 'Education']
 
     transformer = Transformer(target_variable, numerical_inputs, categorical_inputs)
 
