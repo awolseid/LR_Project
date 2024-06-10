@@ -12,6 +12,7 @@ from sklearn.linear_model import LinearRegression, Ridge, Lasso, ElasticNet
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
+from src
 
 if __name__=="__main__":
     reading_data_path = "notebook\data\WomenDHS.csv"
@@ -89,3 +90,10 @@ if __name__=="__main__":
 
     trained_models_saving_folder = "trained_models"
     trained_models_saving_folder = model_object.save_trained_models(saving_folder=trained_models_saving_folder)
+
+
+    preprocessor_path = "artifacts\input_processor\preprocessor.pkl"
+    model_path =  "artifacts\trained_models\Gradient Boosting.pkl"
+    
+    import app
+    app.run(host="0.0.0.0", debug=True)
