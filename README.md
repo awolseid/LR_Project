@@ -4,53 +4,42 @@
 ```
 ML_Project/
 ├── config/
-│   ├── config.yaml           # Configuration file for hyperparameters, paths, etc.
+│   ├── config.yaml                         # Configuration file for hyperparameters, paths, etc.
 │   ├── __init__.py
 ├── data/
-│   ├── raw/                  # Raw, unprocessed data
-│   ├── processed/            # Processed data ready for model consumption
-│   ├── __init__.py
-├── logs/
-│   ├── training.log          # Log file for training process
-│   ├── evaluation.log        # Log file for model evaluation
-│   ├── __init__.py
+│   ├── raw/                                # Folder to save raw data
+│   ├── train_test/                         # Folder to save train and test data
+│   ├── transformer/                        # Folder to save pickle file of transformer
+├── logs/                                   # Folder to save log files
+│   ├── mm_dd_HH_MM_SS.log                  # Log file example
 ├── models/
-│   ├── saved/                # Folder to save trained models
-│   ├── __init__.py
-├── notebooks/
-│   ├── exploratory_data_analysis.ipynb   # Jupyter notebook for EDA
-│   ├── model_training.ipynb              # Jupyter notebook for model training
-│   ├── __init__.py
-├── scripts/
-│   ├── train.py              # Main training script
-│   ├── evaluate.py           # Script for evaluating the model
-│   ├── deploy.py             # Script for deploying the model
-│   ├── __init__.py
+│   ├── trained_models/                     # Folder to save pickle file of trained models
+│   ├── train_test_scores.csv               # Train and test performance scores
+├── notebooks/                              # Folder of EDA notebook and original data
 ├── src/
-│   ├── data_preprocessing/
-│   │   ├── data_loader.py    # Script for loading data
-│   │   ├── data_cleaner.py   # Script for cleaning data
+│   ├── components/
+│   │   ├── data_loader.py                  # Script for loading data
+│   │   ├── data_cleaner.py                 # Script for cleaning data
+│   │   ├── data_transformer.py             # Script for transforming data
+│   │   ├── model_trainer.py                # Script for training model
 │   │   ├── __init__.py
-│   ├── models/
-│   │   ├── model.py          # Model definition
-│   │   ├── trainer.py        # Training logic
-│   │   ├── evaluator.py      # Evaluation logic
-│   │   ├── __init__.py
-│   ├── utils/
-│   │   ├── logger.py         # Logger setup
-│   │   ├── utils.py          # Utility functions
-│   │   ├── __init__.py
-│   ├── exceptions/
-│   │   ├── custom_exceptions.py  # Custom exceptions
-│   │   ├── __init__.py
+│   ├── utils.py                            # Script for utility functions
+│   ├── logger.py                           # Script for logs
+│   ├── exception.py                        # Script for custom exceptions
 │   ├── __init__.py
 ├── tests/
-│   ├── test_data_loader.py   # Unit tests for data loader
-│   ├── test_model.py         # Unit tests for model
+│   ├── test_data_loader.py                 # Unit tests for data loader
+│   ├── test_model_trainer.py               # Unit tests for model
 │   ├── __init__.py
+├── prediction/
+│   ├── templates/                          # Templates for model deployment
+|   ├── prediction.py                       # Script for making prediction 
+│   ├── __init__.py
+├── train.py                                # Script for training model
+├── deploy.py                               # Script for deploying trained model using Flask
+├── requirements.txt                        # List of dependencies
+├── setup.py                                # Setup script for packaging
 ├── .gitignore
-├── README.md
-├── requirements.txt          # List of dependencies
-└── setup.py                  # Setup script for packaging the project
+└── README.md
 
 ```
