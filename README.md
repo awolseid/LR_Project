@@ -2,10 +2,7 @@
 ###
 
 ```
-ML_Project/
-├── config/
-│   ├── config.yaml                         # Configuration file for hyperparameters, paths, etc.
-│   ├── __init__.py
+Project/
 ├── data/
 │   ├── raw/                                # Folder to save raw data
 │   ├── train_test/                         # Folder to save train and test data
@@ -26,10 +23,6 @@ ML_Project/
 │   ├── utils.py                            # Script for utility functions
 │   ├── logger.py                           # Script for logs
 │   ├── exception.py                        # Script for custom exceptions
-│   ├── __init__.py
-├── tests/
-│   ├── test_data_loader.py                 # Unit tests for data loader
-│   ├── test_model_trainer.py               # Unit tests for model
 │   ├── __init__.py
 ├── prediction/
 │   ├── templates/                          # Templates for model deployment
