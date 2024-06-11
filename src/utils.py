@@ -16,7 +16,7 @@ from src.exception import CustomException
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 
-def data_preprocessor(numerical_inputs: list, categorical_inputs: list):
+def data_transformation(numerical_inputs: list, categorical_inputs: list):
     try:
         numerical_preprocessing = Pipeline(steps=[
             ("imputer", SimpleImputer(strategy="median")),
@@ -41,9 +41,7 @@ def data_preprocessor(numerical_inputs: list, categorical_inputs: list):
 def save_object(file_path, object):
     try:
         dir_path=os.path.dirname(file_path)
-
         os.makedirs(dir_path, exist_ok=True)
-
         with open(file_path, "wb") as file_obj:
             dill.dump(object, file_obj)
 
